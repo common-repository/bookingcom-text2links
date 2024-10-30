@@ -1,0 +1,592 @@
+[
+   {
+      "word":"Ağva",
+      "link":"//www.booking.com/city/tr/yesilcay.html",
+      "title":"Căutaţi o unitate de cazare în Ağva"
+   },
+   {
+      "word":"Al Madinah",
+      "link":"//www.booking.com/city/sa/medina.html",
+      "title":"Căutaţi o unitate de cazare în Al Madinah"
+   },
+   {
+      "word":"Alicante",
+      "link":"//www.booking.com/city/es/alicante.html",
+      "title":"Căutaţi o unitate de cazare în Alicante"
+   },
+   {
+      "word":"Amsterdam",
+      "link":"//www.booking.com/city/nl/amsterdam.html",
+      "title":"Căutaţi o unitate de cazare în Amsterdam"
+   },
+   {
+      "word":"Atlantic City",
+      "link":"//www.booking.com/city/us/atlantic-city.html",
+      "title":"Căutaţi o unitate de cazare în Atlantic City"
+   },
+   {
+      "word":"Barcelona",
+      "link":"//www.booking.com/city/es/barcelona.html",
+      "title":"Căutaţi o unitate de cazare în Barcelona"
+   },
+   {
+      "word":"Benidorm",
+      "link":"//www.booking.com/city/es/benidorm.html",
+      "title":"Căutaţi o unitate de cazare în Benidorm"
+   },
+   {
+      "word":"Berlin",
+      "link":"//www.booking.com/city/de/berlin.html",
+      "title":"Căutaţi o unitate de cazare în Berlin"
+   },
+   {
+      "word":"Blackpool",
+      "link":"//www.booking.com/city/gb/blackpool.html",
+      "title":"Căutaţi o unitate de cazare în Blackpool"
+   },
+   {
+      "word":"Brighton & Hove",
+      "link":"//www.booking.com/city/gb/brighton.html",
+      "title":"Căutaţi o unitate de cazare în Brighton & Hove"
+   },
+   {
+      "word":"Cádiz",
+      "link":"//www.booking.com/city/es/cadiz.html",
+      "title":"Căutaţi o unitate de cazare în Cádiz"
+   },
+   {
+      "word":"Caldas Novas",
+      "link":"//www.booking.com/city/br/caldas-novas.html",
+      "title":"Căutaţi o unitate de cazare în Caldas Novas"
+   },
+   {
+      "word":"Campos do Jordão",
+      "link":"//www.booking.com/city/br/campos-do-jordao.html",
+      "title":"Căutaţi o unitate de cazare în Campos do Jordão"
+   },
+   {
+      "word":"Cardiff",
+      "link":"//www.booking.com/city/gb/cardiff.html",
+      "title":"Căutaţi o unitate de cazare în Cardiff"
+   },
+   {
+      "word":"Conil de la Frontera",
+      "link":"//www.booking.com/city/es/conil-de-la-frontera.html",
+      "title":"Căutaţi o unitate de cazare în Conil de la Frontera"
+   },
+   {
+      "word":"Deauville",
+      "link":"//www.booking.com/city/fr/deauville-les-bains.html",
+      "title":"Căutaţi o unitate de cazare în Deauville"
+   },
+   {
+      "word":"Destin",
+      "link":"//www.booking.com/city/us/destin.html",
+      "title":"Căutaţi o unitate de cazare în Destin"
+   },
+   {
+      "word":"Dresda",
+      "link":"//www.booking.com/city/de/dresden.html",
+      "title":"Căutaţi o unitate de cazare în Dresda"
+   },
+   {
+      "word":"Dubai",
+      "link":"//www.booking.com/city/ae/dubai.html",
+      "title":"Căutaţi o unitate de cazare în Dubai"
+   },
+   {
+      "word":"Dublin",
+      "link":"//www.booking.com/city/ie/dublin.html",
+      "title":"Căutaţi o unitate de cazare în Dublin"
+   },
+   {
+      "word":"Edinburgh",
+      "link":"//www.booking.com/city/gb/edinburgh.html",
+      "title":"Căutaţi o unitate de cazare în Edinburgh"
+   },
+   {
+      "word":"Eilat",
+      "link":"//www.booking.com/city/il/elat.html",
+      "title":"Căutaţi o unitate de cazare în Eilat"
+   },
+   {
+      "word":"El Puerto de Santa María",
+      "link":"//www.booking.com/city/es/el-puerto-de-santa-maria.html",
+      "title":"Căutaţi o unitate de cazare în El Puerto de Santa María"
+   },
+   {
+      "word":"Estepona",
+      "link":"//www.booking.com/city/es/estepona.html",
+      "title":"Căutaţi o unitate de cazare în Estepona"
+   },
+   {
+      "word":"Étretat",
+      "link":"//www.booking.com/city/fr/etretat.html",
+      "title":"Căutaţi o unitate de cazare în Étretat"
+   },
+   {
+      "word":"Favignana",
+      "link":"//www.booking.com/city/it/favignana.html",
+      "title":"Căutaţi o unitate de cazare în Favignana"
+   },
+   {
+      "word":"Florenţa",
+      "link":"//www.booking.com/city/it/florence.html",
+      "title":"Căutaţi o unitate de cazare în Florenţa"
+   },
+   {
+      "word":"Fortaleza",
+      "link":"//www.booking.com/city/br/fortaleza.html",
+      "title":"Căutaţi o unitate de cazare în Fortaleza"
+   },
+   {
+      "word":"Forte dei Marmi",
+      "link":"//www.booking.com/city/it/forte-dei-marmi.html",
+      "title":"Căutaţi o unitate de cazare în Forte dei Marmi"
+   },
+   {
+      "word":"Fuengirola",
+      "link":"//www.booking.com/city/es/fuengirola.html",
+      "title":"Căutaţi o unitate de cazare în Fuengirola"
+   },
+   {
+      "word":"Galveston",
+      "link":"//www.booking.com/city/us/galveston.html",
+      "title":"Căutaţi o unitate de cazare în Galveston"
+   },
+   {
+      "word":"Gandía",
+      "link":"//www.booking.com/city/es/gandia.html",
+      "title":"Căutaţi o unitate de cazare în Gandía"
+   },
+   {
+      "word":"Glasgow",
+      "link":"//www.booking.com/city/gb/glasgow.html",
+      "title":"Căutaţi o unitate de cazare în Glasgow"
+   },
+   {
+      "word":"Göteborg",
+      "link":"//www.booking.com/city/se/goteborg.html",
+      "title":"Căutaţi o unitate de cazare în Göteborg"
+   },
+   {
+      "word":"Gramado",
+      "link":"//www.booking.com/city/br/gramado-br.html",
+      "title":"Căutaţi o unitate de cazare în Gramado"
+   },
+   {
+      "word":"Hamburg",
+      "link":"//www.booking.com/city/de/hamburg.html",
+      "title":"Căutaţi o unitate de cazare în Hamburg"
+   },
+   {
+      "word":"Helsinki",
+      "link":"//www.booking.com/city/fi/helsinki.html",
+      "title":"Căutaţi o unitate de cazare în Helsinki"
+   },
+   {
+      "word":"Hilton Head Island",
+      "link":"//www.booking.com/city/us/hilton-head-island.html",
+      "title":"Căutaţi o unitate de cazare în Hilton Head Island"
+   },
+   {
+      "word":"Hong Kong",
+      "link":"//www.booking.com/city/hk/hong-kong.html",
+      "title":"Căutaţi o unitate de cazare în Hong Kong"
+   },
+   {
+      "word":"Huelva",
+      "link":"//www.booking.com/city/es/huelva.html",
+      "title":"Căutaţi o unitate de cazare în Huelva"
+   },
+   {
+      "word":"Ischia",
+      "link":"//www.booking.com/city/it/ischia.html",
+      "title":"Căutaţi o unitate de cazare în Ischia"
+   },
+   {
+      "word":"Isla Canela",
+      "link":"//www.booking.com/city/es/isla-de-canela.html",
+      "title":"Căutaţi o unitate de cazare în Isla Canela"
+   },
+   {
+      "word":"Islantilla",
+      "link":"//www.booking.com/city/es/islantilla.html",
+      "title":"Căutaţi o unitate de cazare în Islantilla"
+   },
+   {
+      "word":"Istanbul",
+      "link":"//www.booking.com/city/tr/istanbul.html",
+      "title":"Căutaţi o unitate de cazare în Istanbul"
+   },
+   {
+      "word":"İzmir",
+      "link":"//www.booking.com/city/tr/izmir.html",
+      "title":"Căutaţi o unitate de cazare în İzmir"
+   },
+   {
+      "word":"Jasper",
+      "link":"//www.booking.com/city/ca/jasper.html",
+      "title":"Căutaţi o unitate de cazare în Jasper"
+   },
+   {
+      "word":"Jávea",
+      "link":"//www.booking.com/city/es/javea.html",
+      "title":"Căutaţi o unitate de cazare în Jávea"
+   },
+   {
+      "word":"Jeddah",
+      "link":"//www.booking.com/city/sa/jiddah.html",
+      "title":"Căutaţi o unitate de cazare în Jeddah"
+   },
+   {
+      "word":"Jericoacoara",
+      "link":"//www.booking.com/city/br/jericoacoara.html",
+      "title":"Căutaţi o unitate de cazare în Jericoacoara"
+   },
+   {
+      "word":"João Pessoa",
+      "link":"//www.booking.com/city/br/joao-pessoa.html",
+      "title":"Căutaţi o unitate de cazare în João Pessoa"
+   },
+   {
+      "word":"Key West",
+      "link":"//www.booking.com/city/us/key-west.html",
+      "title":"Căutaţi o unitate de cazare în Key West"
+   },
+   {
+      "word":"Köln",
+      "link":"//www.booking.com/city/de/cologne.html",
+      "title":"Căutaţi o unitate de cazare în Köln"
+   },
+   {
+      "word":"Constanţa",
+      "link":"//www.booking.com/city/de/konstanz.html",
+      "title":"Căutaţi o unitate de cazare în Constanţa"
+   },
+   {
+      "word":"Cracovia",
+      "link":"//www.booking.com/city/pl/krakow.html",
+      "title":"Căutaţi o unitate de cazare în Cracovia"
+   },
+   {
+      "word":"Kuala Lumpur",
+      "link":"//www.booking.com/city/my/kuala-lumpur.html",
+      "title":"Căutaţi o unitate de cazare în Kuala Lumpur"
+   },
+   {
+      "word":"Las Vegas",
+      "link":"//www.booking.com/city/us/las-vegas.html",
+      "title":"Căutaţi o unitate de cazare în Las Vegas"
+   },
+   {
+      "word":"Leeds",
+      "link":"//www.booking.com/city/gb/leeds.html",
+      "title":"Căutaţi o unitate de cazare în Leeds"
+   },
+   {
+      "word":"Lido di Jesolo",
+      "link":"//www.booking.com/city/it/lido-di-jesolo.html",
+      "title":"Căutaţi o unitate de cazare în Lido di Jesolo"
+   },
+   {
+      "word":"Liverpool",
+      "link":"//www.booking.com/city/gb/liverpool.html",
+      "title":"Căutaţi o unitate de cazare în Liverpool"
+   },
+   {
+      "word":"Londra",
+      "link":"//www.booking.com/city/gb/london.html",
+      "title":"Căutaţi o unitate de cazare în Londra"
+   },
+   {
+      "word":"Madrid",
+      "link":"//www.booking.com/city/es/madrid.html",
+      "title":"Căutaţi o unitate de cazare în Madrid"
+   },
+   {
+      "word":"Makkah",
+      "link":"//www.booking.com/city/sa/mecca.html",
+      "title":"Căutaţi o unitate de cazare în Makkah"
+   },
+   {
+      "word":"Manchester",
+      "link":"//www.booking.com/city/gb/manchester.html",
+      "title":"Căutaţi o unitate de cazare în Manchester"
+   },
+   {
+      "word":"München",
+      "link":"//www.booking.com/city/de/munich.html",
+      "title":"Căutaţi o unitate de cazare în München"
+   },
+   {
+      "word":"Myrtle Beach",
+      "link":"//www.booking.com/city/us/myrtle-beach.html",
+      "title":"Căutaţi o unitate de cazare în Myrtle Beach"
+   },
+   {
+      "word":"Nashville",
+      "link":"//www.booking.com/city/us/nashville.html",
+      "title":"Căutaţi o unitate de cazare în Nashville"
+   },
+   {
+      "word":"New York",
+      "link":"//www.booking.com/city/us/new-york.html",
+      "title":"Căutaţi o unitate de cazare în New York"
+   },
+   {
+      "word":"Newcastle upon Tyne",
+      "link":"//www.booking.com/city/gb/newcastle-upon-tyne.html",
+      "title":"Căutaţi o unitate de cazare în Newcastle upon Tyne"
+   },
+   {
+      "word":"Nisa",
+      "link":"//www.booking.com/city/fr/nice.html",
+      "title":"Căutaţi o unitate de cazare în Nisa"
+   },
+   {
+      "word":"Norderney",
+      "link":"//www.booking.com/city/de/norderney.html",
+      "title":"Căutaţi o unitate de cazare în Norderney"
+   },
+   {
+      "word":"Ocean City",
+      "link":"//www.booking.com/city/us/ocean-city.html",
+      "title":"Căutaţi o unitate de cazare în Ocean City"
+   },
+   {
+      "word":"Orange Beach",
+      "link":"//www.booking.com/city/us/orange-beach.html",
+      "title":"Căutaţi o unitate de cazare în Orange Beach"
+   },
+   {
+      "word":"Orlando",
+      "link":"//www.booking.com/city/us/orlando.html",
+      "title":"Căutaţi o unitate de cazare în Orlando"
+   },
+   {
+      "word":"Oropesa del Mar",
+      "link":"//www.booking.com/city/es/oropesa.html",
+      "title":"Căutaţi o unitate de cazare în Oropesa del Mar"
+   },
+   {
+      "word":"Oxford",
+      "link":"//www.booking.com/city/gb/oxford.html",
+      "title":"Căutaţi o unitate de cazare în Oxford"
+   },
+   {
+      "word":"Panama City Beach",
+      "link":"//www.booking.com/city/us/panama-city-beach.html",
+      "title":"Căutaţi o unitate de cazare în Panama City Beach"
+   },
+   {
+      "word":"Paris",
+      "link":"//www.booking.com/city/fr/paris.html",
+      "title":"Căutaţi o unitate de cazare în Paris"
+   },
+   {
+      "word":"Peñíscola",
+      "link":"//www.booking.com/city/es/peniscola.html",
+      "title":"Căutaţi o unitate de cazare în Peñíscola"
+   },
+   {
+      "word":"Pigeon Forge",
+      "link":"//www.booking.com/city/us/pigeon-forge.html",
+      "title":"Căutaţi o unitate de cazare în Pigeon Forge"
+   },
+   {
+      "word":"Punta Umbría",
+      "link":"//www.booking.com/city/es/punta-umbria.html",
+      "title":"Căutaţi o unitate de cazare în Punta Umbría"
+   },
+   {
+      "word":"Quebec City",
+      "link":"//www.booking.com/city/ca/quebec.html",
+      "title":"Căutaţi o unitate de cazare în Quebec City"
+   },
+   {
+      "word":"Quedlinburg",
+      "link":"//www.booking.com/city/de/quedlinburg.html",
+      "title":"Căutaţi o unitate de cazare în Quedlinburg"
+   },
+   {
+      "word":"Quito",
+      "link":"//www.booking.com/city/ec/quito.html",
+      "title":"Căutaţi o unitate de cazare în Quito"
+   },
+   {
+      "word":"Riccione",
+      "link":"//www.booking.com/city/it/riccione-marina.html",
+      "title":"Căutaţi o unitate de cazare în Riccione"
+   },
+   {
+      "word":"Rimini",
+      "link":"//www.booking.com/city/it/rimini.html",
+      "title":"Căutaţi o unitate de cazare în Rimini"
+   },
+   {
+      "word":"Rio de Janeiro",
+      "link":"//www.booking.com/city/br/rio-de-janeiro.html",
+      "title":"Căutaţi o unitate de cazare în Rio de Janeiro"
+   },
+   {
+      "word":"Roma",
+      "link":"//www.booking.com/city/it/rome.html",
+      "title":"Căutaţi o unitate de cazare în Roma"
+   },
+   {
+      "word":"Roquetas de Mar",
+      "link":"//www.booking.com/city/es/roquetas-de-mar.html",
+      "title":"Căutaţi o unitate de cazare în Roquetas de Mar"
+   },
+   {
+      "word":"Salou",
+      "link":"//www.booking.com/city/es/salou.html",
+      "title":"Căutaţi o unitate de cazare în Salou"
+   },
+   {
+      "word":"Sevilia",
+      "link":"//www.booking.com/city/es/sevilla.html",
+      "title":"Căutaţi o unitate de cazare în Sevilia"
+   },
+   {
+      "word":"Sharm El Sheikh",
+      "link":"//www.booking.com/city/eg/sherm-el-sheikh.html",
+      "title":"Căutaţi o unitate de cazare în Sharm El Sheikh"
+   },
+   {
+      "word":"Singapore",
+      "link":"//www.booking.com/city/sg/singapore.html",
+      "title":"Căutaţi o unitate de cazare în Singapore"
+   },
+   {
+      "word":"Stockholm",
+      "link":"//www.booking.com/city/se/stockholm.html",
+      "title":"Căutaţi o unitate de cazare în Stockholm"
+   },
+   {
+      "word":"Turin",
+      "link":"//www.booking.com/city/it/torino.html",
+      "title":"Căutaţi o unitate de cazare în Turin"
+   },
+   {
+      "word":"Toronto",
+      "link":"//www.booking.com/city/ca/toronto.html",
+      "title":"Căutaţi o unitate de cazare în Toronto"
+   },
+   {
+      "word":"Torquay",
+      "link":"//www.booking.com/city/gb/torquay.html",
+      "title":"Căutaţi o unitate de cazare în Torquay"
+   },
+   {
+      "word":"Torremolinos",
+      "link":"//www.booking.com/city/es/torremolinos.html",
+      "title":"Căutaţi o unitate de cazare în Torremolinos"
+   },
+   {
+      "word":"Tybee Island",
+      "link":"//www.booking.com/city/us/tybee-island.html",
+      "title":"Căutaţi o unitate de cazare în Tybee Island"
+   },
+   {
+      "word":"Umag",
+      "link":"//www.booking.com/city/hr/umag.html",
+      "title":"Căutaţi o unitate de cazare în Umag"
+   },
+   {
+      "word":"Uzungöl",
+      "link":"//www.booking.com/city/tr/uzungol.html",
+      "title":"Căutaţi o unitate de cazare în Uzungöl"
+   },
+   {
+      "word":"Valencia",
+      "link":"//www.booking.com/city/es/valencia.html",
+      "title":"Căutaţi o unitate de cazare în Valencia"
+   },
+   {
+      "word":"Vancouver",
+      "link":"//www.booking.com/city/ca/vancouver.html",
+      "title":"Căutaţi o unitate de cazare în Vancouver"
+   },
+   {
+      "word":"Varazze",
+      "link":"//www.booking.com/city/it/varazze.html",
+      "title":"Căutaţi o unitate de cazare în Varazze"
+   },
+   {
+      "word":"Veneţia",
+      "link":"//www.booking.com/city/it/venice.html",
+      "title":"Căutaţi o unitate de cazare în Veneţia"
+   },
+   {
+      "word":"Vieste",
+      "link":"//www.booking.com/city/it/vieste.html",
+      "title":"Căutaţi o unitate de cazare în Vieste"
+   },
+   {
+      "word":"Virginia Beach",
+      "link":"//www.booking.com/city/us/virginia-beach.html",
+      "title":"Căutaţi o unitate de cazare în Virginia Beach"
+   },
+   {
+      "word":"Warnemünde",
+      "link":"//www.booking.com/city/de/warnemunde.html",
+      "title":"Căutaţi o unitate de cazare în Warnemünde"
+   },
+   {
+      "word":"Varşovia",
+      "link":"//www.booking.com/city/pl/warsaw.html",
+      "title":"Căutaţi o unitate de cazare în Varşovia"
+   },
+   {
+      "word":"Whitby",
+      "link":"//www.booking.com/city/gb/whitby-aireborough.html",
+      "title":"Căutaţi o unitate de cazare în Whitby"
+   },
+   {
+      "word":"Viena",
+      "link":"//www.booking.com/city/at/vienna.html",
+      "title":"Căutaţi o unitate de cazare în Viena"
+   },
+   {
+      "word":"Wildwood",
+      "link":"//www.booking.com/city/us/wildwood.html",
+      "title":"Căutaţi o unitate de cazare în Wildwood"
+   },
+   {
+      "word":"Yalta",
+      "link":"//www.booking.com/city/ua/yalta.html",
+      "title":"Căutaţi o unitate de cazare în Yalta"
+   },
+   {
+      "word":"Yevpatoriya",
+      "link":"//www.booking.com/city/ua/yevpatoriya.html",
+      "title":"Căutaţi o unitate de cazare în Yevpatoriya"
+   },
+   {
+      "word":"Zahara de los Atunes",
+      "link":"//www.booking.com/city/es/zahara-de-los-atunes.html",
+      "title":"Căutaţi o unitate de cazare în Zahara de los Atunes"
+   },
+   {
+      "word":"Zakopane",
+      "link":"//www.booking.com/city/pl/zakopane.html",
+      "title":"Căutaţi o unitate de cazare în Zakopane"
+   },
+   {
+      "word":"Zandvoort",
+      "link":"//www.booking.com/city/nl/zandvoort.html",
+      "title":"Căutaţi o unitate de cazare în Zandvoort"
+   },
+   {
+      "word":"Zaragoza",
+      "link":"//www.booking.com/city/es/zaragoza.html",
+      "title":"Căutaţi o unitate de cazare în Zaragoza"
+   },
+   {
+      "word":"Zatoka",
+      "link":"//www.booking.com/city/ua/zatoka.html",
+      "title":"Căutaţi o unitate de cazare în Zatoka"
+   }
+]

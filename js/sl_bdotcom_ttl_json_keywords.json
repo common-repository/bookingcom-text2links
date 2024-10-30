@@ -1,0 +1,592 @@
+[
+   {
+      "word":"Ağva",
+      "link":"//www.booking.com/city/tr/yesilcay.html",
+      "title":"Poišči namestitev v mestu Ağva"
+   },
+   {
+      "word":"Al Madinah",
+      "link":"//www.booking.com/city/sa/medina.html",
+      "title":"Poišči namestitev v mestu Al Madinah"
+   },
+   {
+      "word":"Alicante",
+      "link":"//www.booking.com/city/es/alicante.html",
+      "title":"Poišči namestitev v mestu Alicante"
+   },
+   {
+      "word":"Amsterdam",
+      "link":"//www.booking.com/city/nl/amsterdam.html",
+      "title":"Poišči namestitev v mestu Amsterdam"
+   },
+   {
+      "word":"Atlantic City",
+      "link":"//www.booking.com/city/us/atlantic-city.html",
+      "title":"Poišči namestitev v mestu Atlantic City"
+   },
+   {
+      "word":"Barcelona",
+      "link":"//www.booking.com/city/es/barcelona.html",
+      "title":"Poišči namestitev v mestu Barcelona"
+   },
+   {
+      "word":"Benidorm",
+      "link":"//www.booking.com/city/es/benidorm.html",
+      "title":"Poišči namestitev v mestu Benidorm"
+   },
+   {
+      "word":"Berlin",
+      "link":"//www.booking.com/city/de/berlin.html",
+      "title":"Poišči namestitev v mestu Berlin"
+   },
+   {
+      "word":"Blackpool",
+      "link":"//www.booking.com/city/gb/blackpool.html",
+      "title":"Poišči namestitev v mestu Blackpool"
+   },
+   {
+      "word":"Brighton & Hove",
+      "link":"//www.booking.com/city/gb/brighton.html",
+      "title":"Poišči namestitev v mestu Brighton & Hove"
+   },
+   {
+      "word":"Cádiz",
+      "link":"//www.booking.com/city/es/cadiz.html",
+      "title":"Poišči namestitev v mestu Cádiz"
+   },
+   {
+      "word":"Caldas Novas",
+      "link":"//www.booking.com/city/br/caldas-novas.html",
+      "title":"Poišči namestitev v mestu Caldas Novas"
+   },
+   {
+      "word":"Campos do Jordão",
+      "link":"//www.booking.com/city/br/campos-do-jordao.html",
+      "title":"Poišči namestitev v mestu Campos do Jordão"
+   },
+   {
+      "word":"Cardiff",
+      "link":"//www.booking.com/city/gb/cardiff.html",
+      "title":"Poišči namestitev v mestu Cardiff"
+   },
+   {
+      "word":"Conil de la Frontera",
+      "link":"//www.booking.com/city/es/conil-de-la-frontera.html",
+      "title":"Poišči namestitev v mestu Conil de la Frontera"
+   },
+   {
+      "word":"Deauville",
+      "link":"//www.booking.com/city/fr/deauville-les-bains.html",
+      "title":"Poišči namestitev v mestu Deauville"
+   },
+   {
+      "word":"Destin",
+      "link":"//www.booking.com/city/us/destin.html",
+      "title":"Poišči namestitev v mestu Destin"
+   },
+   {
+      "word":"Dresden",
+      "link":"//www.booking.com/city/de/dresden.html",
+      "title":"Poišči namestitev v mestu Dresden"
+   },
+   {
+      "word":"Dubaj",
+      "link":"//www.booking.com/city/ae/dubai.html",
+      "title":"Poišči namestitev v mestu Dubaj"
+   },
+   {
+      "word":"Dublin",
+      "link":"//www.booking.com/city/ie/dublin.html",
+      "title":"Poišči namestitev v mestu Dublin"
+   },
+   {
+      "word":"Edinburg",
+      "link":"//www.booking.com/city/gb/edinburgh.html",
+      "title":"Poišči namestitev v mestu Edinburg"
+   },
+   {
+      "word":"Eilat",
+      "link":"//www.booking.com/city/il/elat.html",
+      "title":"Poišči namestitev v mestu Eilat"
+   },
+   {
+      "word":"El Puerto de Santa María",
+      "link":"//www.booking.com/city/es/el-puerto-de-santa-maria.html",
+      "title":"Poišči namestitev v mestu El Puerto de Santa María"
+   },
+   {
+      "word":"Estepona",
+      "link":"//www.booking.com/city/es/estepona.html",
+      "title":"Poišči namestitev v mestu Estepona"
+   },
+   {
+      "word":"Étretat",
+      "link":"//www.booking.com/city/fr/etretat.html",
+      "title":"Poišči namestitev v mestu Étretat"
+   },
+   {
+      "word":"Favignana",
+      "link":"//www.booking.com/city/it/favignana.html",
+      "title":"Poišči namestitev v mestu Favignana"
+   },
+   {
+      "word":"Firence",
+      "link":"//www.booking.com/city/it/florence.html",
+      "title":"Poišči namestitev v mestu Firence"
+   },
+   {
+      "word":"Fortaleza",
+      "link":"//www.booking.com/city/br/fortaleza.html",
+      "title":"Poišči namestitev v mestu Fortaleza"
+   },
+   {
+      "word":"Forte dei Marmi",
+      "link":"//www.booking.com/city/it/forte-dei-marmi.html",
+      "title":"Poišči namestitev v mestu Forte dei Marmi"
+   },
+   {
+      "word":"Fuengirola",
+      "link":"//www.booking.com/city/es/fuengirola.html",
+      "title":"Poišči namestitev v mestu Fuengirola"
+   },
+   {
+      "word":"Galveston",
+      "link":"//www.booking.com/city/us/galveston.html",
+      "title":"Poišči namestitev v mestu Galveston"
+   },
+   {
+      "word":"Gandía",
+      "link":"//www.booking.com/city/es/gandia.html",
+      "title":"Poišči namestitev v mestu Gandía"
+   },
+   {
+      "word":"Glasgow",
+      "link":"//www.booking.com/city/gb/glasgow.html",
+      "title":"Poišči namestitev v mestu Glasgow"
+   },
+   {
+      "word":"Göteborg",
+      "link":"//www.booking.com/city/se/goteborg.html",
+      "title":"Poišči namestitev v mestu Göteborg"
+   },
+   {
+      "word":"Gramado",
+      "link":"//www.booking.com/city/br/gramado-br.html",
+      "title":"Poišči namestitev v mestu Gramado"
+   },
+   {
+      "word":"Hamburg",
+      "link":"//www.booking.com/city/de/hamburg.html",
+      "title":"Poišči namestitev v mestu Hamburg"
+   },
+   {
+      "word":"Helsinki",
+      "link":"//www.booking.com/city/fi/helsinki.html",
+      "title":"Poišči namestitev v mestu Helsinki"
+   },
+   {
+      "word":"Hilton Head Island",
+      "link":"//www.booking.com/city/us/hilton-head-island.html",
+      "title":"Poišči namestitev v mestu Hilton Head Island"
+   },
+   {
+      "word":"Hong Kong",
+      "link":"//www.booking.com/city/hk/hong-kong.html",
+      "title":"Poišči namestitev v mestu Hong Kong"
+   },
+   {
+      "word":"Huelva",
+      "link":"//www.booking.com/city/es/huelva.html",
+      "title":"Poišči namestitev v mestu Huelva"
+   },
+   {
+      "word":"Ischia",
+      "link":"//www.booking.com/city/it/ischia.html",
+      "title":"Poišči namestitev v mestu Ischia"
+   },
+   {
+      "word":"Isla Canela",
+      "link":"//www.booking.com/city/es/isla-de-canela.html",
+      "title":"Poišči namestitev v mestu Isla Canela"
+   },
+   {
+      "word":"Islantilla",
+      "link":"//www.booking.com/city/es/islantilla.html",
+      "title":"Poišči namestitev v mestu Islantilla"
+   },
+   {
+      "word":"Istanbul",
+      "link":"//www.booking.com/city/tr/istanbul.html",
+      "title":"Poišči namestitev v mestu Istanbul"
+   },
+   {
+      "word":"İzmir",
+      "link":"//www.booking.com/city/tr/izmir.html",
+      "title":"Poišči namestitev v mestu İzmir"
+   },
+   {
+      "word":"Jasper",
+      "link":"//www.booking.com/city/ca/jasper.html",
+      "title":"Poišči namestitev v mestu Jasper"
+   },
+   {
+      "word":"Jávea",
+      "link":"//www.booking.com/city/es/javea.html",
+      "title":"Poišči namestitev v mestu Jávea"
+   },
+   {
+      "word":"Jeddah",
+      "link":"//www.booking.com/city/sa/jiddah.html",
+      "title":"Poišči namestitev v mestu Jeddah"
+   },
+   {
+      "word":"Jericoacoara",
+      "link":"//www.booking.com/city/br/jericoacoara.html",
+      "title":"Poišči namestitev v mestu Jericoacoara"
+   },
+   {
+      "word":"João Pessoa",
+      "link":"//www.booking.com/city/br/joao-pessoa.html",
+      "title":"Poišči namestitev v mestu João Pessoa"
+   },
+   {
+      "word":"Key West",
+      "link":"//www.booking.com/city/us/key-west.html",
+      "title":"Poišči namestitev v mestu Key West"
+   },
+   {
+      "word":"Köln",
+      "link":"//www.booking.com/city/de/cologne.html",
+      "title":"Poišči namestitev v mestu Köln"
+   },
+   {
+      "word":"Konstanz",
+      "link":"//www.booking.com/city/de/konstanz.html",
+      "title":"Poišči namestitev v mestu Konstanz"
+   },
+   {
+      "word":"Krakov",
+      "link":"//www.booking.com/city/pl/krakow.html",
+      "title":"Poišči namestitev v mestu Krakov"
+   },
+   {
+      "word":"Kuala Lumpur",
+      "link":"//www.booking.com/city/my/kuala-lumpur.html",
+      "title":"Poišči namestitev v mestu Kuala Lumpur"
+   },
+   {
+      "word":"Las Vegas",
+      "link":"//www.booking.com/city/us/las-vegas.html",
+      "title":"Poišči namestitev v mestu Las Vegas"
+   },
+   {
+      "word":"Leeds",
+      "link":"//www.booking.com/city/gb/leeds.html",
+      "title":"Poišči namestitev v mestu Leeds"
+   },
+   {
+      "word":"Lido di Jesolo",
+      "link":"//www.booking.com/city/it/lido-di-jesolo.html",
+      "title":"Poišči namestitev v mestu Lido di Jesolo"
+   },
+   {
+      "word":"Liverpool",
+      "link":"//www.booking.com/city/gb/liverpool.html",
+      "title":"Poišči namestitev v mestu Liverpool"
+   },
+   {
+      "word":"London",
+      "link":"//www.booking.com/city/gb/london.html",
+      "title":"Poišči namestitev v mestu London"
+   },
+   {
+      "word":"Madrid",
+      "link":"//www.booking.com/city/es/madrid.html",
+      "title":"Poišči namestitev v mestu Madrid"
+   },
+   {
+      "word":"Meka",
+      "link":"//www.booking.com/city/sa/mecca.html",
+      "title":"Poišči namestitev v mestu Meka"
+   },
+   {
+      "word":"Manchester",
+      "link":"//www.booking.com/city/gb/manchester.html",
+      "title":"Poišči namestitev v mestu Manchester"
+   },
+   {
+      "word":"München",
+      "link":"//www.booking.com/city/de/munich.html",
+      "title":"Poišči namestitev v mestu München"
+   },
+   {
+      "word":"Myrtle Beach",
+      "link":"//www.booking.com/city/us/myrtle-beach.html",
+      "title":"Poišči namestitev v mestu Myrtle Beach"
+   },
+   {
+      "word":"Nashville",
+      "link":"//www.booking.com/city/us/nashville.html",
+      "title":"Poišči namestitev v mestu Nashville"
+   },
+   {
+      "word":"New York",
+      "link":"//www.booking.com/city/us/new-york.html",
+      "title":"Poišči namestitev v mestu New York"
+   },
+   {
+      "word":"Newcastle upon Tyne",
+      "link":"//www.booking.com/city/gb/newcastle-upon-tyne.html",
+      "title":"Poišči namestitev v mestu Newcastle upon Tyne"
+   },
+   {
+      "word":"Nica",
+      "link":"//www.booking.com/city/fr/nice.html",
+      "title":"Poišči namestitev v mestu Nica"
+   },
+   {
+      "word":"Norderney",
+      "link":"//www.booking.com/city/de/norderney.html",
+      "title":"Poišči namestitev v mestu Norderney"
+   },
+   {
+      "word":"Ocean City",
+      "link":"//www.booking.com/city/us/ocean-city.html",
+      "title":"Poišči namestitev v mestu Ocean City"
+   },
+   {
+      "word":"Orange Beach",
+      "link":"//www.booking.com/city/us/orange-beach.html",
+      "title":"Poišči namestitev v mestu Orange Beach"
+   },
+   {
+      "word":"Orlando",
+      "link":"//www.booking.com/city/us/orlando.html",
+      "title":"Poišči namestitev v mestu Orlando"
+   },
+   {
+      "word":"Oropesa del Mar",
+      "link":"//www.booking.com/city/es/oropesa.html",
+      "title":"Poišči namestitev v mestu Oropesa del Mar"
+   },
+   {
+      "word":"Oxford",
+      "link":"//www.booking.com/city/gb/oxford.html",
+      "title":"Poišči namestitev v mestu Oxford"
+   },
+   {
+      "word":"Panama City Beach",
+      "link":"//www.booking.com/city/us/panama-city-beach.html",
+      "title":"Poišči namestitev v mestu Panama City Beach"
+   },
+   {
+      "word":"Pariz",
+      "link":"//www.booking.com/city/fr/paris.html",
+      "title":"Poišči namestitev v mestu Pariz"
+   },
+   {
+      "word":"Peñíscola",
+      "link":"//www.booking.com/city/es/peniscola.html",
+      "title":"Poišči namestitev v mestu Peñíscola"
+   },
+   {
+      "word":"Pigeon Forge",
+      "link":"//www.booking.com/city/us/pigeon-forge.html",
+      "title":"Poišči namestitev v mestu Pigeon Forge"
+   },
+   {
+      "word":"Punta Umbría",
+      "link":"//www.booking.com/city/es/punta-umbria.html",
+      "title":"Poišči namestitev v mestu Punta Umbría"
+   },
+   {
+      "word":"Quebec",
+      "link":"//www.booking.com/city/ca/quebec.html",
+      "title":"Poišči namestitev v mestu Quebec"
+   },
+   {
+      "word":"Quedlinburg",
+      "link":"//www.booking.com/city/de/quedlinburg.html",
+      "title":"Poišči namestitev v mestu Quedlinburg"
+   },
+   {
+      "word":"Quito",
+      "link":"//www.booking.com/city/ec/quito.html",
+      "title":"Poišči namestitev v mestu Quito"
+   },
+   {
+      "word":"Riccione",
+      "link":"//www.booking.com/city/it/riccione-marina.html",
+      "title":"Poišči namestitev v mestu Riccione"
+   },
+   {
+      "word":"Rimini",
+      "link":"//www.booking.com/city/it/rimini.html",
+      "title":"Poišči namestitev v mestu Rimini"
+   },
+   {
+      "word":"Rio de Janeiro",
+      "link":"//www.booking.com/city/br/rio-de-janeiro.html",
+      "title":"Poišči namestitev v mestu Rio de Janeiro"
+   },
+   {
+      "word":"Rim",
+      "link":"//www.booking.com/city/it/rome.html",
+      "title":"Poišči namestitev v mestu Rim"
+   },
+   {
+      "word":"Roquetas de Mar",
+      "link":"//www.booking.com/city/es/roquetas-de-mar.html",
+      "title":"Poišči namestitev v mestu Roquetas de Mar"
+   },
+   {
+      "word":"Salou",
+      "link":"//www.booking.com/city/es/salou.html",
+      "title":"Poišči namestitev v mestu Salou"
+   },
+   {
+      "word":"Sevillia",
+      "link":"//www.booking.com/city/es/sevilla.html",
+      "title":"Poišči namestitev v mestu Sevillia"
+   },
+   {
+      "word":"Šarm El Šejk",
+      "link":"//www.booking.com/city/eg/sherm-el-sheikh.html",
+      "title":"Poišči namestitev v mestu Šarm El Šejk"
+   },
+   {
+      "word":"Singapur",
+      "link":"//www.booking.com/city/sg/singapore.html",
+      "title":"Poišči namestitev v mestu Singapur"
+   },
+   {
+      "word":"Stockholm",
+      "link":"//www.booking.com/city/se/stockholm.html",
+      "title":"Poišči namestitev v mestu Stockholm"
+   },
+   {
+      "word":"Torino",
+      "link":"//www.booking.com/city/it/torino.html",
+      "title":"Poišči namestitev v mestu Torino"
+   },
+   {
+      "word":"Toronto",
+      "link":"//www.booking.com/city/ca/toronto.html",
+      "title":"Poišči namestitev v mestu Toronto"
+   },
+   {
+      "word":"Torquay",
+      "link":"//www.booking.com/city/gb/torquay.html",
+      "title":"Poišči namestitev v mestu Torquay"
+   },
+   {
+      "word":"Torremolinos",
+      "link":"//www.booking.com/city/es/torremolinos.html",
+      "title":"Poišči namestitev v mestu Torremolinos"
+   },
+   {
+      "word":"Tybee Island",
+      "link":"//www.booking.com/city/us/tybee-island.html",
+      "title":"Poišči namestitev v mestu Tybee Island"
+   },
+   {
+      "word":"Umag",
+      "link":"//www.booking.com/city/hr/umag.html",
+      "title":"Poišči namestitev v mestu Umag"
+   },
+   {
+      "word":"Uzungöl",
+      "link":"//www.booking.com/city/tr/uzungol.html",
+      "title":"Poišči namestitev v mestu Uzungöl"
+   },
+   {
+      "word":"Valencija",
+      "link":"//www.booking.com/city/es/valencia.html",
+      "title":"Poišči namestitev v mestu Valencija"
+   },
+   {
+      "word":"Vancouver",
+      "link":"//www.booking.com/city/ca/vancouver.html",
+      "title":"Poišči namestitev v mestu Vancouver"
+   },
+   {
+      "word":"Varazze",
+      "link":"//www.booking.com/city/it/varazze.html",
+      "title":"Poišči namestitev v mestu Varazze"
+   },
+   {
+      "word":"Benetke",
+      "link":"//www.booking.com/city/it/venice.html",
+      "title":"Poišči namestitev v mestu Benetke"
+   },
+   {
+      "word":"Vieste",
+      "link":"//www.booking.com/city/it/vieste.html",
+      "title":"Poišči namestitev v mestu Vieste"
+   },
+   {
+      "word":"Virginia Beach",
+      "link":"//www.booking.com/city/us/virginia-beach.html",
+      "title":"Poišči namestitev v mestu Virginia Beach"
+   },
+   {
+      "word":"Warnemünde",
+      "link":"//www.booking.com/city/de/warnemunde.html",
+      "title":"Poišči namestitev v mestu Warnemünde"
+   },
+   {
+      "word":"Varšava",
+      "link":"//www.booking.com/city/pl/warsaw.html",
+      "title":"Poišči namestitev v mestu Varšava"
+   },
+   {
+      "word":"Whitby",
+      "link":"//www.booking.com/city/gb/whitby-aireborough.html",
+      "title":"Poišči namestitev v mestu Whitby"
+   },
+   {
+      "word":"Dunaj",
+      "link":"//www.booking.com/city/at/vienna.html",
+      "title":"Poišči namestitev v mestu Dunaj"
+   },
+   {
+      "word":"Wildwood",
+      "link":"//www.booking.com/city/us/wildwood.html",
+      "title":"Poišči namestitev v mestu Wildwood"
+   },
+   {
+      "word":"Yalta",
+      "link":"//www.booking.com/city/ua/yalta.html",
+      "title":"Poišči namestitev v mestu Yalta"
+   },
+   {
+      "word":"Yevpatoriya",
+      "link":"//www.booking.com/city/ua/yevpatoriya.html",
+      "title":"Poišči namestitev v mestu Yevpatoriya"
+   },
+   {
+      "word":"Zahara de los Atunes",
+      "link":"//www.booking.com/city/es/zahara-de-los-atunes.html",
+      "title":"Poišči namestitev v mestu Zahara de los Atunes"
+   },
+   {
+      "word":"Zakopane",
+      "link":"//www.booking.com/city/pl/zakopane.html",
+      "title":"Poišči namestitev v mestu Zakopane"
+   },
+   {
+      "word":"Zandvoort",
+      "link":"//www.booking.com/city/nl/zandvoort.html",
+      "title":"Poišči namestitev v mestu Zandvoort"
+   },
+   {
+      "word":"Zaragoza",
+      "link":"//www.booking.com/city/es/zaragoza.html",
+      "title":"Poišči namestitev v mestu Zaragoza"
+   },
+   {
+      "word":"Zatoka",
+      "link":"//www.booking.com/city/ua/zatoka.html",
+      "title":"Poišči namestitev v mestu Zatoka"
+   }
+]

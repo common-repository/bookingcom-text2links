@@ -1,0 +1,592 @@
+[
+   {
+      "word":"Ağva",
+      "link":"//www.booking.com/city/tr/yesilcay.html",
+      "title":"Ağva içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Medine",
+      "link":"//www.booking.com/city/sa/medina.html",
+      "title":"Medine içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Alicante",
+      "link":"//www.booking.com/city/es/alicante.html",
+      "title":"Alicante içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Amsterdam",
+      "link":"//www.booking.com/city/nl/amsterdam.html",
+      "title":"Amsterdam içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Atlantic City",
+      "link":"//www.booking.com/city/us/atlantic-city.html",
+      "title":"Atlantic City içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Barselona",
+      "link":"//www.booking.com/city/es/barcelona.html",
+      "title":"Barselona içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Benidorm",
+      "link":"//www.booking.com/city/es/benidorm.html",
+      "title":"Benidorm içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Berlin",
+      "link":"//www.booking.com/city/de/berlin.html",
+      "title":"Berlin içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Blackpool",
+      "link":"//www.booking.com/city/gb/blackpool.html",
+      "title":"Blackpool içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Brighton & Hove",
+      "link":"//www.booking.com/city/gb/brighton.html",
+      "title":"Brighton & Hove içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Cádiz",
+      "link":"//www.booking.com/city/es/cadiz.html",
+      "title":"Cádiz içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Caldas Novas",
+      "link":"//www.booking.com/city/br/caldas-novas.html",
+      "title":"Caldas Novas içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Campos do Jordão",
+      "link":"//www.booking.com/city/br/campos-do-jordao.html",
+      "title":"Campos do Jordão içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Cardiff",
+      "link":"//www.booking.com/city/gb/cardiff.html",
+      "title":"Cardiff içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Conil de la Frontera",
+      "link":"//www.booking.com/city/es/conil-de-la-frontera.html",
+      "title":"Conil de la Frontera içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Deauville",
+      "link":"//www.booking.com/city/fr/deauville-les-bains.html",
+      "title":"Deauville içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Destin",
+      "link":"//www.booking.com/city/us/destin.html",
+      "title":"Destin içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Dresden",
+      "link":"//www.booking.com/city/de/dresden.html",
+      "title":"Dresden içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Dubai",
+      "link":"//www.booking.com/city/ae/dubai.html",
+      "title":"Dubai içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Dublin",
+      "link":"//www.booking.com/city/ie/dublin.html",
+      "title":"Dublin içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Edinburgh",
+      "link":"//www.booking.com/city/gb/edinburgh.html",
+      "title":"Edinburgh içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Eilat",
+      "link":"//www.booking.com/city/il/elat.html",
+      "title":"Eilat içinde konaklama tesisi ara"
+   },
+   {
+      "word":"El Puerto de Santa María",
+      "link":"//www.booking.com/city/es/el-puerto-de-santa-maria.html",
+      "title":"El Puerto de Santa María içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Estepona",
+      "link":"//www.booking.com/city/es/estepona.html",
+      "title":"Estepona içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Étretat",
+      "link":"//www.booking.com/city/fr/etretat.html",
+      "title":"Étretat içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Favignana",
+      "link":"//www.booking.com/city/it/favignana.html",
+      "title":"Favignana içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Floransa",
+      "link":"//www.booking.com/city/it/florence.html",
+      "title":"Floransa içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Fortaleza",
+      "link":"//www.booking.com/city/br/fortaleza.html",
+      "title":"Fortaleza içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Forte dei Marmi",
+      "link":"//www.booking.com/city/it/forte-dei-marmi.html",
+      "title":"Forte dei Marmi içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Fuengirola",
+      "link":"//www.booking.com/city/es/fuengirola.html",
+      "title":"Fuengirola içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Galveston",
+      "link":"//www.booking.com/city/us/galveston.html",
+      "title":"Galveston içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Gandía",
+      "link":"//www.booking.com/city/es/gandia.html",
+      "title":"Gandía içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Glasgow",
+      "link":"//www.booking.com/city/gb/glasgow.html",
+      "title":"Glasgow içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Göteborg",
+      "link":"//www.booking.com/city/se/goteborg.html",
+      "title":"Göteborg içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Gramado",
+      "link":"//www.booking.com/city/br/gramado-br.html",
+      "title":"Gramado içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Hamburg",
+      "link":"//www.booking.com/city/de/hamburg.html",
+      "title":"Hamburg içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Helsinki",
+      "link":"//www.booking.com/city/fi/helsinki.html",
+      "title":"Helsinki içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Hilton Head Island",
+      "link":"//www.booking.com/city/us/hilton-head-island.html",
+      "title":"Hilton Head Island içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Hong Kong",
+      "link":"//www.booking.com/city/hk/hong-kong.html",
+      "title":"Hong Kong içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Huelva",
+      "link":"//www.booking.com/city/es/huelva.html",
+      "title":"Huelva içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Ischia",
+      "link":"//www.booking.com/city/it/ischia.html",
+      "title":"Ischia içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Isla Canela",
+      "link":"//www.booking.com/city/es/isla-de-canela.html",
+      "title":"Isla Canela içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Islantilla",
+      "link":"//www.booking.com/city/es/islantilla.html",
+      "title":"Islantilla içinde konaklama tesisi ara"
+   },
+   {
+      "word":"İstanbul",
+      "link":"//www.booking.com/city/tr/istanbul.html",
+      "title":"İstanbul içinde konaklama tesisi ara"
+   },
+   {
+      "word":"İzmir",
+      "link":"//www.booking.com/city/tr/izmir.html",
+      "title":"İzmir içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Jasper",
+      "link":"//www.booking.com/city/ca/jasper.html",
+      "title":"Jasper içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Jávea",
+      "link":"//www.booking.com/city/es/javea.html",
+      "title":"Jávea içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Cidde",
+      "link":"//www.booking.com/city/sa/jiddah.html",
+      "title":"Cidde içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Jericoacoara",
+      "link":"//www.booking.com/city/br/jericoacoara.html",
+      "title":"Jericoacoara içinde konaklama tesisi ara"
+   },
+   {
+      "word":"João Pessoa",
+      "link":"//www.booking.com/city/br/joao-pessoa.html",
+      "title":"João Pessoa içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Key West",
+      "link":"//www.booking.com/city/us/key-west.html",
+      "title":"Key West içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Köln",
+      "link":"//www.booking.com/city/de/cologne.html",
+      "title":"Köln içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Konstanz",
+      "link":"//www.booking.com/city/de/konstanz.html",
+      "title":"Konstanz içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Krakov",
+      "link":"//www.booking.com/city/pl/krakow.html",
+      "title":"Krakov içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Kuala Lumpur",
+      "link":"//www.booking.com/city/my/kuala-lumpur.html",
+      "title":"Kuala Lumpur içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Las Vegas",
+      "link":"//www.booking.com/city/us/las-vegas.html",
+      "title":"Las Vegas içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Leeds",
+      "link":"//www.booking.com/city/gb/leeds.html",
+      "title":"Leeds içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Lido di Jesolo",
+      "link":"//www.booking.com/city/it/lido-di-jesolo.html",
+      "title":"Lido di Jesolo içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Liverpool",
+      "link":"//www.booking.com/city/gb/liverpool.html",
+      "title":"Liverpool içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Londra",
+      "link":"//www.booking.com/city/gb/london.html",
+      "title":"Londra içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Madrid",
+      "link":"//www.booking.com/city/es/madrid.html",
+      "title":"Madrid içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Mekke",
+      "link":"//www.booking.com/city/sa/mecca.html",
+      "title":"Mekke içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Manchester",
+      "link":"//www.booking.com/city/gb/manchester.html",
+      "title":"Manchester içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Münih",
+      "link":"//www.booking.com/city/de/munich.html",
+      "title":"Münih içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Myrtle Beach",
+      "link":"//www.booking.com/city/us/myrtle-beach.html",
+      "title":"Myrtle Beach içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Nashville",
+      "link":"//www.booking.com/city/us/nashville.html",
+      "title":"Nashville içinde konaklama tesisi ara"
+   },
+   {
+      "word":"New York",
+      "link":"//www.booking.com/city/us/new-york.html",
+      "title":"New York içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Newcastle upon Tyne",
+      "link":"//www.booking.com/city/gb/newcastle-upon-tyne.html",
+      "title":"Newcastle upon Tyne içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Nice",
+      "link":"//www.booking.com/city/fr/nice.html",
+      "title":"Nice içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Norderney",
+      "link":"//www.booking.com/city/de/norderney.html",
+      "title":"Norderney içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Ocean City",
+      "link":"//www.booking.com/city/us/ocean-city.html",
+      "title":"Ocean City içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Orange Beach",
+      "link":"//www.booking.com/city/us/orange-beach.html",
+      "title":"Orange Beach içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Orlando",
+      "link":"//www.booking.com/city/us/orlando.html",
+      "title":"Orlando içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Oropesa del Mar",
+      "link":"//www.booking.com/city/es/oropesa.html",
+      "title":"Oropesa del Mar içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Oxford",
+      "link":"//www.booking.com/city/gb/oxford.html",
+      "title":"Oxford içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Panama City Beach",
+      "link":"//www.booking.com/city/us/panama-city-beach.html",
+      "title":"Panama City Beach içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Paris",
+      "link":"//www.booking.com/city/fr/paris.html",
+      "title":"Paris içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Peñíscola",
+      "link":"//www.booking.com/city/es/peniscola.html",
+      "title":"Peñíscola içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Pigeon Forge",
+      "link":"//www.booking.com/city/us/pigeon-forge.html",
+      "title":"Pigeon Forge içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Punta Umbría",
+      "link":"//www.booking.com/city/es/punta-umbria.html",
+      "title":"Punta Umbría içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Québec",
+      "link":"//www.booking.com/city/ca/quebec.html",
+      "title":"Québec içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Quedlinburg",
+      "link":"//www.booking.com/city/de/quedlinburg.html",
+      "title":"Quedlinburg içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Quito",
+      "link":"//www.booking.com/city/ec/quito.html",
+      "title":"Quito içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Riccione",
+      "link":"//www.booking.com/city/it/riccione-marina.html",
+      "title":"Riccione içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Rimini",
+      "link":"//www.booking.com/city/it/rimini.html",
+      "title":"Rimini içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Rio de Janeiro",
+      "link":"//www.booking.com/city/br/rio-de-janeiro.html",
+      "title":"Rio de Janeiro içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Roma",
+      "link":"//www.booking.com/city/it/rome.html",
+      "title":"Roma içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Roquetas de Mar",
+      "link":"//www.booking.com/city/es/roquetas-de-mar.html",
+      "title":"Roquetas de Mar içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Salou",
+      "link":"//www.booking.com/city/es/salou.html",
+      "title":"Salou içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Sevilla",
+      "link":"//www.booking.com/city/es/sevilla.html",
+      "title":"Sevilla içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Şarm El-Şeyh",
+      "link":"//www.booking.com/city/eg/sherm-el-sheikh.html",
+      "title":"Şarm El-Şeyh içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Singapur",
+      "link":"//www.booking.com/city/sg/singapore.html",
+      "title":"Singapur içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Stokholm",
+      "link":"//www.booking.com/city/se/stockholm.html",
+      "title":"Stokholm içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Torino",
+      "link":"//www.booking.com/city/it/torino.html",
+      "title":"Torino içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Toronto",
+      "link":"//www.booking.com/city/ca/toronto.html",
+      "title":"Toronto içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Torquay",
+      "link":"//www.booking.com/city/gb/torquay.html",
+      "title":"Torquay içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Torremolinos",
+      "link":"//www.booking.com/city/es/torremolinos.html",
+      "title":"Torremolinos içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Tybee Island",
+      "link":"//www.booking.com/city/us/tybee-island.html",
+      "title":"Tybee Island içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Umag",
+      "link":"//www.booking.com/city/hr/umag.html",
+      "title":"Umag içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Uzungöl",
+      "link":"//www.booking.com/city/tr/uzungol.html",
+      "title":"Uzungöl içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Valensiya",
+      "link":"//www.booking.com/city/es/valencia.html",
+      "title":"Valensiya içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Vancouver",
+      "link":"//www.booking.com/city/ca/vancouver.html",
+      "title":"Vancouver içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Varazze",
+      "link":"//www.booking.com/city/it/varazze.html",
+      "title":"Varazze içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Venedik",
+      "link":"//www.booking.com/city/it/venice.html",
+      "title":"Venedik içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Vieste",
+      "link":"//www.booking.com/city/it/vieste.html",
+      "title":"Vieste içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Virginia Beach",
+      "link":"//www.booking.com/city/us/virginia-beach.html",
+      "title":"Virginia Beach içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Warnemünde",
+      "link":"//www.booking.com/city/de/warnemunde.html",
+      "title":"Warnemünde içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Varşova",
+      "link":"//www.booking.com/city/pl/warsaw.html",
+      "title":"Varşova içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Whitby",
+      "link":"//www.booking.com/city/gb/whitby-aireborough.html",
+      "title":"Whitby içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Viyana",
+      "link":"//www.booking.com/city/at/vienna.html",
+      "title":"Viyana içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Wildwood",
+      "link":"//www.booking.com/city/us/wildwood.html",
+      "title":"Wildwood içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Yalta",
+      "link":"//www.booking.com/city/ua/yalta.html",
+      "title":"Yalta içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Yevpatoriya",
+      "link":"//www.booking.com/city/ua/yevpatoriya.html",
+      "title":"Yevpatoriya içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Zahara de los Atunes",
+      "link":"//www.booking.com/city/es/zahara-de-los-atunes.html",
+      "title":"Zahara de los Atunes içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Zakopane",
+      "link":"//www.booking.com/city/pl/zakopane.html",
+      "title":"Zakopane içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Zandvoort",
+      "link":"//www.booking.com/city/nl/zandvoort.html",
+      "title":"Zandvoort içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Zaragoza",
+      "link":"//www.booking.com/city/es/zaragoza.html",
+      "title":"Zaragoza içinde konaklama tesisi ara"
+   },
+   {
+      "word":"Zatoka",
+      "link":"//www.booking.com/city/ua/zatoka.html",
+      "title":"Zatoka içinde konaklama tesisi ara"
+   }
+]

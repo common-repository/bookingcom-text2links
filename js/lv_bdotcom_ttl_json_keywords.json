@@ -1,0 +1,592 @@
+[
+   {
+      "word":"Ağva",
+      "link":"//www.booking.com/city/tr/yesilcay.html",
+      "title":"Meklēt naktsmītnes pilsētā Ağva"
+   },
+   {
+      "word":"Medīna",
+      "link":"//www.booking.com/city/sa/medina.html",
+      "title":"Meklēt naktsmītnes pilsētā Medīna"
+   },
+   {
+      "word":"Alikante",
+      "link":"//www.booking.com/city/es/alicante.html",
+      "title":"Meklēt naktsmītnes pilsētā Alikante"
+   },
+   {
+      "word":"Amsterdama",
+      "link":"//www.booking.com/city/nl/amsterdam.html",
+      "title":"Meklēt naktsmītnes pilsētā Amsterdama"
+   },
+   {
+      "word":"Atlantiksitija",
+      "link":"//www.booking.com/city/us/atlantic-city.html",
+      "title":"Meklēt naktsmītnes pilsētā Atlantiksitija"
+   },
+   {
+      "word":"Barselona",
+      "link":"//www.booking.com/city/es/barcelona.html",
+      "title":"Meklēt naktsmītnes pilsētā Barselona"
+   },
+   {
+      "word":"Benidorma",
+      "link":"//www.booking.com/city/es/benidorm.html",
+      "title":"Meklēt naktsmītnes pilsētā Benidorma"
+   },
+   {
+      "word":"Berlīne",
+      "link":"//www.booking.com/city/de/berlin.html",
+      "title":"Meklēt naktsmītnes pilsētā Berlīne"
+   },
+   {
+      "word":"Blekpūla",
+      "link":"//www.booking.com/city/gb/blackpool.html",
+      "title":"Meklēt naktsmītnes pilsētā Blekpūla"
+   },
+   {
+      "word":"Braitona un Hava",
+      "link":"//www.booking.com/city/gb/brighton.html",
+      "title":"Meklēt naktsmītnes pilsētā Braitona un Hava"
+   },
+   {
+      "word":"Kadisa",
+      "link":"//www.booking.com/city/es/cadiz.html",
+      "title":"Meklēt naktsmītnes pilsētā Kadisa"
+   },
+   {
+      "word":"Kaldasnovasa",
+      "link":"//www.booking.com/city/br/caldas-novas.html",
+      "title":"Meklēt naktsmītnes pilsētā Kaldasnovasa"
+   },
+   {
+      "word":"Kampusa du Žordauna",
+      "link":"//www.booking.com/city/br/campos-do-jordao.html",
+      "title":"Meklēt naktsmītnes pilsētā Kampusa du Žordauna"
+   },
+   {
+      "word":"Kārdifa",
+      "link":"//www.booking.com/city/gb/cardiff.html",
+      "title":"Meklēt naktsmītnes pilsētā Kārdifa"
+   },
+   {
+      "word":"Konila de la Frontera",
+      "link":"//www.booking.com/city/es/conil-de-la-frontera.html",
+      "title":"Meklēt naktsmītnes pilsētā Konila de la Frontera"
+   },
+   {
+      "word":"Dovila",
+      "link":"//www.booking.com/city/fr/deauville-les-bains.html",
+      "title":"Meklēt naktsmītnes pilsētā Dovila"
+   },
+   {
+      "word":"Destin",
+      "link":"//www.booking.com/city/us/destin.html",
+      "title":"Meklēt naktsmītnes pilsētā Destin"
+   },
+   {
+      "word":"Drēzdene",
+      "link":"//www.booking.com/city/de/dresden.html",
+      "title":"Meklēt naktsmītnes pilsētā Drēzdene"
+   },
+   {
+      "word":"Dubaija",
+      "link":"//www.booking.com/city/ae/dubai.html",
+      "title":"Meklēt naktsmītnes pilsētā Dubaija"
+   },
+   {
+      "word":"Dublina",
+      "link":"//www.booking.com/city/ie/dublin.html",
+      "title":"Meklēt naktsmītnes pilsētā Dublina"
+   },
+   {
+      "word":"Edinburga",
+      "link":"//www.booking.com/city/gb/edinburgh.html",
+      "title":"Meklēt naktsmītnes pilsētā Edinburga"
+   },
+   {
+      "word":"Eilata",
+      "link":"//www.booking.com/city/il/elat.html",
+      "title":"Meklēt naktsmītnes pilsētā Eilata"
+   },
+   {
+      "word":"Elpuerto de Santamarija",
+      "link":"//www.booking.com/city/es/el-puerto-de-santa-maria.html",
+      "title":"Meklēt naktsmītnes pilsētā Elpuerto de Santamarija"
+   },
+   {
+      "word":"Estepona",
+      "link":"//www.booking.com/city/es/estepona.html",
+      "title":"Meklēt naktsmītnes pilsētā Estepona"
+   },
+   {
+      "word":"Etreta",
+      "link":"//www.booking.com/city/fr/etretat.html",
+      "title":"Meklēt naktsmītnes pilsētā Etreta"
+   },
+   {
+      "word":"Favinjana",
+      "link":"//www.booking.com/city/it/favignana.html",
+      "title":"Meklēt naktsmītnes pilsētā Favinjana"
+   },
+   {
+      "word":"Florence",
+      "link":"//www.booking.com/city/it/florence.html",
+      "title":"Meklēt naktsmītnes pilsētā Florence"
+   },
+   {
+      "word":"Fortaleza",
+      "link":"//www.booking.com/city/br/fortaleza.html",
+      "title":"Meklēt naktsmītnes pilsētā Fortaleza"
+   },
+   {
+      "word":"Forte dei Marmi",
+      "link":"//www.booking.com/city/it/forte-dei-marmi.html",
+      "title":"Meklēt naktsmītnes pilsētā Forte dei Marmi"
+   },
+   {
+      "word":"Fuenhirola",
+      "link":"//www.booking.com/city/es/fuengirola.html",
+      "title":"Meklēt naktsmītnes pilsētā Fuenhirola"
+   },
+   {
+      "word":"Galveston",
+      "link":"//www.booking.com/city/us/galveston.html",
+      "title":"Meklēt naktsmītnes pilsētā Galveston"
+   },
+   {
+      "word":"Gandja",
+      "link":"//www.booking.com/city/es/gandia.html",
+      "title":"Meklēt naktsmītnes pilsētā Gandja"
+   },
+   {
+      "word":"Glāzgova",
+      "link":"//www.booking.com/city/gb/glasgow.html",
+      "title":"Meklēt naktsmītnes pilsētā Glāzgova"
+   },
+   {
+      "word":"Gēteborga",
+      "link":"//www.booking.com/city/se/goteborg.html",
+      "title":"Meklēt naktsmītnes pilsētā Gēteborga"
+   },
+   {
+      "word":"Gramadu",
+      "link":"//www.booking.com/city/br/gramado-br.html",
+      "title":"Meklēt naktsmītnes pilsētā Gramadu"
+   },
+   {
+      "word":"Hamburga",
+      "link":"//www.booking.com/city/de/hamburg.html",
+      "title":"Meklēt naktsmītnes pilsētā Hamburga"
+   },
+   {
+      "word":"Helsinki",
+      "link":"//www.booking.com/city/fi/helsinki.html",
+      "title":"Meklēt naktsmītnes pilsētā Helsinki"
+   },
+   {
+      "word":"Hilton Head Island",
+      "link":"//www.booking.com/city/us/hilton-head-island.html",
+      "title":"Meklēt naktsmītnes pilsētā Hilton Head Island"
+   },
+   {
+      "word":"Honkonga",
+      "link":"//www.booking.com/city/hk/hong-kong.html",
+      "title":"Meklēt naktsmītnes pilsētā Honkonga"
+   },
+   {
+      "word":"Velva",
+      "link":"//www.booking.com/city/es/huelva.html",
+      "title":"Meklēt naktsmītnes pilsētā Velva"
+   },
+   {
+      "word":"Iskija",
+      "link":"//www.booking.com/city/it/ischia.html",
+      "title":"Meklēt naktsmītnes pilsētā Iskija"
+   },
+   {
+      "word":"Isla Canela",
+      "link":"//www.booking.com/city/es/isla-de-canela.html",
+      "title":"Meklēt naktsmītnes pilsētā Isla Canela"
+   },
+   {
+      "word":"Islantilla",
+      "link":"//www.booking.com/city/es/islantilla.html",
+      "title":"Meklēt naktsmītnes pilsētā Islantilla"
+   },
+   {
+      "word":"Stambula",
+      "link":"//www.booking.com/city/tr/istanbul.html",
+      "title":"Meklēt naktsmītnes pilsētā Stambula"
+   },
+   {
+      "word":"Izmira",
+      "link":"//www.booking.com/city/tr/izmir.html",
+      "title":"Meklēt naktsmītnes pilsētā Izmira"
+   },
+   {
+      "word":"Džaspera",
+      "link":"//www.booking.com/city/ca/jasper.html",
+      "title":"Meklēt naktsmītnes pilsētā Džaspera"
+   },
+   {
+      "word":"Jávea",
+      "link":"//www.booking.com/city/es/javea.html",
+      "title":"Meklēt naktsmītnes pilsētā Jávea"
+   },
+   {
+      "word":"Džida",
+      "link":"//www.booking.com/city/sa/jiddah.html",
+      "title":"Meklēt naktsmītnes pilsētā Džida"
+   },
+   {
+      "word":"Jericoacoara",
+      "link":"//www.booking.com/city/br/jericoacoara.html",
+      "title":"Meklēt naktsmītnes pilsētā Jericoacoara"
+   },
+   {
+      "word":"Žuaunpesoa",
+      "link":"//www.booking.com/city/br/joao-pessoa.html",
+      "title":"Meklēt naktsmītnes pilsētā Žuaunpesoa"
+   },
+   {
+      "word":"Kīvesta",
+      "link":"//www.booking.com/city/us/key-west.html",
+      "title":"Meklēt naktsmītnes pilsētā Kīvesta"
+   },
+   {
+      "word":"Ķelne",
+      "link":"//www.booking.com/city/de/cologne.html",
+      "title":"Meklēt naktsmītnes pilsētā Ķelne"
+   },
+   {
+      "word":"Konstanca",
+      "link":"//www.booking.com/city/de/konstanz.html",
+      "title":"Meklēt naktsmītnes pilsētā Konstanca"
+   },
+   {
+      "word":"Krakova",
+      "link":"//www.booking.com/city/pl/krakow.html",
+      "title":"Meklēt naktsmītnes pilsētā Krakova"
+   },
+   {
+      "word":"Kualalumpura",
+      "link":"//www.booking.com/city/my/kuala-lumpur.html",
+      "title":"Meklēt naktsmītnes pilsētā Kualalumpura"
+   },
+   {
+      "word":"Lasvegasa",
+      "link":"//www.booking.com/city/us/las-vegas.html",
+      "title":"Meklēt naktsmītnes pilsētā Lasvegasa"
+   },
+   {
+      "word":"Līdsa",
+      "link":"//www.booking.com/city/gb/leeds.html",
+      "title":"Meklēt naktsmītnes pilsētā Līdsa"
+   },
+   {
+      "word":"Lido di Jesolo",
+      "link":"//www.booking.com/city/it/lido-di-jesolo.html",
+      "title":"Meklēt naktsmītnes pilsētā Lido di Jesolo"
+   },
+   {
+      "word":"Liverpūle",
+      "link":"//www.booking.com/city/gb/liverpool.html",
+      "title":"Meklēt naktsmītnes pilsētā Liverpūle"
+   },
+   {
+      "word":"Londona",
+      "link":"//www.booking.com/city/gb/london.html",
+      "title":"Meklēt naktsmītnes pilsētā Londona"
+   },
+   {
+      "word":"Madride",
+      "link":"//www.booking.com/city/es/madrid.html",
+      "title":"Meklēt naktsmītnes pilsētā Madride"
+   },
+   {
+      "word":"Meka",
+      "link":"//www.booking.com/city/sa/mecca.html",
+      "title":"Meklēt naktsmītnes pilsētā Meka"
+   },
+   {
+      "word":"Mančestra",
+      "link":"//www.booking.com/city/gb/manchester.html",
+      "title":"Meklēt naktsmītnes pilsētā Mančestra"
+   },
+   {
+      "word":"Minhene",
+      "link":"//www.booking.com/city/de/munich.html",
+      "title":"Meklēt naktsmītnes pilsētā Minhene"
+   },
+   {
+      "word":"Mērtlbīča",
+      "link":"//www.booking.com/city/us/myrtle-beach.html",
+      "title":"Meklēt naktsmītnes pilsētā Mērtlbīča"
+   },
+   {
+      "word":"Našvila",
+      "link":"//www.booking.com/city/us/nashville.html",
+      "title":"Meklēt naktsmītnes pilsētā Našvila"
+   },
+   {
+      "word":"Ņujorka",
+      "link":"//www.booking.com/city/us/new-york.html",
+      "title":"Meklēt naktsmītnes pilsētā Ņujorka"
+   },
+   {
+      "word":"Ņūkāsla pie Tainas",
+      "link":"//www.booking.com/city/gb/newcastle-upon-tyne.html",
+      "title":"Meklēt naktsmītnes pilsētā Ņūkāsla pie Tainas"
+   },
+   {
+      "word":"Nica",
+      "link":"//www.booking.com/city/fr/nice.html",
+      "title":"Meklēt naktsmītnes pilsētā Nica"
+   },
+   {
+      "word":"Norderneja",
+      "link":"//www.booking.com/city/de/norderney.html",
+      "title":"Meklēt naktsmītnes pilsētā Norderneja"
+   },
+   {
+      "word":"Ošensitija",
+      "link":"//www.booking.com/city/us/ocean-city.html",
+      "title":"Meklēt naktsmītnes pilsētā Ošensitija"
+   },
+   {
+      "word":"Orange Beach",
+      "link":"//www.booking.com/city/us/orange-beach.html",
+      "title":"Meklēt naktsmītnes pilsētā Orange Beach"
+   },
+   {
+      "word":"Orlando",
+      "link":"//www.booking.com/city/us/orlando.html",
+      "title":"Meklēt naktsmītnes pilsētā Orlando"
+   },
+   {
+      "word":"Oropesa del Mar",
+      "link":"//www.booking.com/city/es/oropesa.html",
+      "title":"Meklēt naktsmītnes pilsētā Oropesa del Mar"
+   },
+   {
+      "word":"Oksforda",
+      "link":"//www.booking.com/city/gb/oxford.html",
+      "title":"Meklēt naktsmītnes pilsētā Oksforda"
+   },
+   {
+      "word":"Panama City Beach",
+      "link":"//www.booking.com/city/us/panama-city-beach.html",
+      "title":"Meklēt naktsmītnes pilsētā Panama City Beach"
+   },
+   {
+      "word":"Parīze",
+      "link":"//www.booking.com/city/fr/paris.html",
+      "title":"Meklēt naktsmītnes pilsētā Parīze"
+   },
+   {
+      "word":"Peniskola",
+      "link":"//www.booking.com/city/es/peniscola.html",
+      "title":"Meklēt naktsmītnes pilsētā Peniskola"
+   },
+   {
+      "word":"Pidžonfordža",
+      "link":"//www.booking.com/city/us/pigeon-forge.html",
+      "title":"Meklēt naktsmītnes pilsētā Pidžonfordža"
+   },
+   {
+      "word":"Punta Umbría",
+      "link":"//www.booking.com/city/es/punta-umbria.html",
+      "title":"Meklēt naktsmītnes pilsētā Punta Umbría"
+   },
+   {
+      "word":"Kvebeka",
+      "link":"//www.booking.com/city/ca/quebec.html",
+      "title":"Meklēt naktsmītnes pilsētā Kvebeka"
+   },
+   {
+      "word":"Kvēdlinburga",
+      "link":"//www.booking.com/city/de/quedlinburg.html",
+      "title":"Meklēt naktsmītnes pilsētā Kvēdlinburga"
+   },
+   {
+      "word":"Kito",
+      "link":"//www.booking.com/city/ec/quito.html",
+      "title":"Meklēt naktsmītnes pilsētā Kito"
+   },
+   {
+      "word":"Ričone",
+      "link":"//www.booking.com/city/it/riccione-marina.html",
+      "title":"Meklēt naktsmītnes pilsētā Ričone"
+   },
+   {
+      "word":"Rimini",
+      "link":"//www.booking.com/city/it/rimini.html",
+      "title":"Meklēt naktsmītnes pilsētā Rimini"
+   },
+   {
+      "word":"Riodežaneiro",
+      "link":"//www.booking.com/city/br/rio-de-janeiro.html",
+      "title":"Meklēt naktsmītnes pilsētā Riodežaneiro"
+   },
+   {
+      "word":"Roma",
+      "link":"//www.booking.com/city/it/rome.html",
+      "title":"Meklēt naktsmītnes pilsētā Roma"
+   },
+   {
+      "word":"Roketasa de Mara",
+      "link":"//www.booking.com/city/es/roquetas-de-mar.html",
+      "title":"Meklēt naktsmītnes pilsētā Roketasa de Mara"
+   },
+   {
+      "word":"Salou",
+      "link":"//www.booking.com/city/es/salou.html",
+      "title":"Meklēt naktsmītnes pilsētā Salou"
+   },
+   {
+      "word":"Sevilja",
+      "link":"//www.booking.com/city/es/sevilla.html",
+      "title":"Meklēt naktsmītnes pilsētā Sevilja"
+   },
+   {
+      "word":"Šarm eš Šeiha",
+      "link":"//www.booking.com/city/eg/sherm-el-sheikh.html",
+      "title":"Meklēt naktsmītnes pilsētā Šarm eš Šeiha"
+   },
+   {
+      "word":"Singapūra",
+      "link":"//www.booking.com/city/sg/singapore.html",
+      "title":"Meklēt naktsmītnes pilsētā Singapūra"
+   },
+   {
+      "word":"Stokholma",
+      "link":"//www.booking.com/city/se/stockholm.html",
+      "title":"Meklēt naktsmītnes pilsētā Stokholma"
+   },
+   {
+      "word":"Turīna",
+      "link":"//www.booking.com/city/it/torino.html",
+      "title":"Meklēt naktsmītnes pilsētā Turīna"
+   },
+   {
+      "word":"Toronto",
+      "link":"//www.booking.com/city/ca/toronto.html",
+      "title":"Meklēt naktsmītnes pilsētā Toronto"
+   },
+   {
+      "word":"Torkī",
+      "link":"//www.booking.com/city/gb/torquay.html",
+      "title":"Meklēt naktsmītnes pilsētā Torkī"
+   },
+   {
+      "word":"Torremolinosa",
+      "link":"//www.booking.com/city/es/torremolinos.html",
+      "title":"Meklēt naktsmītnes pilsētā Torremolinosa"
+   },
+   {
+      "word":"Tybee Island",
+      "link":"//www.booking.com/city/us/tybee-island.html",
+      "title":"Meklēt naktsmītnes pilsētā Tybee Island"
+   },
+   {
+      "word":"Umaga",
+      "link":"//www.booking.com/city/hr/umag.html",
+      "title":"Meklēt naktsmītnes pilsētā Umaga"
+   },
+   {
+      "word":"Uzungöl",
+      "link":"//www.booking.com/city/tr/uzungol.html",
+      "title":"Meklēt naktsmītnes pilsētā Uzungöl"
+   },
+   {
+      "word":"Valensija",
+      "link":"//www.booking.com/city/es/valencia.html",
+      "title":"Meklēt naktsmītnes pilsētā Valensija"
+   },
+   {
+      "word":"Vankūvera",
+      "link":"//www.booking.com/city/ca/vancouver.html",
+      "title":"Meklēt naktsmītnes pilsētā Vankūvera"
+   },
+   {
+      "word":"Varazze",
+      "link":"//www.booking.com/city/it/varazze.html",
+      "title":"Meklēt naktsmītnes pilsētā Varazze"
+   },
+   {
+      "word":"Venēcija",
+      "link":"//www.booking.com/city/it/venice.html",
+      "title":"Meklēt naktsmītnes pilsētā Venēcija"
+   },
+   {
+      "word":"Vjeste",
+      "link":"//www.booking.com/city/it/vieste.html",
+      "title":"Meklēt naktsmītnes pilsētā Vjeste"
+   },
+   {
+      "word":"Virdžīnijabīča",
+      "link":"//www.booking.com/city/us/virginia-beach.html",
+      "title":"Meklēt naktsmītnes pilsētā Virdžīnijabīča"
+   },
+   {
+      "word":"Varneminde",
+      "link":"//www.booking.com/city/de/warnemunde.html",
+      "title":"Meklēt naktsmītnes pilsētā Varneminde"
+   },
+   {
+      "word":"Varšava",
+      "link":"//www.booking.com/city/pl/warsaw.html",
+      "title":"Meklēt naktsmītnes pilsētā Varšava"
+   },
+   {
+      "word":"Vitbi",
+      "link":"//www.booking.com/city/gb/whitby-aireborough.html",
+      "title":"Meklēt naktsmītnes pilsētā Vitbi"
+   },
+   {
+      "word":"Vīne",
+      "link":"//www.booking.com/city/at/vienna.html",
+      "title":"Meklēt naktsmītnes pilsētā Vīne"
+   },
+   {
+      "word":"Wildwood",
+      "link":"//www.booking.com/city/us/wildwood.html",
+      "title":"Meklēt naktsmītnes pilsētā Wildwood"
+   },
+   {
+      "word":"Jalta",
+      "link":"//www.booking.com/city/ua/yalta.html",
+      "title":"Meklēt naktsmītnes pilsētā Jalta"
+   },
+   {
+      "word":"Evpatorija",
+      "link":"//www.booking.com/city/ua/yevpatoriya.html",
+      "title":"Meklēt naktsmītnes pilsētā Evpatorija"
+   },
+   {
+      "word":"Zahara de los Atunes",
+      "link":"//www.booking.com/city/es/zahara-de-los-atunes.html",
+      "title":"Meklēt naktsmītnes pilsētā Zahara de los Atunes"
+   },
+   {
+      "word":"Zakopane",
+      "link":"//www.booking.com/city/pl/zakopane.html",
+      "title":"Meklēt naktsmītnes pilsētā Zakopane"
+   },
+   {
+      "word":"Zandvorta",
+      "link":"//www.booking.com/city/nl/zandvoort.html",
+      "title":"Meklēt naktsmītnes pilsētā Zandvorta"
+   },
+   {
+      "word":"Saragosa",
+      "link":"//www.booking.com/city/es/zaragoza.html",
+      "title":"Meklēt naktsmītnes pilsētā Saragosa"
+   },
+   {
+      "word":"Zatoka",
+      "link":"//www.booking.com/city/ua/zatoka.html",
+      "title":"Meklēt naktsmītnes pilsētā Zatoka"
+   }
+]

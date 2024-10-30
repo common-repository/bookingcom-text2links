@@ -1,0 +1,592 @@
+[
+   {
+      "word":"Ağva",
+      "link":"//www.booking.com/city/tr/yesilcay.html",
+      "title":"Søk etter overnatting i Ağva"
+   },
+   {
+      "word":"Al Madinah",
+      "link":"//www.booking.com/city/sa/medina.html",
+      "title":"Søk etter overnatting i Al Madinah"
+   },
+   {
+      "word":"Alicante",
+      "link":"//www.booking.com/city/es/alicante.html",
+      "title":"Søk etter overnatting i Alicante"
+   },
+   {
+      "word":"Amsterdam",
+      "link":"//www.booking.com/city/nl/amsterdam.html",
+      "title":"Søk etter overnatting i Amsterdam"
+   },
+   {
+      "word":"Atlantic City",
+      "link":"//www.booking.com/city/us/atlantic-city.html",
+      "title":"Søk etter overnatting i Atlantic City"
+   },
+   {
+      "word":"Barcelona",
+      "link":"//www.booking.com/city/es/barcelona.html",
+      "title":"Søk etter overnatting i Barcelona"
+   },
+   {
+      "word":"Benidorm",
+      "link":"//www.booking.com/city/es/benidorm.html",
+      "title":"Søk etter overnatting i Benidorm"
+   },
+   {
+      "word":"Berlin",
+      "link":"//www.booking.com/city/de/berlin.html",
+      "title":"Søk etter overnatting i Berlin"
+   },
+   {
+      "word":"Blackpool",
+      "link":"//www.booking.com/city/gb/blackpool.html",
+      "title":"Søk etter overnatting i Blackpool"
+   },
+   {
+      "word":"Brighton and Hove",
+      "link":"//www.booking.com/city/gb/brighton.html",
+      "title":"Søk etter overnatting i Brighton and Hove"
+   },
+   {
+      "word":"Cádiz",
+      "link":"//www.booking.com/city/es/cadiz.html",
+      "title":"Søk etter overnatting i Cádiz"
+   },
+   {
+      "word":"Caldas Novas",
+      "link":"//www.booking.com/city/br/caldas-novas.html",
+      "title":"Søk etter overnatting i Caldas Novas"
+   },
+   {
+      "word":"Campos do Jordão",
+      "link":"//www.booking.com/city/br/campos-do-jordao.html",
+      "title":"Søk etter overnatting i Campos do Jordão"
+   },
+   {
+      "word":"Cardiff",
+      "link":"//www.booking.com/city/gb/cardiff.html",
+      "title":"Søk etter overnatting i Cardiff"
+   },
+   {
+      "word":"Conil de la Frontera",
+      "link":"//www.booking.com/city/es/conil-de-la-frontera.html",
+      "title":"Søk etter overnatting i Conil de la Frontera"
+   },
+   {
+      "word":"Deauville",
+      "link":"//www.booking.com/city/fr/deauville-les-bains.html",
+      "title":"Søk etter overnatting i Deauville"
+   },
+   {
+      "word":"Destin",
+      "link":"//www.booking.com/city/us/destin.html",
+      "title":"Søk etter overnatting i Destin"
+   },
+   {
+      "word":"Dresden",
+      "link":"//www.booking.com/city/de/dresden.html",
+      "title":"Søk etter overnatting i Dresden"
+   },
+   {
+      "word":"Dubai",
+      "link":"//www.booking.com/city/ae/dubai.html",
+      "title":"Søk etter overnatting i Dubai"
+   },
+   {
+      "word":"Dublin",
+      "link":"//www.booking.com/city/ie/dublin.html",
+      "title":"Søk etter overnatting i Dublin"
+   },
+   {
+      "word":"Edinburgh",
+      "link":"//www.booking.com/city/gb/edinburgh.html",
+      "title":"Søk etter overnatting i Edinburgh"
+   },
+   {
+      "word":"Eilat",
+      "link":"//www.booking.com/city/il/elat.html",
+      "title":"Søk etter overnatting i Eilat"
+   },
+   {
+      "word":"El Puerto de Santa María",
+      "link":"//www.booking.com/city/es/el-puerto-de-santa-maria.html",
+      "title":"Søk etter overnatting i El Puerto de Santa María"
+   },
+   {
+      "word":"Estepona",
+      "link":"//www.booking.com/city/es/estepona.html",
+      "title":"Søk etter overnatting i Estepona"
+   },
+   {
+      "word":"Étretat",
+      "link":"//www.booking.com/city/fr/etretat.html",
+      "title":"Søk etter overnatting i Étretat"
+   },
+   {
+      "word":"Favignana",
+      "link":"//www.booking.com/city/it/favignana.html",
+      "title":"Søk etter overnatting i Favignana"
+   },
+   {
+      "word":"Firenze",
+      "link":"//www.booking.com/city/it/florence.html",
+      "title":"Søk etter overnatting i Firenze"
+   },
+   {
+      "word":"Fortaleza",
+      "link":"//www.booking.com/city/br/fortaleza.html",
+      "title":"Søk etter overnatting i Fortaleza"
+   },
+   {
+      "word":"Forte dei Marmi",
+      "link":"//www.booking.com/city/it/forte-dei-marmi.html",
+      "title":"Søk etter overnatting i Forte dei Marmi"
+   },
+   {
+      "word":"Fuengirola",
+      "link":"//www.booking.com/city/es/fuengirola.html",
+      "title":"Søk etter overnatting i Fuengirola"
+   },
+   {
+      "word":"Galveston",
+      "link":"//www.booking.com/city/us/galveston.html",
+      "title":"Søk etter overnatting i Galveston"
+   },
+   {
+      "word":"Gandía",
+      "link":"//www.booking.com/city/es/gandia.html",
+      "title":"Søk etter overnatting i Gandía"
+   },
+   {
+      "word":"Glasgow",
+      "link":"//www.booking.com/city/gb/glasgow.html",
+      "title":"Søk etter overnatting i Glasgow"
+   },
+   {
+      "word":"Göteborg",
+      "link":"//www.booking.com/city/se/goteborg.html",
+      "title":"Søk etter overnatting i Göteborg"
+   },
+   {
+      "word":"Gramado",
+      "link":"//www.booking.com/city/br/gramado-br.html",
+      "title":"Søk etter overnatting i Gramado"
+   },
+   {
+      "word":"Hamburg",
+      "link":"//www.booking.com/city/de/hamburg.html",
+      "title":"Søk etter overnatting i Hamburg"
+   },
+   {
+      "word":"Helsingfors",
+      "link":"//www.booking.com/city/fi/helsinki.html",
+      "title":"Søk etter overnatting i Helsingfors"
+   },
+   {
+      "word":"Hilton Head Island",
+      "link":"//www.booking.com/city/us/hilton-head-island.html",
+      "title":"Søk etter overnatting i Hilton Head Island"
+   },
+   {
+      "word":"Hong Kong",
+      "link":"//www.booking.com/city/hk/hong-kong.html",
+      "title":"Søk etter overnatting i Hong Kong"
+   },
+   {
+      "word":"Huelva",
+      "link":"//www.booking.com/city/es/huelva.html",
+      "title":"Søk etter overnatting i Huelva"
+   },
+   {
+      "word":"Ischia (by)",
+      "link":"//www.booking.com/city/it/ischia.html",
+      "title":"Søk etter overnatting i Ischia (by)"
+   },
+   {
+      "word":"Isla Canela",
+      "link":"//www.booking.com/city/es/isla-de-canela.html",
+      "title":"Søk etter overnatting i Isla Canela"
+   },
+   {
+      "word":"Islantilla",
+      "link":"//www.booking.com/city/es/islantilla.html",
+      "title":"Søk etter overnatting i Islantilla"
+   },
+   {
+      "word":"Istanbul",
+      "link":"//www.booking.com/city/tr/istanbul.html",
+      "title":"Søk etter overnatting i Istanbul"
+   },
+   {
+      "word":"İzmir",
+      "link":"//www.booking.com/city/tr/izmir.html",
+      "title":"Søk etter overnatting i İzmir"
+   },
+   {
+      "word":"Jasper",
+      "link":"//www.booking.com/city/ca/jasper.html",
+      "title":"Søk etter overnatting i Jasper"
+   },
+   {
+      "word":"Jávea",
+      "link":"//www.booking.com/city/es/javea.html",
+      "title":"Søk etter overnatting i Jávea"
+   },
+   {
+      "word":"Jeddah",
+      "link":"//www.booking.com/city/sa/jiddah.html",
+      "title":"Søk etter overnatting i Jeddah"
+   },
+   {
+      "word":"Jericoacoara",
+      "link":"//www.booking.com/city/br/jericoacoara.html",
+      "title":"Søk etter overnatting i Jericoacoara"
+   },
+   {
+      "word":"João Pessoa",
+      "link":"//www.booking.com/city/br/joao-pessoa.html",
+      "title":"Søk etter overnatting i João Pessoa"
+   },
+   {
+      "word":"Key West",
+      "link":"//www.booking.com/city/us/key-west.html",
+      "title":"Søk etter overnatting i Key West"
+   },
+   {
+      "word":"Köln",
+      "link":"//www.booking.com/city/de/cologne.html",
+      "title":"Søk etter overnatting i Köln"
+   },
+   {
+      "word":"Konstanz",
+      "link":"//www.booking.com/city/de/konstanz.html",
+      "title":"Søk etter overnatting i Konstanz"
+   },
+   {
+      "word":"Kraków",
+      "link":"//www.booking.com/city/pl/krakow.html",
+      "title":"Søk etter overnatting i Kraków"
+   },
+   {
+      "word":"Kuala Lumpur",
+      "link":"//www.booking.com/city/my/kuala-lumpur.html",
+      "title":"Søk etter overnatting i Kuala Lumpur"
+   },
+   {
+      "word":"Las Vegas",
+      "link":"//www.booking.com/city/us/las-vegas.html",
+      "title":"Søk etter overnatting i Las Vegas"
+   },
+   {
+      "word":"Leeds",
+      "link":"//www.booking.com/city/gb/leeds.html",
+      "title":"Søk etter overnatting i Leeds"
+   },
+   {
+      "word":"Lido di Jesolo",
+      "link":"//www.booking.com/city/it/lido-di-jesolo.html",
+      "title":"Søk etter overnatting i Lido di Jesolo"
+   },
+   {
+      "word":"Liverpool",
+      "link":"//www.booking.com/city/gb/liverpool.html",
+      "title":"Søk etter overnatting i Liverpool"
+   },
+   {
+      "word":"London",
+      "link":"//www.booking.com/city/gb/london.html",
+      "title":"Søk etter overnatting i London"
+   },
+   {
+      "word":"Madrid",
+      "link":"//www.booking.com/city/es/madrid.html",
+      "title":"Søk etter overnatting i Madrid"
+   },
+   {
+      "word":"Mekka",
+      "link":"//www.booking.com/city/sa/mecca.html",
+      "title":"Søk etter overnatting i Mekka"
+   },
+   {
+      "word":"Manchester",
+      "link":"//www.booking.com/city/gb/manchester.html",
+      "title":"Søk etter overnatting i Manchester"
+   },
+   {
+      "word":"München",
+      "link":"//www.booking.com/city/de/munich.html",
+      "title":"Søk etter overnatting i München"
+   },
+   {
+      "word":"Myrtle Beach",
+      "link":"//www.booking.com/city/us/myrtle-beach.html",
+      "title":"Søk etter overnatting i Myrtle Beach"
+   },
+   {
+      "word":"Nashville",
+      "link":"//www.booking.com/city/us/nashville.html",
+      "title":"Søk etter overnatting i Nashville"
+   },
+   {
+      "word":"New York",
+      "link":"//www.booking.com/city/us/new-york.html",
+      "title":"Søk etter overnatting i New York"
+   },
+   {
+      "word":"Newcastle upon Tyne",
+      "link":"//www.booking.com/city/gb/newcastle-upon-tyne.html",
+      "title":"Søk etter overnatting i Newcastle upon Tyne"
+   },
+   {
+      "word":"Nice",
+      "link":"//www.booking.com/city/fr/nice.html",
+      "title":"Søk etter overnatting i Nice"
+   },
+   {
+      "word":"Norderney",
+      "link":"//www.booking.com/city/de/norderney.html",
+      "title":"Søk etter overnatting i Norderney"
+   },
+   {
+      "word":"Ocean City",
+      "link":"//www.booking.com/city/us/ocean-city.html",
+      "title":"Søk etter overnatting i Ocean City"
+   },
+   {
+      "word":"Orange Beach",
+      "link":"//www.booking.com/city/us/orange-beach.html",
+      "title":"Søk etter overnatting i Orange Beach"
+   },
+   {
+      "word":"Orlando",
+      "link":"//www.booking.com/city/us/orlando.html",
+      "title":"Søk etter overnatting i Orlando"
+   },
+   {
+      "word":"Oropesa del Mar",
+      "link":"//www.booking.com/city/es/oropesa.html",
+      "title":"Søk etter overnatting i Oropesa del Mar"
+   },
+   {
+      "word":"Oxford",
+      "link":"//www.booking.com/city/gb/oxford.html",
+      "title":"Søk etter overnatting i Oxford"
+   },
+   {
+      "word":"Panama City Beach",
+      "link":"//www.booking.com/city/us/panama-city-beach.html",
+      "title":"Søk etter overnatting i Panama City Beach"
+   },
+   {
+      "word":"Paris",
+      "link":"//www.booking.com/city/fr/paris.html",
+      "title":"Søk etter overnatting i Paris"
+   },
+   {
+      "word":"Peñíscola",
+      "link":"//www.booking.com/city/es/peniscola.html",
+      "title":"Søk etter overnatting i Peñíscola"
+   },
+   {
+      "word":"Pigeon Forge",
+      "link":"//www.booking.com/city/us/pigeon-forge.html",
+      "title":"Søk etter overnatting i Pigeon Forge"
+   },
+   {
+      "word":"Punta Umbría",
+      "link":"//www.booking.com/city/es/punta-umbria.html",
+      "title":"Søk etter overnatting i Punta Umbría"
+   },
+   {
+      "word":"Québec",
+      "link":"//www.booking.com/city/ca/quebec.html",
+      "title":"Søk etter overnatting i Québec"
+   },
+   {
+      "word":"Quedlinburg",
+      "link":"//www.booking.com/city/de/quedlinburg.html",
+      "title":"Søk etter overnatting i Quedlinburg"
+   },
+   {
+      "word":"Quito",
+      "link":"//www.booking.com/city/ec/quito.html",
+      "title":"Søk etter overnatting i Quito"
+   },
+   {
+      "word":"Riccione",
+      "link":"//www.booking.com/city/it/riccione-marina.html",
+      "title":"Søk etter overnatting i Riccione"
+   },
+   {
+      "word":"Rimini",
+      "link":"//www.booking.com/city/it/rimini.html",
+      "title":"Søk etter overnatting i Rimini"
+   },
+   {
+      "word":"Rio de Janeiro",
+      "link":"//www.booking.com/city/br/rio-de-janeiro.html",
+      "title":"Søk etter overnatting i Rio de Janeiro"
+   },
+   {
+      "word":"Roma",
+      "link":"//www.booking.com/city/it/rome.html",
+      "title":"Søk etter overnatting i Roma"
+   },
+   {
+      "word":"Roquetas de Mar",
+      "link":"//www.booking.com/city/es/roquetas-de-mar.html",
+      "title":"Søk etter overnatting i Roquetas de Mar"
+   },
+   {
+      "word":"Salou",
+      "link":"//www.booking.com/city/es/salou.html",
+      "title":"Søk etter overnatting i Salou"
+   },
+   {
+      "word":"Sevilla",
+      "link":"//www.booking.com/city/es/sevilla.html",
+      "title":"Søk etter overnatting i Sevilla"
+   },
+   {
+      "word":"Sharm el-Sheik",
+      "link":"//www.booking.com/city/eg/sherm-el-sheikh.html",
+      "title":"Søk etter overnatting i Sharm el-Sheik"
+   },
+   {
+      "word":"Singapore",
+      "link":"//www.booking.com/city/sg/singapore.html",
+      "title":"Søk etter overnatting i Singapore"
+   },
+   {
+      "word":"Stockholm",
+      "link":"//www.booking.com/city/se/stockholm.html",
+      "title":"Søk etter overnatting i Stockholm"
+   },
+   {
+      "word":"Torino",
+      "link":"//www.booking.com/city/it/torino.html",
+      "title":"Søk etter overnatting i Torino"
+   },
+   {
+      "word":"Toronto",
+      "link":"//www.booking.com/city/ca/toronto.html",
+      "title":"Søk etter overnatting i Toronto"
+   },
+   {
+      "word":"Torquay",
+      "link":"//www.booking.com/city/gb/torquay.html",
+      "title":"Søk etter overnatting i Torquay"
+   },
+   {
+      "word":"Torremolinos",
+      "link":"//www.booking.com/city/es/torremolinos.html",
+      "title":"Søk etter overnatting i Torremolinos"
+   },
+   {
+      "word":"Tybee Island",
+      "link":"//www.booking.com/city/us/tybee-island.html",
+      "title":"Søk etter overnatting i Tybee Island"
+   },
+   {
+      "word":"Umag",
+      "link":"//www.booking.com/city/hr/umag.html",
+      "title":"Søk etter overnatting i Umag"
+   },
+   {
+      "word":"Uzungöl",
+      "link":"//www.booking.com/city/tr/uzungol.html",
+      "title":"Søk etter overnatting i Uzungöl"
+   },
+   {
+      "word":"Valencia",
+      "link":"//www.booking.com/city/es/valencia.html",
+      "title":"Søk etter overnatting i Valencia"
+   },
+   {
+      "word":"Vancouver",
+      "link":"//www.booking.com/city/ca/vancouver.html",
+      "title":"Søk etter overnatting i Vancouver"
+   },
+   {
+      "word":"Varazze",
+      "link":"//www.booking.com/city/it/varazze.html",
+      "title":"Søk etter overnatting i Varazze"
+   },
+   {
+      "word":"Venezia",
+      "link":"//www.booking.com/city/it/venice.html",
+      "title":"Søk etter overnatting i Venezia"
+   },
+   {
+      "word":"Vieste",
+      "link":"//www.booking.com/city/it/vieste.html",
+      "title":"Søk etter overnatting i Vieste"
+   },
+   {
+      "word":"Virginia Beach",
+      "link":"//www.booking.com/city/us/virginia-beach.html",
+      "title":"Søk etter overnatting i Virginia Beach"
+   },
+   {
+      "word":"Warnemünde",
+      "link":"//www.booking.com/city/de/warnemunde.html",
+      "title":"Søk etter overnatting i Warnemünde"
+   },
+   {
+      "word":"Warszawa",
+      "link":"//www.booking.com/city/pl/warsaw.html",
+      "title":"Søk etter overnatting i Warszawa"
+   },
+   {
+      "word":"Whitby",
+      "link":"//www.booking.com/city/gb/whitby-aireborough.html",
+      "title":"Søk etter overnatting i Whitby"
+   },
+   {
+      "word":"Wien",
+      "link":"//www.booking.com/city/at/vienna.html",
+      "title":"Søk etter overnatting i Wien"
+   },
+   {
+      "word":"Wildwood",
+      "link":"//www.booking.com/city/us/wildwood.html",
+      "title":"Søk etter overnatting i Wildwood"
+   },
+   {
+      "word":"Jalta",
+      "link":"//www.booking.com/city/ua/yalta.html",
+      "title":"Søk etter overnatting i Jalta"
+   },
+   {
+      "word":"Jevpatorija",
+      "link":"//www.booking.com/city/ua/yevpatoriya.html",
+      "title":"Søk etter overnatting i Jevpatorija"
+   },
+   {
+      "word":"Zahara de los Atunes",
+      "link":"//www.booking.com/city/es/zahara-de-los-atunes.html",
+      "title":"Søk etter overnatting i Zahara de los Atunes"
+   },
+   {
+      "word":"Zakopane",
+      "link":"//www.booking.com/city/pl/zakopane.html",
+      "title":"Søk etter overnatting i Zakopane"
+   },
+   {
+      "word":"Zandvoort",
+      "link":"//www.booking.com/city/nl/zandvoort.html",
+      "title":"Søk etter overnatting i Zandvoort"
+   },
+   {
+      "word":"Zaragoza",
+      "link":"//www.booking.com/city/es/zaragoza.html",
+      "title":"Søk etter overnatting i Zaragoza"
+   },
+   {
+      "word":"Zatoka",
+      "link":"//www.booking.com/city/ua/zatoka.html",
+      "title":"Søk etter overnatting i Zatoka"
+   }
+]

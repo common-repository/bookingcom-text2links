@@ -1,0 +1,592 @@
+[
+   {
+      "word":"Ağva",
+      "link":"//www.booking.com/city/tr/yesilcay.html",
+      "title":"Otsige majutusvõimalusi linnas Ağva"
+   },
+   {
+      "word":"Al Madinah",
+      "link":"//www.booking.com/city/sa/medina.html",
+      "title":"Otsige majutusvõimalusi linnas Al Madinah"
+   },
+   {
+      "word":"Alicante",
+      "link":"//www.booking.com/city/es/alicante.html",
+      "title":"Otsige majutusvõimalusi linnas Alicante"
+   },
+   {
+      "word":"Amsterdam",
+      "link":"//www.booking.com/city/nl/amsterdam.html",
+      "title":"Otsige majutusvõimalusi linnas Amsterdam"
+   },
+   {
+      "word":"Atlantic City",
+      "link":"//www.booking.com/city/us/atlantic-city.html",
+      "title":"Otsige majutusvõimalusi linnas Atlantic City"
+   },
+   {
+      "word":"Barcelona",
+      "link":"//www.booking.com/city/es/barcelona.html",
+      "title":"Otsige majutusvõimalusi linnas Barcelona"
+   },
+   {
+      "word":"Benidorm",
+      "link":"//www.booking.com/city/es/benidorm.html",
+      "title":"Otsige majutusvõimalusi linnas Benidorm"
+   },
+   {
+      "word":"Berliin",
+      "link":"//www.booking.com/city/de/berlin.html",
+      "title":"Otsige majutusvõimalusi linnas Berliin"
+   },
+   {
+      "word":"Blackpool",
+      "link":"//www.booking.com/city/gb/blackpool.html",
+      "title":"Otsige majutusvõimalusi linnas Blackpool"
+   },
+   {
+      "word":"Brighton & Hove",
+      "link":"//www.booking.com/city/gb/brighton.html",
+      "title":"Otsige majutusvõimalusi linnas Brighton & Hove"
+   },
+   {
+      "word":"Cádiz",
+      "link":"//www.booking.com/city/es/cadiz.html",
+      "title":"Otsige majutusvõimalusi linnas Cádiz"
+   },
+   {
+      "word":"Caldas Novas",
+      "link":"//www.booking.com/city/br/caldas-novas.html",
+      "title":"Otsige majutusvõimalusi linnas Caldas Novas"
+   },
+   {
+      "word":"Campos do Jordão",
+      "link":"//www.booking.com/city/br/campos-do-jordao.html",
+      "title":"Otsige majutusvõimalusi linnas Campos do Jordão"
+   },
+   {
+      "word":"Cardiff",
+      "link":"//www.booking.com/city/gb/cardiff.html",
+      "title":"Otsige majutusvõimalusi linnas Cardiff"
+   },
+   {
+      "word":"Conil de la Frontera",
+      "link":"//www.booking.com/city/es/conil-de-la-frontera.html",
+      "title":"Otsige majutusvõimalusi linnas Conil de la Frontera"
+   },
+   {
+      "word":"Deauville",
+      "link":"//www.booking.com/city/fr/deauville-les-bains.html",
+      "title":"Otsige majutusvõimalusi linnas Deauville"
+   },
+   {
+      "word":"Destin",
+      "link":"//www.booking.com/city/us/destin.html",
+      "title":"Otsige majutusvõimalusi linnas Destin"
+   },
+   {
+      "word":"Dresden",
+      "link":"//www.booking.com/city/de/dresden.html",
+      "title":"Otsige majutusvõimalusi linnas Dresden"
+   },
+   {
+      "word":"Dubai",
+      "link":"//www.booking.com/city/ae/dubai.html",
+      "title":"Otsige majutusvõimalusi linnas Dubai"
+   },
+   {
+      "word":"Dublin",
+      "link":"//www.booking.com/city/ie/dublin.html",
+      "title":"Otsige majutusvõimalusi linnas Dublin"
+   },
+   {
+      "word":"Edinburgh",
+      "link":"//www.booking.com/city/gb/edinburgh.html",
+      "title":"Otsige majutusvõimalusi linnas Edinburgh"
+   },
+   {
+      "word":"Elat",
+      "link":"//www.booking.com/city/il/elat.html",
+      "title":"Otsige majutusvõimalusi linnas Elat"
+   },
+   {
+      "word":"El Puerto de Santa María",
+      "link":"//www.booking.com/city/es/el-puerto-de-santa-maria.html",
+      "title":"Otsige majutusvõimalusi linnas El Puerto de Santa María"
+   },
+   {
+      "word":"Estepona",
+      "link":"//www.booking.com/city/es/estepona.html",
+      "title":"Otsige majutusvõimalusi linnas Estepona"
+   },
+   {
+      "word":"Étretat",
+      "link":"//www.booking.com/city/fr/etretat.html",
+      "title":"Otsige majutusvõimalusi linnas Étretat"
+   },
+   {
+      "word":"Favignana",
+      "link":"//www.booking.com/city/it/favignana.html",
+      "title":"Otsige majutusvõimalusi linnas Favignana"
+   },
+   {
+      "word":"Firenze",
+      "link":"//www.booking.com/city/it/florence.html",
+      "title":"Otsige majutusvõimalusi linnas Firenze"
+   },
+   {
+      "word":"Fortaleza",
+      "link":"//www.booking.com/city/br/fortaleza.html",
+      "title":"Otsige majutusvõimalusi linnas Fortaleza"
+   },
+   {
+      "word":"Forte dei Marmi",
+      "link":"//www.booking.com/city/it/forte-dei-marmi.html",
+      "title":"Otsige majutusvõimalusi linnas Forte dei Marmi"
+   },
+   {
+      "word":"Fuengirola",
+      "link":"//www.booking.com/city/es/fuengirola.html",
+      "title":"Otsige majutusvõimalusi linnas Fuengirola"
+   },
+   {
+      "word":"Galveston",
+      "link":"//www.booking.com/city/us/galveston.html",
+      "title":"Otsige majutusvõimalusi linnas Galveston"
+   },
+   {
+      "word":"Gandía",
+      "link":"//www.booking.com/city/es/gandia.html",
+      "title":"Otsige majutusvõimalusi linnas Gandía"
+   },
+   {
+      "word":"Glasgow",
+      "link":"//www.booking.com/city/gb/glasgow.html",
+      "title":"Otsige majutusvõimalusi linnas Glasgow"
+   },
+   {
+      "word":"Göteborg",
+      "link":"//www.booking.com/city/se/goteborg.html",
+      "title":"Otsige majutusvõimalusi linnas Göteborg"
+   },
+   {
+      "word":"Gramado",
+      "link":"//www.booking.com/city/br/gramado-br.html",
+      "title":"Otsige majutusvõimalusi linnas Gramado"
+   },
+   {
+      "word":"Hamburg",
+      "link":"//www.booking.com/city/de/hamburg.html",
+      "title":"Otsige majutusvõimalusi linnas Hamburg"
+   },
+   {
+      "word":"Helsingi",
+      "link":"//www.booking.com/city/fi/helsinki.html",
+      "title":"Otsige majutusvõimalusi linnas Helsingi"
+   },
+   {
+      "word":"Hilton Head Island",
+      "link":"//www.booking.com/city/us/hilton-head-island.html",
+      "title":"Otsige majutusvõimalusi linnas Hilton Head Island"
+   },
+   {
+      "word":"Hongkong",
+      "link":"//www.booking.com/city/hk/hong-kong.html",
+      "title":"Otsige majutusvõimalusi linnas Hongkong"
+   },
+   {
+      "word":"Huelva",
+      "link":"//www.booking.com/city/es/huelva.html",
+      "title":"Otsige majutusvõimalusi linnas Huelva"
+   },
+   {
+      "word":"Ischia",
+      "link":"//www.booking.com/city/it/ischia.html",
+      "title":"Otsige majutusvõimalusi linnas Ischia"
+   },
+   {
+      "word":"Isla Canela",
+      "link":"//www.booking.com/city/es/isla-de-canela.html",
+      "title":"Otsige majutusvõimalusi linnas Isla Canela"
+   },
+   {
+      "word":"Islantilla",
+      "link":"//www.booking.com/city/es/islantilla.html",
+      "title":"Otsige majutusvõimalusi linnas Islantilla"
+   },
+   {
+      "word":"İstanbul",
+      "link":"//www.booking.com/city/tr/istanbul.html",
+      "title":"Otsige majutusvõimalusi linnas İstanbul"
+   },
+   {
+      "word":"İzmir",
+      "link":"//www.booking.com/city/tr/izmir.html",
+      "title":"Otsige majutusvõimalusi linnas İzmir"
+   },
+   {
+      "word":"Jasper",
+      "link":"//www.booking.com/city/ca/jasper.html",
+      "title":"Otsige majutusvõimalusi linnas Jasper"
+   },
+   {
+      "word":"Jávea",
+      "link":"//www.booking.com/city/es/javea.html",
+      "title":"Otsige majutusvõimalusi linnas Jávea"
+   },
+   {
+      "word":"Jiddah",
+      "link":"//www.booking.com/city/sa/jiddah.html",
+      "title":"Otsige majutusvõimalusi linnas Jiddah"
+   },
+   {
+      "word":"Jericoacoara",
+      "link":"//www.booking.com/city/br/jericoacoara.html",
+      "title":"Otsige majutusvõimalusi linnas Jericoacoara"
+   },
+   {
+      "word":"João Pessoa",
+      "link":"//www.booking.com/city/br/joao-pessoa.html",
+      "title":"Otsige majutusvõimalusi linnas João Pessoa"
+   },
+   {
+      "word":"Key West",
+      "link":"//www.booking.com/city/us/key-west.html",
+      "title":"Otsige majutusvõimalusi linnas Key West"
+   },
+   {
+      "word":"Köln",
+      "link":"//www.booking.com/city/de/cologne.html",
+      "title":"Otsige majutusvõimalusi linnas Köln"
+   },
+   {
+      "word":"Konstanz",
+      "link":"//www.booking.com/city/de/konstanz.html",
+      "title":"Otsige majutusvõimalusi linnas Konstanz"
+   },
+   {
+      "word":"Kraków",
+      "link":"//www.booking.com/city/pl/krakow.html",
+      "title":"Otsige majutusvõimalusi linnas Kraków"
+   },
+   {
+      "word":"Kuala Lumpur",
+      "link":"//www.booking.com/city/my/kuala-lumpur.html",
+      "title":"Otsige majutusvõimalusi linnas Kuala Lumpur"
+   },
+   {
+      "word":"Las Vegas",
+      "link":"//www.booking.com/city/us/las-vegas.html",
+      "title":"Otsige majutusvõimalusi linnas Las Vegas"
+   },
+   {
+      "word":"Leeds",
+      "link":"//www.booking.com/city/gb/leeds.html",
+      "title":"Otsige majutusvõimalusi linnas Leeds"
+   },
+   {
+      "word":"Lido di Jesolo",
+      "link":"//www.booking.com/city/it/lido-di-jesolo.html",
+      "title":"Otsige majutusvõimalusi linnas Lido di Jesolo"
+   },
+   {
+      "word":"Liverpool",
+      "link":"//www.booking.com/city/gb/liverpool.html",
+      "title":"Otsige majutusvõimalusi linnas Liverpool"
+   },
+   {
+      "word":"London",
+      "link":"//www.booking.com/city/gb/london.html",
+      "title":"Otsige majutusvõimalusi linnas London"
+   },
+   {
+      "word":"Madrid",
+      "link":"//www.booking.com/city/es/madrid.html",
+      "title":"Otsige majutusvõimalusi linnas Madrid"
+   },
+   {
+      "word":"Meka",
+      "link":"//www.booking.com/city/sa/mecca.html",
+      "title":"Otsige majutusvõimalusi linnas Meka"
+   },
+   {
+      "word":"Manchester",
+      "link":"//www.booking.com/city/gb/manchester.html",
+      "title":"Otsige majutusvõimalusi linnas Manchester"
+   },
+   {
+      "word":"München",
+      "link":"//www.booking.com/city/de/munich.html",
+      "title":"Otsige majutusvõimalusi linnas München"
+   },
+   {
+      "word":"Myrtle Beach",
+      "link":"//www.booking.com/city/us/myrtle-beach.html",
+      "title":"Otsige majutusvõimalusi linnas Myrtle Beach"
+   },
+   {
+      "word":"Nashville",
+      "link":"//www.booking.com/city/us/nashville.html",
+      "title":"Otsige majutusvõimalusi linnas Nashville"
+   },
+   {
+      "word":"New York",
+      "link":"//www.booking.com/city/us/new-york.html",
+      "title":"Otsige majutusvõimalusi linnas New York"
+   },
+   {
+      "word":"Newcastle Tyne'i ääres",
+      "link":"//www.booking.com/city/gb/newcastle-upon-tyne.html",
+      "title":"Otsige majutusvõimalusi linnas Newcastle Tyne'i ääres"
+   },
+   {
+      "word":"Nizza",
+      "link":"//www.booking.com/city/fr/nice.html",
+      "title":"Otsige majutusvõimalusi linnas Nizza"
+   },
+   {
+      "word":"Norderney",
+      "link":"//www.booking.com/city/de/norderney.html",
+      "title":"Otsige majutusvõimalusi linnas Norderney"
+   },
+   {
+      "word":"Ocean City",
+      "link":"//www.booking.com/city/us/ocean-city.html",
+      "title":"Otsige majutusvõimalusi linnas Ocean City"
+   },
+   {
+      "word":"Orange Beach",
+      "link":"//www.booking.com/city/us/orange-beach.html",
+      "title":"Otsige majutusvõimalusi linnas Orange Beach"
+   },
+   {
+      "word":"Orlando",
+      "link":"//www.booking.com/city/us/orlando.html",
+      "title":"Otsige majutusvõimalusi linnas Orlando"
+   },
+   {
+      "word":"Oropesa del Mar",
+      "link":"//www.booking.com/city/es/oropesa.html",
+      "title":"Otsige majutusvõimalusi linnas Oropesa del Mar"
+   },
+   {
+      "word":"Oxford",
+      "link":"//www.booking.com/city/gb/oxford.html",
+      "title":"Otsige majutusvõimalusi linnas Oxford"
+   },
+   {
+      "word":"Panama City Beach",
+      "link":"//www.booking.com/city/us/panama-city-beach.html",
+      "title":"Otsige majutusvõimalusi linnas Panama City Beach"
+   },
+   {
+      "word":"Pariis",
+      "link":"//www.booking.com/city/fr/paris.html",
+      "title":"Otsige majutusvõimalusi linnas Pariis"
+   },
+   {
+      "word":"Peñíscola",
+      "link":"//www.booking.com/city/es/peniscola.html",
+      "title":"Otsige majutusvõimalusi linnas Peñíscola"
+   },
+   {
+      "word":"Pigeon Forge",
+      "link":"//www.booking.com/city/us/pigeon-forge.html",
+      "title":"Otsige majutusvõimalusi linnas Pigeon Forge"
+   },
+   {
+      "word":"Punta Umbría",
+      "link":"//www.booking.com/city/es/punta-umbria.html",
+      "title":"Otsige majutusvõimalusi linnas Punta Umbría"
+   },
+   {
+      "word":"Quebec",
+      "link":"//www.booking.com/city/ca/quebec.html",
+      "title":"Otsige majutusvõimalusi linnas Quebec"
+   },
+   {
+      "word":"Quedlinburg",
+      "link":"//www.booking.com/city/de/quedlinburg.html",
+      "title":"Otsige majutusvõimalusi linnas Quedlinburg"
+   },
+   {
+      "word":"Quito",
+      "link":"//www.booking.com/city/ec/quito.html",
+      "title":"Otsige majutusvõimalusi linnas Quito"
+   },
+   {
+      "word":"Riccione",
+      "link":"//www.booking.com/city/it/riccione-marina.html",
+      "title":"Otsige majutusvõimalusi linnas Riccione"
+   },
+   {
+      "word":"Rimini",
+      "link":"//www.booking.com/city/it/rimini.html",
+      "title":"Otsige majutusvõimalusi linnas Rimini"
+   },
+   {
+      "word":"Rio de Janeiro",
+      "link":"//www.booking.com/city/br/rio-de-janeiro.html",
+      "title":"Otsige majutusvõimalusi linnas Rio de Janeiro"
+   },
+   {
+      "word":"Rooma",
+      "link":"//www.booking.com/city/it/rome.html",
+      "title":"Otsige majutusvõimalusi linnas Rooma"
+   },
+   {
+      "word":"Roquetas de Mar",
+      "link":"//www.booking.com/city/es/roquetas-de-mar.html",
+      "title":"Otsige majutusvõimalusi linnas Roquetas de Mar"
+   },
+   {
+      "word":"Salou",
+      "link":"//www.booking.com/city/es/salou.html",
+      "title":"Otsige majutusvõimalusi linnas Salou"
+   },
+   {
+      "word":"Sevilla",
+      "link":"//www.booking.com/city/es/sevilla.html",
+      "title":"Otsige majutusvõimalusi linnas Sevilla"
+   },
+   {
+      "word":"Sharm el-Sheikh",
+      "link":"//www.booking.com/city/eg/sherm-el-sheikh.html",
+      "title":"Otsige majutusvõimalusi linnas Sharm el-Sheikh"
+   },
+   {
+      "word":"Singapur",
+      "link":"//www.booking.com/city/sg/singapore.html",
+      "title":"Otsige majutusvõimalusi linnas Singapur"
+   },
+   {
+      "word":"Stockholm",
+      "link":"//www.booking.com/city/se/stockholm.html",
+      "title":"Otsige majutusvõimalusi linnas Stockholm"
+   },
+   {
+      "word":"Torino",
+      "link":"//www.booking.com/city/it/torino.html",
+      "title":"Otsige majutusvõimalusi linnas Torino"
+   },
+   {
+      "word":"Toronto",
+      "link":"//www.booking.com/city/ca/toronto.html",
+      "title":"Otsige majutusvõimalusi linnas Toronto"
+   },
+   {
+      "word":"Torquay",
+      "link":"//www.booking.com/city/gb/torquay.html",
+      "title":"Otsige majutusvõimalusi linnas Torquay"
+   },
+   {
+      "word":"Torremolinos",
+      "link":"//www.booking.com/city/es/torremolinos.html",
+      "title":"Otsige majutusvõimalusi linnas Torremolinos"
+   },
+   {
+      "word":"Tybee Island",
+      "link":"//www.booking.com/city/us/tybee-island.html",
+      "title":"Otsige majutusvõimalusi linnas Tybee Island"
+   },
+   {
+      "word":"Umag",
+      "link":"//www.booking.com/city/hr/umag.html",
+      "title":"Otsige majutusvõimalusi linnas Umag"
+   },
+   {
+      "word":"Uzungöl",
+      "link":"//www.booking.com/city/tr/uzungol.html",
+      "title":"Otsige majutusvõimalusi linnas Uzungöl"
+   },
+   {
+      "word":"Valencia",
+      "link":"//www.booking.com/city/es/valencia.html",
+      "title":"Otsige majutusvõimalusi linnas Valencia"
+   },
+   {
+      "word":"Vancouver",
+      "link":"//www.booking.com/city/ca/vancouver.html",
+      "title":"Otsige majutusvõimalusi linnas Vancouver"
+   },
+   {
+      "word":"Varazze",
+      "link":"//www.booking.com/city/it/varazze.html",
+      "title":"Otsige majutusvõimalusi linnas Varazze"
+   },
+   {
+      "word":"Veneetsia",
+      "link":"//www.booking.com/city/it/venice.html",
+      "title":"Otsige majutusvõimalusi linnas Veneetsia"
+   },
+   {
+      "word":"Vieste",
+      "link":"//www.booking.com/city/it/vieste.html",
+      "title":"Otsige majutusvõimalusi linnas Vieste"
+   },
+   {
+      "word":"Virginia Beach",
+      "link":"//www.booking.com/city/us/virginia-beach.html",
+      "title":"Otsige majutusvõimalusi linnas Virginia Beach"
+   },
+   {
+      "word":"Warnemünde",
+      "link":"//www.booking.com/city/de/warnemunde.html",
+      "title":"Otsige majutusvõimalusi linnas Warnemünde"
+   },
+   {
+      "word":"Varssavi",
+      "link":"//www.booking.com/city/pl/warsaw.html",
+      "title":"Otsige majutusvõimalusi linnas Varssavi"
+   },
+   {
+      "word":"Whitby",
+      "link":"//www.booking.com/city/gb/whitby-aireborough.html",
+      "title":"Otsige majutusvõimalusi linnas Whitby"
+   },
+   {
+      "word":"Viin",
+      "link":"//www.booking.com/city/at/vienna.html",
+      "title":"Otsige majutusvõimalusi linnas Viin"
+   },
+   {
+      "word":"Wildwood",
+      "link":"//www.booking.com/city/us/wildwood.html",
+      "title":"Otsige majutusvõimalusi linnas Wildwood"
+   },
+   {
+      "word":"Jalta",
+      "link":"//www.booking.com/city/ua/yalta.html",
+      "title":"Otsige majutusvõimalusi linnas Jalta"
+   },
+   {
+      "word":"Yevpatoriya",
+      "link":"//www.booking.com/city/ua/yevpatoriya.html",
+      "title":"Otsige majutusvõimalusi linnas Yevpatoriya"
+   },
+   {
+      "word":"Zahara de los Atunes",
+      "link":"//www.booking.com/city/es/zahara-de-los-atunes.html",
+      "title":"Otsige majutusvõimalusi linnas Zahara de los Atunes"
+   },
+   {
+      "word":"Zakopane",
+      "link":"//www.booking.com/city/pl/zakopane.html",
+      "title":"Otsige majutusvõimalusi linnas Zakopane"
+   },
+   {
+      "word":"Zandvoort",
+      "link":"//www.booking.com/city/nl/zandvoort.html",
+      "title":"Otsige majutusvõimalusi linnas Zandvoort"
+   },
+   {
+      "word":"Zaragoza",
+      "link":"//www.booking.com/city/es/zaragoza.html",
+      "title":"Otsige majutusvõimalusi linnas Zaragoza"
+   },
+   {
+      "word":"Zatoka",
+      "link":"//www.booking.com/city/ua/zatoka.html",
+      "title":"Otsige majutusvõimalusi linnas Zatoka"
+   }
+]

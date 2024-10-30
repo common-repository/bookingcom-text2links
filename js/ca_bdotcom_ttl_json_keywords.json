@@ -1,0 +1,592 @@
+[
+   {
+      "word":"Ağva",
+      "link":"//www.booking.com/city/tr/yesilcay.html",
+      "title":"Cerca allotjament a Ağva"
+   },
+   {
+      "word":"Medina",
+      "link":"//www.booking.com/city/sa/medina.html",
+      "title":"Cerca allotjament a Medina"
+   },
+   {
+      "word":"Alacant",
+      "link":"//www.booking.com/city/es/alicante.html",
+      "title":"Cerca allotjament a Alacant"
+   },
+   {
+      "word":"Amsterdam",
+      "link":"//www.booking.com/city/nl/amsterdam.html",
+      "title":"Cerca allotjament a Amsterdam"
+   },
+   {
+      "word":"Atlantic City",
+      "link":"//www.booking.com/city/us/atlantic-city.html",
+      "title":"Cerca allotjament a Atlantic City"
+   },
+   {
+      "word":"Barcelona",
+      "link":"//www.booking.com/city/es/barcelona.html",
+      "title":"Cerca allotjament a Barcelona"
+   },
+   {
+      "word":"Benidorm",
+      "link":"//www.booking.com/city/es/benidorm.html",
+      "title":"Cerca allotjament a Benidorm"
+   },
+   {
+      "word":"Berlín",
+      "link":"//www.booking.com/city/de/berlin.html",
+      "title":"Cerca allotjament a Berlín"
+   },
+   {
+      "word":"Blackpool",
+      "link":"//www.booking.com/city/gb/blackpool.html",
+      "title":"Cerca allotjament a Blackpool"
+   },
+   {
+      "word":"Brighton",
+      "link":"//www.booking.com/city/gb/brighton.html",
+      "title":"Cerca allotjament a Brighton"
+   },
+   {
+      "word":"Cadis",
+      "link":"//www.booking.com/city/es/cadiz.html",
+      "title":"Cerca allotjament a Cadis"
+   },
+   {
+      "word":"Caldas Novas",
+      "link":"//www.booking.com/city/br/caldas-novas.html",
+      "title":"Cerca allotjament a Caldas Novas"
+   },
+   {
+      "word":"Campos do Jordão",
+      "link":"//www.booking.com/city/br/campos-do-jordao.html",
+      "title":"Cerca allotjament a Campos do Jordão"
+   },
+   {
+      "word":"Cardiff",
+      "link":"//www.booking.com/city/gb/cardiff.html",
+      "title":"Cerca allotjament a Cardiff"
+   },
+   {
+      "word":"Conil de la Frontera",
+      "link":"//www.booking.com/city/es/conil-de-la-frontera.html",
+      "title":"Cerca allotjament a Conil de la Frontera"
+   },
+   {
+      "word":"Deauville",
+      "link":"//www.booking.com/city/fr/deauville-les-bains.html",
+      "title":"Cerca allotjament a Deauville"
+   },
+   {
+      "word":"Destin",
+      "link":"//www.booking.com/city/us/destin.html",
+      "title":"Cerca allotjament a Destin"
+   },
+   {
+      "word":"Dresden",
+      "link":"//www.booking.com/city/de/dresden.html",
+      "title":"Cerca allotjament a Dresden"
+   },
+   {
+      "word":"Dubai",
+      "link":"//www.booking.com/city/ae/dubai.html",
+      "title":"Cerca allotjament a Dubai"
+   },
+   {
+      "word":"Dublín",
+      "link":"//www.booking.com/city/ie/dublin.html",
+      "title":"Cerca allotjament a Dublín"
+   },
+   {
+      "word":"Edimburg",
+      "link":"//www.booking.com/city/gb/edinburgh.html",
+      "title":"Cerca allotjament a Edimburg"
+   },
+   {
+      "word":"Elat",
+      "link":"//www.booking.com/city/il/elat.html",
+      "title":"Cerca allotjament a Elat"
+   },
+   {
+      "word":"El Puerto de Santa María",
+      "link":"//www.booking.com/city/es/el-puerto-de-santa-maria.html",
+      "title":"Cerca allotjament a El Puerto de Santa María"
+   },
+   {
+      "word":"Estepona",
+      "link":"//www.booking.com/city/es/estepona.html",
+      "title":"Cerca allotjament a Estepona"
+   },
+   {
+      "word":"Étretat",
+      "link":"//www.booking.com/city/fr/etretat.html",
+      "title":"Cerca allotjament a Étretat"
+   },
+   {
+      "word":"Favignana",
+      "link":"//www.booking.com/city/it/favignana.html",
+      "title":"Cerca allotjament a Favignana"
+   },
+   {
+      "word":"Florència",
+      "link":"//www.booking.com/city/it/florence.html",
+      "title":"Cerca allotjament a Florència"
+   },
+   {
+      "word":"Fortaleza",
+      "link":"//www.booking.com/city/br/fortaleza.html",
+      "title":"Cerca allotjament a Fortaleza"
+   },
+   {
+      "word":"Forte dei Marmi",
+      "link":"//www.booking.com/city/it/forte-dei-marmi.html",
+      "title":"Cerca allotjament a Forte dei Marmi"
+   },
+   {
+      "word":"Fuengirola",
+      "link":"//www.booking.com/city/es/fuengirola.html",
+      "title":"Cerca allotjament a Fuengirola"
+   },
+   {
+      "word":"Galveston",
+      "link":"//www.booking.com/city/us/galveston.html",
+      "title":"Cerca allotjament a Galveston"
+   },
+   {
+      "word":"Gandia",
+      "link":"//www.booking.com/city/es/gandia.html",
+      "title":"Cerca allotjament a Gandia"
+   },
+   {
+      "word":"Glasgow",
+      "link":"//www.booking.com/city/gb/glasgow.html",
+      "title":"Cerca allotjament a Glasgow"
+   },
+   {
+      "word":"Göteborg",
+      "link":"//www.booking.com/city/se/goteborg.html",
+      "title":"Cerca allotjament a Göteborg"
+   },
+   {
+      "word":"Gramado",
+      "link":"//www.booking.com/city/br/gramado-br.html",
+      "title":"Cerca allotjament a Gramado"
+   },
+   {
+      "word":"Hamburg",
+      "link":"//www.booking.com/city/de/hamburg.html",
+      "title":"Cerca allotjament a Hamburg"
+   },
+   {
+      "word":"Hèlsinki",
+      "link":"//www.booking.com/city/fi/helsinki.html",
+      "title":"Cerca allotjament a Hèlsinki"
+   },
+   {
+      "word":"Hilton Head Island",
+      "link":"//www.booking.com/city/us/hilton-head-island.html",
+      "title":"Cerca allotjament a Hilton Head Island"
+   },
+   {
+      "word":"Hong Kong",
+      "link":"//www.booking.com/city/hk/hong-kong.html",
+      "title":"Cerca allotjament a Hong Kong"
+   },
+   {
+      "word":"Huelva",
+      "link":"//www.booking.com/city/es/huelva.html",
+      "title":"Cerca allotjament a Huelva"
+   },
+   {
+      "word":"Ischia",
+      "link":"//www.booking.com/city/it/ischia.html",
+      "title":"Cerca allotjament a Ischia"
+   },
+   {
+      "word":"Isla Canela",
+      "link":"//www.booking.com/city/es/isla-de-canela.html",
+      "title":"Cerca allotjament a Isla Canela"
+   },
+   {
+      "word":"Islantilla",
+      "link":"//www.booking.com/city/es/islantilla.html",
+      "title":"Cerca allotjament a Islantilla"
+   },
+   {
+      "word":"Istanbul",
+      "link":"//www.booking.com/city/tr/istanbul.html",
+      "title":"Cerca allotjament a Istanbul"
+   },
+   {
+      "word":"Izmir",
+      "link":"//www.booking.com/city/tr/izmir.html",
+      "title":"Cerca allotjament a Izmir"
+   },
+   {
+      "word":"Jasper",
+      "link":"//www.booking.com/city/ca/jasper.html",
+      "title":"Cerca allotjament a Jasper"
+   },
+   {
+      "word":"Jávea",
+      "link":"//www.booking.com/city/es/javea.html",
+      "title":"Cerca allotjament a Jávea"
+   },
+   {
+      "word":"Jiddah",
+      "link":"//www.booking.com/city/sa/jiddah.html",
+      "title":"Cerca allotjament a Jiddah"
+   },
+   {
+      "word":"Jericoacoara",
+      "link":"//www.booking.com/city/br/jericoacoara.html",
+      "title":"Cerca allotjament a Jericoacoara"
+   },
+   {
+      "word":"João Pessoa",
+      "link":"//www.booking.com/city/br/joao-pessoa.html",
+      "title":"Cerca allotjament a João Pessoa"
+   },
+   {
+      "word":"Key West",
+      "link":"//www.booking.com/city/us/key-west.html",
+      "title":"Cerca allotjament a Key West"
+   },
+   {
+      "word":"Colònia",
+      "link":"//www.booking.com/city/de/cologne.html",
+      "title":"Cerca allotjament a Colònia"
+   },
+   {
+      "word":"Konstanz",
+      "link":"//www.booking.com/city/de/konstanz.html",
+      "title":"Cerca allotjament a Konstanz"
+   },
+   {
+      "word":"Cracòvia",
+      "link":"//www.booking.com/city/pl/krakow.html",
+      "title":"Cerca allotjament a Cracòvia"
+   },
+   {
+      "word":"Kuala Lumpur",
+      "link":"//www.booking.com/city/my/kuala-lumpur.html",
+      "title":"Cerca allotjament a Kuala Lumpur"
+   },
+   {
+      "word":"Las Vegas",
+      "link":"//www.booking.com/city/us/las-vegas.html",
+      "title":"Cerca allotjament a Las Vegas"
+   },
+   {
+      "word":"Leeds",
+      "link":"//www.booking.com/city/gb/leeds.html",
+      "title":"Cerca allotjament a Leeds"
+   },
+   {
+      "word":"Lido di Jesolo",
+      "link":"//www.booking.com/city/it/lido-di-jesolo.html",
+      "title":"Cerca allotjament a Lido di Jesolo"
+   },
+   {
+      "word":"Liverpool",
+      "link":"//www.booking.com/city/gb/liverpool.html",
+      "title":"Cerca allotjament a Liverpool"
+   },
+   {
+      "word":"Londres",
+      "link":"//www.booking.com/city/gb/london.html",
+      "title":"Cerca allotjament a Londres"
+   },
+   {
+      "word":"Madrid",
+      "link":"//www.booking.com/city/es/madrid.html",
+      "title":"Cerca allotjament a Madrid"
+   },
+   {
+      "word":"La Meca",
+      "link":"//www.booking.com/city/sa/mecca.html",
+      "title":"Cerca allotjament a La Meca"
+   },
+   {
+      "word":"Manchester",
+      "link":"//www.booking.com/city/gb/manchester.html",
+      "title":"Cerca allotjament a Manchester"
+   },
+   {
+      "word":"Munic",
+      "link":"//www.booking.com/city/de/munich.html",
+      "title":"Cerca allotjament a Munic"
+   },
+   {
+      "word":"Myrtle Beach",
+      "link":"//www.booking.com/city/us/myrtle-beach.html",
+      "title":"Cerca allotjament a Myrtle Beach"
+   },
+   {
+      "word":"Nashville",
+      "link":"//www.booking.com/city/us/nashville.html",
+      "title":"Cerca allotjament a Nashville"
+   },
+   {
+      "word":"Nova York",
+      "link":"//www.booking.com/city/us/new-york.html",
+      "title":"Cerca allotjament a Nova York"
+   },
+   {
+      "word":"Newcastle",
+      "link":"//www.booking.com/city/gb/newcastle-upon-tyne.html",
+      "title":"Cerca allotjament a Newcastle"
+   },
+   {
+      "word":"Niça",
+      "link":"//www.booking.com/city/fr/nice.html",
+      "title":"Cerca allotjament a Niça"
+   },
+   {
+      "word":"Norderney",
+      "link":"//www.booking.com/city/de/norderney.html",
+      "title":"Cerca allotjament a Norderney"
+   },
+   {
+      "word":"Ocean City",
+      "link":"//www.booking.com/city/us/ocean-city.html",
+      "title":"Cerca allotjament a Ocean City"
+   },
+   {
+      "word":"Orange Beach",
+      "link":"//www.booking.com/city/us/orange-beach.html",
+      "title":"Cerca allotjament a Orange Beach"
+   },
+   {
+      "word":"Orlando",
+      "link":"//www.booking.com/city/us/orlando.html",
+      "title":"Cerca allotjament a Orlando"
+   },
+   {
+      "word":"Oropesa del Mar",
+      "link":"//www.booking.com/city/es/oropesa.html",
+      "title":"Cerca allotjament a Oropesa del Mar"
+   },
+   {
+      "word":"Oxford",
+      "link":"//www.booking.com/city/gb/oxford.html",
+      "title":"Cerca allotjament a Oxford"
+   },
+   {
+      "word":"Panama City Beach",
+      "link":"//www.booking.com/city/us/panama-city-beach.html",
+      "title":"Cerca allotjament a Panama City Beach"
+   },
+   {
+      "word":"París",
+      "link":"//www.booking.com/city/fr/paris.html",
+      "title":"Cerca allotjament a París"
+   },
+   {
+      "word":"Peníscola",
+      "link":"//www.booking.com/city/es/peniscola.html",
+      "title":"Cerca allotjament a Peníscola"
+   },
+   {
+      "word":"Pigeon Forge",
+      "link":"//www.booking.com/city/us/pigeon-forge.html",
+      "title":"Cerca allotjament a Pigeon Forge"
+   },
+   {
+      "word":"Punta Umbría",
+      "link":"//www.booking.com/city/es/punta-umbria.html",
+      "title":"Cerca allotjament a Punta Umbría"
+   },
+   {
+      "word":"Quebec",
+      "link":"//www.booking.com/city/ca/quebec.html",
+      "title":"Cerca allotjament a Quebec"
+   },
+   {
+      "word":"Quedlinburg",
+      "link":"//www.booking.com/city/de/quedlinburg.html",
+      "title":"Cerca allotjament a Quedlinburg"
+   },
+   {
+      "word":"Quito",
+      "link":"//www.booking.com/city/ec/quito.html",
+      "title":"Cerca allotjament a Quito"
+   },
+   {
+      "word":"Riccione",
+      "link":"//www.booking.com/city/it/riccione-marina.html",
+      "title":"Cerca allotjament a Riccione"
+   },
+   {
+      "word":"Rímini",
+      "link":"//www.booking.com/city/it/rimini.html",
+      "title":"Cerca allotjament a Rímini"
+   },
+   {
+      "word":"Rio de Janeiro",
+      "link":"//www.booking.com/city/br/rio-de-janeiro.html",
+      "title":"Cerca allotjament a Rio de Janeiro"
+   },
+   {
+      "word":"Roma",
+      "link":"//www.booking.com/city/it/rome.html",
+      "title":"Cerca allotjament a Roma"
+   },
+   {
+      "word":"Roquetas de Mar",
+      "link":"//www.booking.com/city/es/roquetas-de-mar.html",
+      "title":"Cerca allotjament a Roquetas de Mar"
+   },
+   {
+      "word":"Salou",
+      "link":"//www.booking.com/city/es/salou.html",
+      "title":"Cerca allotjament a Salou"
+   },
+   {
+      "word":"Sevilla",
+      "link":"//www.booking.com/city/es/sevilla.html",
+      "title":"Cerca allotjament a Sevilla"
+   },
+   {
+      "word":"Sharm El Sheikh",
+      "link":"//www.booking.com/city/eg/sherm-el-sheikh.html",
+      "title":"Cerca allotjament a Sharm El Sheikh"
+   },
+   {
+      "word":"Singapur",
+      "link":"//www.booking.com/city/sg/singapore.html",
+      "title":"Cerca allotjament a Singapur"
+   },
+   {
+      "word":"Estocolm",
+      "link":"//www.booking.com/city/se/stockholm.html",
+      "title":"Cerca allotjament a Estocolm"
+   },
+   {
+      "word":"Torí",
+      "link":"//www.booking.com/city/it/torino.html",
+      "title":"Cerca allotjament a Torí"
+   },
+   {
+      "word":"Toronto",
+      "link":"//www.booking.com/city/ca/toronto.html",
+      "title":"Cerca allotjament a Toronto"
+   },
+   {
+      "word":"Torquay",
+      "link":"//www.booking.com/city/gb/torquay.html",
+      "title":"Cerca allotjament a Torquay"
+   },
+   {
+      "word":"Torremolinos",
+      "link":"//www.booking.com/city/es/torremolinos.html",
+      "title":"Cerca allotjament a Torremolinos"
+   },
+   {
+      "word":"Tybee Island",
+      "link":"//www.booking.com/city/us/tybee-island.html",
+      "title":"Cerca allotjament a Tybee Island"
+   },
+   {
+      "word":"Umag",
+      "link":"//www.booking.com/city/hr/umag.html",
+      "title":"Cerca allotjament a Umag"
+   },
+   {
+      "word":"Uzungöl",
+      "link":"//www.booking.com/city/tr/uzungol.html",
+      "title":"Cerca allotjament a Uzungöl"
+   },
+   {
+      "word":"València",
+      "link":"//www.booking.com/city/es/valencia.html",
+      "title":"Cerca allotjament a València"
+   },
+   {
+      "word":"Vancouver",
+      "link":"//www.booking.com/city/ca/vancouver.html",
+      "title":"Cerca allotjament a Vancouver"
+   },
+   {
+      "word":"Varazze",
+      "link":"//www.booking.com/city/it/varazze.html",
+      "title":"Cerca allotjament a Varazze"
+   },
+   {
+      "word":"Venècia",
+      "link":"//www.booking.com/city/it/venice.html",
+      "title":"Cerca allotjament a Venècia"
+   },
+   {
+      "word":"Vieste",
+      "link":"//www.booking.com/city/it/vieste.html",
+      "title":"Cerca allotjament a Vieste"
+   },
+   {
+      "word":"Virginia Beach",
+      "link":"//www.booking.com/city/us/virginia-beach.html",
+      "title":"Cerca allotjament a Virginia Beach"
+   },
+   {
+      "word":"Warnemünde",
+      "link":"//www.booking.com/city/de/warnemunde.html",
+      "title":"Cerca allotjament a Warnemünde"
+   },
+   {
+      "word":"Varsòvia",
+      "link":"//www.booking.com/city/pl/warsaw.html",
+      "title":"Cerca allotjament a Varsòvia"
+   },
+   {
+      "word":"Whitby",
+      "link":"//www.booking.com/city/gb/whitby-aireborough.html",
+      "title":"Cerca allotjament a Whitby"
+   },
+   {
+      "word":"Viena",
+      "link":"//www.booking.com/city/at/vienna.html",
+      "title":"Cerca allotjament a Viena"
+   },
+   {
+      "word":"Wildwood",
+      "link":"//www.booking.com/city/us/wildwood.html",
+      "title":"Cerca allotjament a Wildwood"
+   },
+   {
+      "word":"Yalta",
+      "link":"//www.booking.com/city/ua/yalta.html",
+      "title":"Cerca allotjament a Yalta"
+   },
+   {
+      "word":"Yevpatoriya",
+      "link":"//www.booking.com/city/ua/yevpatoriya.html",
+      "title":"Cerca allotjament a Yevpatoriya"
+   },
+   {
+      "word":"Zahara de los Atunes",
+      "link":"//www.booking.com/city/es/zahara-de-los-atunes.html",
+      "title":"Cerca allotjament a Zahara de los Atunes"
+   },
+   {
+      "word":"Zakopane",
+      "link":"//www.booking.com/city/pl/zakopane.html",
+      "title":"Cerca allotjament a Zakopane"
+   },
+   {
+      "word":"Zandvoort",
+      "link":"//www.booking.com/city/nl/zandvoort.html",
+      "title":"Cerca allotjament a Zandvoort"
+   },
+   {
+      "word":"Saragossa",
+      "link":"//www.booking.com/city/es/zaragoza.html",
+      "title":"Cerca allotjament a Saragossa"
+   },
+   {
+      "word":"Zatoka",
+      "link":"//www.booking.com/city/ua/zatoka.html",
+      "title":"Cerca allotjament a Zatoka"
+   }
+]

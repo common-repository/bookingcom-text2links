@@ -1,0 +1,592 @@
+[
+   {
+      "word":"Ağva",
+      "link":"//www.booking.com/city/tr/yesilcay.html",
+      "title":"Szukaj zakwaterowania w mieście Ağva"
+   },
+   {
+      "word":"Medyna",
+      "link":"//www.booking.com/city/sa/medina.html",
+      "title":"Szukaj zakwaterowania w mieście Medyna"
+   },
+   {
+      "word":"Alicante",
+      "link":"//www.booking.com/city/es/alicante.html",
+      "title":"Szukaj zakwaterowania w mieście Alicante"
+   },
+   {
+      "word":"Amsterdam",
+      "link":"//www.booking.com/city/nl/amsterdam.html",
+      "title":"Szukaj zakwaterowania w mieście Amsterdam"
+   },
+   {
+      "word":"Atlantic City",
+      "link":"//www.booking.com/city/us/atlantic-city.html",
+      "title":"Szukaj zakwaterowania w mieście Atlantic City"
+   },
+   {
+      "word":"Barcelona",
+      "link":"//www.booking.com/city/es/barcelona.html",
+      "title":"Szukaj zakwaterowania w mieście Barcelona"
+   },
+   {
+      "word":"Benidorm",
+      "link":"//www.booking.com/city/es/benidorm.html",
+      "title":"Szukaj zakwaterowania w mieście Benidorm"
+   },
+   {
+      "word":"Berlin",
+      "link":"//www.booking.com/city/de/berlin.html",
+      "title":"Szukaj zakwaterowania w mieście Berlin"
+   },
+   {
+      "word":"Blackpool",
+      "link":"//www.booking.com/city/gb/blackpool.html",
+      "title":"Szukaj zakwaterowania w mieście Blackpool"
+   },
+   {
+      "word":"Brighton and Hove",
+      "link":"//www.booking.com/city/gb/brighton.html",
+      "title":"Szukaj zakwaterowania w mieście Brighton and Hove"
+   },
+   {
+      "word":"Kadyks",
+      "link":"//www.booking.com/city/es/cadiz.html",
+      "title":"Szukaj zakwaterowania w mieście Kadyks"
+   },
+   {
+      "word":"Caldas Novas",
+      "link":"//www.booking.com/city/br/caldas-novas.html",
+      "title":"Szukaj zakwaterowania w mieście Caldas Novas"
+   },
+   {
+      "word":"Campos do Jordão",
+      "link":"//www.booking.com/city/br/campos-do-jordao.html",
+      "title":"Szukaj zakwaterowania w mieście Campos do Jordão"
+   },
+   {
+      "word":"Cardiff",
+      "link":"//www.booking.com/city/gb/cardiff.html",
+      "title":"Szukaj zakwaterowania w mieście Cardiff"
+   },
+   {
+      "word":"Conil de la Frontera",
+      "link":"//www.booking.com/city/es/conil-de-la-frontera.html",
+      "title":"Szukaj zakwaterowania w mieście Conil de la Frontera"
+   },
+   {
+      "word":"Deauville",
+      "link":"//www.booking.com/city/fr/deauville-les-bains.html",
+      "title":"Szukaj zakwaterowania w mieście Deauville"
+   },
+   {
+      "word":"Destin",
+      "link":"//www.booking.com/city/us/destin.html",
+      "title":"Szukaj zakwaterowania w mieście Destin"
+   },
+   {
+      "word":"Drezno",
+      "link":"//www.booking.com/city/de/dresden.html",
+      "title":"Szukaj zakwaterowania w mieście Drezno"
+   },
+   {
+      "word":"Dubaj",
+      "link":"//www.booking.com/city/ae/dubai.html",
+      "title":"Szukaj zakwaterowania w mieście Dubaj"
+   },
+   {
+      "word":"Dublin",
+      "link":"//www.booking.com/city/ie/dublin.html",
+      "title":"Szukaj zakwaterowania w mieście Dublin"
+   },
+   {
+      "word":"Edynburg",
+      "link":"//www.booking.com/city/gb/edinburgh.html",
+      "title":"Szukaj zakwaterowania w mieście Edynburg"
+   },
+   {
+      "word":"Ejlat",
+      "link":"//www.booking.com/city/il/elat.html",
+      "title":"Szukaj zakwaterowania w mieście Ejlat"
+   },
+   {
+      "word":"El Puerto de Santa María",
+      "link":"//www.booking.com/city/es/el-puerto-de-santa-maria.html",
+      "title":"Szukaj zakwaterowania w mieście El Puerto de Santa María"
+   },
+   {
+      "word":"Estepona",
+      "link":"//www.booking.com/city/es/estepona.html",
+      "title":"Szukaj zakwaterowania w mieście Estepona"
+   },
+   {
+      "word":"Étretat",
+      "link":"//www.booking.com/city/fr/etretat.html",
+      "title":"Szukaj zakwaterowania w mieście Étretat"
+   },
+   {
+      "word":"Favignana",
+      "link":"//www.booking.com/city/it/favignana.html",
+      "title":"Szukaj zakwaterowania w mieście Favignana"
+   },
+   {
+      "word":"Florencja",
+      "link":"//www.booking.com/city/it/florence.html",
+      "title":"Szukaj zakwaterowania w mieście Florencja"
+   },
+   {
+      "word":"Fortaleza",
+      "link":"//www.booking.com/city/br/fortaleza.html",
+      "title":"Szukaj zakwaterowania w mieście Fortaleza"
+   },
+   {
+      "word":"Forte dei Marmi",
+      "link":"//www.booking.com/city/it/forte-dei-marmi.html",
+      "title":"Szukaj zakwaterowania w mieście Forte dei Marmi"
+   },
+   {
+      "word":"Fuengirola",
+      "link":"//www.booking.com/city/es/fuengirola.html",
+      "title":"Szukaj zakwaterowania w mieście Fuengirola"
+   },
+   {
+      "word":"Galveston",
+      "link":"//www.booking.com/city/us/galveston.html",
+      "title":"Szukaj zakwaterowania w mieście Galveston"
+   },
+   {
+      "word":"Gandía",
+      "link":"//www.booking.com/city/es/gandia.html",
+      "title":"Szukaj zakwaterowania w mieście Gandía"
+   },
+   {
+      "word":"Glasgow",
+      "link":"//www.booking.com/city/gb/glasgow.html",
+      "title":"Szukaj zakwaterowania w mieście Glasgow"
+   },
+   {
+      "word":"Göteborg",
+      "link":"//www.booking.com/city/se/goteborg.html",
+      "title":"Szukaj zakwaterowania w mieście Göteborg"
+   },
+   {
+      "word":"Gramado",
+      "link":"//www.booking.com/city/br/gramado-br.html",
+      "title":"Szukaj zakwaterowania w mieście Gramado"
+   },
+   {
+      "word":"Hamburg",
+      "link":"//www.booking.com/city/de/hamburg.html",
+      "title":"Szukaj zakwaterowania w mieście Hamburg"
+   },
+   {
+      "word":"Helsinki",
+      "link":"//www.booking.com/city/fi/helsinki.html",
+      "title":"Szukaj zakwaterowania w mieście Helsinki"
+   },
+   {
+      "word":"Hilton Head Island",
+      "link":"//www.booking.com/city/us/hilton-head-island.html",
+      "title":"Szukaj zakwaterowania w mieście Hilton Head Island"
+   },
+   {
+      "word":"Hongkong",
+      "link":"//www.booking.com/city/hk/hong-kong.html",
+      "title":"Szukaj zakwaterowania w mieście Hongkong"
+   },
+   {
+      "word":"Huelva",
+      "link":"//www.booking.com/city/es/huelva.html",
+      "title":"Szukaj zakwaterowania w mieście Huelva"
+   },
+   {
+      "word":"Ischia",
+      "link":"//www.booking.com/city/it/ischia.html",
+      "title":"Szukaj zakwaterowania w mieście Ischia"
+   },
+   {
+      "word":"Isla Canela",
+      "link":"//www.booking.com/city/es/isla-de-canela.html",
+      "title":"Szukaj zakwaterowania w mieście Isla Canela"
+   },
+   {
+      "word":"Islantilla",
+      "link":"//www.booking.com/city/es/islantilla.html",
+      "title":"Szukaj zakwaterowania w mieście Islantilla"
+   },
+   {
+      "word":"Stambuł",
+      "link":"//www.booking.com/city/tr/istanbul.html",
+      "title":"Szukaj zakwaterowania w mieście Stambuł"
+   },
+   {
+      "word":"İzmir",
+      "link":"//www.booking.com/city/tr/izmir.html",
+      "title":"Szukaj zakwaterowania w mieście İzmir"
+   },
+   {
+      "word":"Jasper",
+      "link":"//www.booking.com/city/ca/jasper.html",
+      "title":"Szukaj zakwaterowania w mieście Jasper"
+   },
+   {
+      "word":"Jávea",
+      "link":"//www.booking.com/city/es/javea.html",
+      "title":"Szukaj zakwaterowania w mieście Jávea"
+   },
+   {
+      "word":"Dżudda",
+      "link":"//www.booking.com/city/sa/jiddah.html",
+      "title":"Szukaj zakwaterowania w mieście Dżudda"
+   },
+   {
+      "word":"Jericoacoara",
+      "link":"//www.booking.com/city/br/jericoacoara.html",
+      "title":"Szukaj zakwaterowania w mieście Jericoacoara"
+   },
+   {
+      "word":"João Pessoa",
+      "link":"//www.booking.com/city/br/joao-pessoa.html",
+      "title":"Szukaj zakwaterowania w mieście João Pessoa"
+   },
+   {
+      "word":"Key West",
+      "link":"//www.booking.com/city/us/key-west.html",
+      "title":"Szukaj zakwaterowania w mieście Key West"
+   },
+   {
+      "word":"Kolonia",
+      "link":"//www.booking.com/city/de/cologne.html",
+      "title":"Szukaj zakwaterowania w mieście Kolonia"
+   },
+   {
+      "word":"Konstanz",
+      "link":"//www.booking.com/city/de/konstanz.html",
+      "title":"Szukaj zakwaterowania w mieście Konstanz"
+   },
+   {
+      "word":"Kraków",
+      "link":"//www.booking.com/city/pl/krakow.html",
+      "title":"Szukaj zakwaterowania w mieście Kraków"
+   },
+   {
+      "word":"Kuala Lumpur",
+      "link":"//www.booking.com/city/my/kuala-lumpur.html",
+      "title":"Szukaj zakwaterowania w mieście Kuala Lumpur"
+   },
+   {
+      "word":"Las Vegas",
+      "link":"//www.booking.com/city/us/las-vegas.html",
+      "title":"Szukaj zakwaterowania w mieście Las Vegas"
+   },
+   {
+      "word":"Leeds",
+      "link":"//www.booking.com/city/gb/leeds.html",
+      "title":"Szukaj zakwaterowania w mieście Leeds"
+   },
+   {
+      "word":"Lido di Jesolo",
+      "link":"//www.booking.com/city/it/lido-di-jesolo.html",
+      "title":"Szukaj zakwaterowania w mieście Lido di Jesolo"
+   },
+   {
+      "word":"Liverpool",
+      "link":"//www.booking.com/city/gb/liverpool.html",
+      "title":"Szukaj zakwaterowania w mieście Liverpool"
+   },
+   {
+      "word":"Londyn",
+      "link":"//www.booking.com/city/gb/london.html",
+      "title":"Szukaj zakwaterowania w mieście Londyn"
+   },
+   {
+      "word":"Madryt",
+      "link":"//www.booking.com/city/es/madrid.html",
+      "title":"Szukaj zakwaterowania w mieście Madryt"
+   },
+   {
+      "word":"Mekka",
+      "link":"//www.booking.com/city/sa/mecca.html",
+      "title":"Szukaj zakwaterowania w mieście Mekka"
+   },
+   {
+      "word":"Manchester",
+      "link":"//www.booking.com/city/gb/manchester.html",
+      "title":"Szukaj zakwaterowania w mieście Manchester"
+   },
+   {
+      "word":"Monachium",
+      "link":"//www.booking.com/city/de/munich.html",
+      "title":"Szukaj zakwaterowania w mieście Monachium"
+   },
+   {
+      "word":"Myrtle Beach",
+      "link":"//www.booking.com/city/us/myrtle-beach.html",
+      "title":"Szukaj zakwaterowania w mieście Myrtle Beach"
+   },
+   {
+      "word":"Nashville",
+      "link":"//www.booking.com/city/us/nashville.html",
+      "title":"Szukaj zakwaterowania w mieście Nashville"
+   },
+   {
+      "word":"Nowy Jork",
+      "link":"//www.booking.com/city/us/new-york.html",
+      "title":"Szukaj zakwaterowania w mieście Nowy Jork"
+   },
+   {
+      "word":"Newcastle upon Tyne",
+      "link":"//www.booking.com/city/gb/newcastle-upon-tyne.html",
+      "title":"Szukaj zakwaterowania w mieście Newcastle upon Tyne"
+   },
+   {
+      "word":"Nicea",
+      "link":"//www.booking.com/city/fr/nice.html",
+      "title":"Szukaj zakwaterowania w mieście Nicea"
+   },
+   {
+      "word":"Norderney",
+      "link":"//www.booking.com/city/de/norderney.html",
+      "title":"Szukaj zakwaterowania w mieście Norderney"
+   },
+   {
+      "word":"Ocean City",
+      "link":"//www.booking.com/city/us/ocean-city.html",
+      "title":"Szukaj zakwaterowania w mieście Ocean City"
+   },
+   {
+      "word":"Orange Beach",
+      "link":"//www.booking.com/city/us/orange-beach.html",
+      "title":"Szukaj zakwaterowania w mieście Orange Beach"
+   },
+   {
+      "word":"Orlando",
+      "link":"//www.booking.com/city/us/orlando.html",
+      "title":"Szukaj zakwaterowania w mieście Orlando"
+   },
+   {
+      "word":"Oropesa del Mar",
+      "link":"//www.booking.com/city/es/oropesa.html",
+      "title":"Szukaj zakwaterowania w mieście Oropesa del Mar"
+   },
+   {
+      "word":"Oksford",
+      "link":"//www.booking.com/city/gb/oxford.html",
+      "title":"Szukaj zakwaterowania w mieście Oksford"
+   },
+   {
+      "word":"Panama City Beach",
+      "link":"//www.booking.com/city/us/panama-city-beach.html",
+      "title":"Szukaj zakwaterowania w mieście Panama City Beach"
+   },
+   {
+      "word":"Paryż",
+      "link":"//www.booking.com/city/fr/paris.html",
+      "title":"Szukaj zakwaterowania w mieście Paryż"
+   },
+   {
+      "word":"Peñíscola",
+      "link":"//www.booking.com/city/es/peniscola.html",
+      "title":"Szukaj zakwaterowania w mieście Peñíscola"
+   },
+   {
+      "word":"Pigeon Forge",
+      "link":"//www.booking.com/city/us/pigeon-forge.html",
+      "title":"Szukaj zakwaterowania w mieście Pigeon Forge"
+   },
+   {
+      "word":"Punta Umbría",
+      "link":"//www.booking.com/city/es/punta-umbria.html",
+      "title":"Szukaj zakwaterowania w mieście Punta Umbría"
+   },
+   {
+      "word":"Québec",
+      "link":"//www.booking.com/city/ca/quebec.html",
+      "title":"Szukaj zakwaterowania w mieście Québec"
+   },
+   {
+      "word":"Quedlinburg",
+      "link":"//www.booking.com/city/de/quedlinburg.html",
+      "title":"Szukaj zakwaterowania w mieście Quedlinburg"
+   },
+   {
+      "word":"Quito",
+      "link":"//www.booking.com/city/ec/quito.html",
+      "title":"Szukaj zakwaterowania w mieście Quito"
+   },
+   {
+      "word":"Riccione",
+      "link":"//www.booking.com/city/it/riccione-marina.html",
+      "title":"Szukaj zakwaterowania w mieście Riccione"
+   },
+   {
+      "word":"Rimini",
+      "link":"//www.booking.com/city/it/rimini.html",
+      "title":"Szukaj zakwaterowania w mieście Rimini"
+   },
+   {
+      "word":"Rio de Janeiro",
+      "link":"//www.booking.com/city/br/rio-de-janeiro.html",
+      "title":"Szukaj zakwaterowania w mieście Rio de Janeiro"
+   },
+   {
+      "word":"Rzym",
+      "link":"//www.booking.com/city/it/rome.html",
+      "title":"Szukaj zakwaterowania w mieście Rzym"
+   },
+   {
+      "word":"Roquetas de Mar",
+      "link":"//www.booking.com/city/es/roquetas-de-mar.html",
+      "title":"Szukaj zakwaterowania w mieście Roquetas de Mar"
+   },
+   {
+      "word":"Salou",
+      "link":"//www.booking.com/city/es/salou.html",
+      "title":"Szukaj zakwaterowania w mieście Salou"
+   },
+   {
+      "word":"Sewilla",
+      "link":"//www.booking.com/city/es/sevilla.html",
+      "title":"Szukaj zakwaterowania w mieście Sewilla"
+   },
+   {
+      "word":"Szarm el-Szejk",
+      "link":"//www.booking.com/city/eg/sherm-el-sheikh.html",
+      "title":"Szukaj zakwaterowania w mieście Szarm el-Szejk"
+   },
+   {
+      "word":"Singapur",
+      "link":"//www.booking.com/city/sg/singapore.html",
+      "title":"Szukaj zakwaterowania w mieście Singapur"
+   },
+   {
+      "word":"Sztokholm",
+      "link":"//www.booking.com/city/se/stockholm.html",
+      "title":"Szukaj zakwaterowania w mieście Sztokholm"
+   },
+   {
+      "word":"Turyn",
+      "link":"//www.booking.com/city/it/torino.html",
+      "title":"Szukaj zakwaterowania w mieście Turyn"
+   },
+   {
+      "word":"Toronto",
+      "link":"//www.booking.com/city/ca/toronto.html",
+      "title":"Szukaj zakwaterowania w mieście Toronto"
+   },
+   {
+      "word":"Torquay",
+      "link":"//www.booking.com/city/gb/torquay.html",
+      "title":"Szukaj zakwaterowania w mieście Torquay"
+   },
+   {
+      "word":"Torremolinos",
+      "link":"//www.booking.com/city/es/torremolinos.html",
+      "title":"Szukaj zakwaterowania w mieście Torremolinos"
+   },
+   {
+      "word":"Tybee Island",
+      "link":"//www.booking.com/city/us/tybee-island.html",
+      "title":"Szukaj zakwaterowania w mieście Tybee Island"
+   },
+   {
+      "word":"Umag",
+      "link":"//www.booking.com/city/hr/umag.html",
+      "title":"Szukaj zakwaterowania w mieście Umag"
+   },
+   {
+      "word":"Uzungöl",
+      "link":"//www.booking.com/city/tr/uzungol.html",
+      "title":"Szukaj zakwaterowania w mieście Uzungöl"
+   },
+   {
+      "word":"Walencja",
+      "link":"//www.booking.com/city/es/valencia.html",
+      "title":"Szukaj zakwaterowania w mieście Walencja"
+   },
+   {
+      "word":"Vancouver",
+      "link":"//www.booking.com/city/ca/vancouver.html",
+      "title":"Szukaj zakwaterowania w mieście Vancouver"
+   },
+   {
+      "word":"Varazze",
+      "link":"//www.booking.com/city/it/varazze.html",
+      "title":"Szukaj zakwaterowania w mieście Varazze"
+   },
+   {
+      "word":"Wenecja",
+      "link":"//www.booking.com/city/it/venice.html",
+      "title":"Szukaj zakwaterowania w mieście Wenecja"
+   },
+   {
+      "word":"Vieste",
+      "link":"//www.booking.com/city/it/vieste.html",
+      "title":"Szukaj zakwaterowania w mieście Vieste"
+   },
+   {
+      "word":"Virginia Beach",
+      "link":"//www.booking.com/city/us/virginia-beach.html",
+      "title":"Szukaj zakwaterowania w mieście Virginia Beach"
+   },
+   {
+      "word":"Warnemünde",
+      "link":"//www.booking.com/city/de/warnemunde.html",
+      "title":"Szukaj zakwaterowania w mieście Warnemünde"
+   },
+   {
+      "word":"Warszawa",
+      "link":"//www.booking.com/city/pl/warsaw.html",
+      "title":"Szukaj zakwaterowania w mieście Warszawa"
+   },
+   {
+      "word":"Whitby",
+      "link":"//www.booking.com/city/gb/whitby-aireborough.html",
+      "title":"Szukaj zakwaterowania w mieście Whitby"
+   },
+   {
+      "word":"Wiedeń",
+      "link":"//www.booking.com/city/at/vienna.html",
+      "title":"Szukaj zakwaterowania w mieście Wiedeń"
+   },
+   {
+      "word":"Wildwood",
+      "link":"//www.booking.com/city/us/wildwood.html",
+      "title":"Szukaj zakwaterowania w mieście Wildwood"
+   },
+   {
+      "word":"Jałta",
+      "link":"//www.booking.com/city/ua/yalta.html",
+      "title":"Szukaj zakwaterowania w mieście Jałta"
+   },
+   {
+      "word":"Yevpatoriya",
+      "link":"//www.booking.com/city/ua/yevpatoriya.html",
+      "title":"Szukaj zakwaterowania w mieście Yevpatoriya"
+   },
+   {
+      "word":"Zahara de los Atunes",
+      "link":"//www.booking.com/city/es/zahara-de-los-atunes.html",
+      "title":"Szukaj zakwaterowania w mieście Zahara de los Atunes"
+   },
+   {
+      "word":"Zakopane",
+      "link":"//www.booking.com/city/pl/zakopane.html",
+      "title":"Szukaj zakwaterowania w mieście Zakopane"
+   },
+   {
+      "word":"Zandvoort",
+      "link":"//www.booking.com/city/nl/zandvoort.html",
+      "title":"Szukaj zakwaterowania w mieście Zandvoort"
+   },
+   {
+      "word":"Saragossa",
+      "link":"//www.booking.com/city/es/zaragoza.html",
+      "title":"Szukaj zakwaterowania w mieście Saragossa"
+   },
+   {
+      "word":"Zatoka",
+      "link":"//www.booking.com/city/ua/zatoka.html",
+      "title":"Szukaj zakwaterowania w mieście Zatoka"
+   }
+]

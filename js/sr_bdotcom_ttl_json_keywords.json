@@ -1,0 +1,592 @@
+[
+   {
+      "word":"Ağva",
+      "link":"//www.booking.com/city/tr/yesilcay.html",
+      "title":"Nađi smeštaj u gradu: Ağva"
+   },
+   {
+      "word":"Medina",
+      "link":"//www.booking.com/city/sa/medina.html",
+      "title":"Nađi smeštaj u gradu: Medina"
+   },
+   {
+      "word":"Alikante",
+      "link":"//www.booking.com/city/es/alicante.html",
+      "title":"Nađi smeštaj u gradu: Alikante"
+   },
+   {
+      "word":"Amsterdam",
+      "link":"//www.booking.com/city/nl/amsterdam.html",
+      "title":"Nađi smeštaj u gradu: Amsterdam"
+   },
+   {
+      "word":"Atlantik Siti",
+      "link":"//www.booking.com/city/us/atlantic-city.html",
+      "title":"Nađi smeštaj u gradu: Atlantik Siti"
+   },
+   {
+      "word":"Barselona",
+      "link":"//www.booking.com/city/es/barcelona.html",
+      "title":"Nađi smeštaj u gradu: Barselona"
+   },
+   {
+      "word":"Benidorm",
+      "link":"//www.booking.com/city/es/benidorm.html",
+      "title":"Nađi smeštaj u gradu: Benidorm"
+   },
+   {
+      "word":"Berlin",
+      "link":"//www.booking.com/city/de/berlin.html",
+      "title":"Nađi smeštaj u gradu: Berlin"
+   },
+   {
+      "word":"Blekpul",
+      "link":"//www.booking.com/city/gb/blackpool.html",
+      "title":"Nađi smeštaj u gradu: Blekpul"
+   },
+   {
+      "word":"Brajton i Houv",
+      "link":"//www.booking.com/city/gb/brighton.html",
+      "title":"Nađi smeštaj u gradu: Brajton i Houv"
+   },
+   {
+      "word":"Kadiz",
+      "link":"//www.booking.com/city/es/cadiz.html",
+      "title":"Nađi smeštaj u gradu: Kadiz"
+   },
+   {
+      "word":"Caldas Novas",
+      "link":"//www.booking.com/city/br/caldas-novas.html",
+      "title":"Nađi smeštaj u gradu: Caldas Novas"
+   },
+   {
+      "word":"Kampos do Žordao",
+      "link":"//www.booking.com/city/br/campos-do-jordao.html",
+      "title":"Nađi smeštaj u gradu: Kampos do Žordao"
+   },
+   {
+      "word":"Kardif",
+      "link":"//www.booking.com/city/gb/cardiff.html",
+      "title":"Nađi smeštaj u gradu: Kardif"
+   },
+   {
+      "word":"Kolnil de la Frontera",
+      "link":"//www.booking.com/city/es/conil-de-la-frontera.html",
+      "title":"Nađi smeštaj u gradu: Kolnil de la Frontera"
+   },
+   {
+      "word":"Dovil",
+      "link":"//www.booking.com/city/fr/deauville-les-bains.html",
+      "title":"Nađi smeštaj u gradu: Dovil"
+   },
+   {
+      "word":"Destin",
+      "link":"//www.booking.com/city/us/destin.html",
+      "title":"Nađi smeštaj u gradu: Destin"
+   },
+   {
+      "word":"Drezden",
+      "link":"//www.booking.com/city/de/dresden.html",
+      "title":"Nađi smeštaj u gradu: Drezden"
+   },
+   {
+      "word":"Dubai",
+      "link":"//www.booking.com/city/ae/dubai.html",
+      "title":"Nađi smeštaj u gradu: Dubai"
+   },
+   {
+      "word":"Dablin",
+      "link":"//www.booking.com/city/ie/dublin.html",
+      "title":"Nađi smeštaj u gradu: Dablin"
+   },
+   {
+      "word":"Edinburg",
+      "link":"//www.booking.com/city/gb/edinburgh.html",
+      "title":"Nađi smeštaj u gradu: Edinburg"
+   },
+   {
+      "word":"Eilat",
+      "link":"//www.booking.com/city/il/elat.html",
+      "title":"Nađi smeštaj u gradu: Eilat"
+   },
+   {
+      "word":"El Puerto de Santa Marija",
+      "link":"//www.booking.com/city/es/el-puerto-de-santa-maria.html",
+      "title":"Nađi smeštaj u gradu: El Puerto de Santa Marija"
+   },
+   {
+      "word":"Estepona",
+      "link":"//www.booking.com/city/es/estepona.html",
+      "title":"Nađi smeštaj u gradu: Estepona"
+   },
+   {
+      "word":"Etreta",
+      "link":"//www.booking.com/city/fr/etretat.html",
+      "title":"Nađi smeštaj u gradu: Etreta"
+   },
+   {
+      "word":"Favignana",
+      "link":"//www.booking.com/city/it/favignana.html",
+      "title":"Nađi smeštaj u gradu: Favignana"
+   },
+   {
+      "word":"Firenca",
+      "link":"//www.booking.com/city/it/florence.html",
+      "title":"Nađi smeštaj u gradu: Firenca"
+   },
+   {
+      "word":"Fortaleza",
+      "link":"//www.booking.com/city/br/fortaleza.html",
+      "title":"Nađi smeštaj u gradu: Fortaleza"
+   },
+   {
+      "word":"Forte dei Marmi",
+      "link":"//www.booking.com/city/it/forte-dei-marmi.html",
+      "title":"Nađi smeštaj u gradu: Forte dei Marmi"
+   },
+   {
+      "word":"Fuenhirola",
+      "link":"//www.booking.com/city/es/fuengirola.html",
+      "title":"Nađi smeštaj u gradu: Fuenhirola"
+   },
+   {
+      "word":"Galveston",
+      "link":"//www.booking.com/city/us/galveston.html",
+      "title":"Nađi smeštaj u gradu: Galveston"
+   },
+   {
+      "word":"Gandija",
+      "link":"//www.booking.com/city/es/gandia.html",
+      "title":"Nađi smeštaj u gradu: Gandija"
+   },
+   {
+      "word":"Glazgov",
+      "link":"//www.booking.com/city/gb/glasgow.html",
+      "title":"Nađi smeštaj u gradu: Glazgov"
+   },
+   {
+      "word":"Geteborg",
+      "link":"//www.booking.com/city/se/goteborg.html",
+      "title":"Nađi smeštaj u gradu: Geteborg"
+   },
+   {
+      "word":"Gramado",
+      "link":"//www.booking.com/city/br/gramado-br.html",
+      "title":"Nađi smeštaj u gradu: Gramado"
+   },
+   {
+      "word":"Hamburg",
+      "link":"//www.booking.com/city/de/hamburg.html",
+      "title":"Nađi smeštaj u gradu: Hamburg"
+   },
+   {
+      "word":"Helsinki",
+      "link":"//www.booking.com/city/fi/helsinki.html",
+      "title":"Nađi smeštaj u gradu: Helsinki"
+   },
+   {
+      "word":"Hilton Head Island",
+      "link":"//www.booking.com/city/us/hilton-head-island.html",
+      "title":"Nađi smeštaj u gradu: Hilton Head Island"
+   },
+   {
+      "word":"Hongkong",
+      "link":"//www.booking.com/city/hk/hong-kong.html",
+      "title":"Nađi smeštaj u gradu: Hongkong"
+   },
+   {
+      "word":"Uelva",
+      "link":"//www.booking.com/city/es/huelva.html",
+      "title":"Nađi smeštaj u gradu: Uelva"
+   },
+   {
+      "word":"Iša",
+      "link":"//www.booking.com/city/it/ischia.html",
+      "title":"Nađi smeštaj u gradu: Iša"
+   },
+   {
+      "word":"Isla Canela",
+      "link":"//www.booking.com/city/es/isla-de-canela.html",
+      "title":"Nađi smeštaj u gradu: Isla Canela"
+   },
+   {
+      "word":"Islantilla",
+      "link":"//www.booking.com/city/es/islantilla.html",
+      "title":"Nađi smeštaj u gradu: Islantilla"
+   },
+   {
+      "word":"Istanbul",
+      "link":"//www.booking.com/city/tr/istanbul.html",
+      "title":"Nađi smeštaj u gradu: Istanbul"
+   },
+   {
+      "word":"Izmir",
+      "link":"//www.booking.com/city/tr/izmir.html",
+      "title":"Nađi smeštaj u gradu: Izmir"
+   },
+   {
+      "word":"Džasper",
+      "link":"//www.booking.com/city/ca/jasper.html",
+      "title":"Nađi smeštaj u gradu: Džasper"
+   },
+   {
+      "word":"Jávea",
+      "link":"//www.booking.com/city/es/javea.html",
+      "title":"Nađi smeštaj u gradu: Jávea"
+   },
+   {
+      "word":"Džeda",
+      "link":"//www.booking.com/city/sa/jiddah.html",
+      "title":"Nađi smeštaj u gradu: Džeda"
+   },
+   {
+      "word":"Jericoacoara",
+      "link":"//www.booking.com/city/br/jericoacoara.html",
+      "title":"Nađi smeštaj u gradu: Jericoacoara"
+   },
+   {
+      "word":"Žoao Pesoa",
+      "link":"//www.booking.com/city/br/joao-pessoa.html",
+      "title":"Nađi smeštaj u gradu: Žoao Pesoa"
+   },
+   {
+      "word":"Ki Vest",
+      "link":"//www.booking.com/city/us/key-west.html",
+      "title":"Nađi smeštaj u gradu: Ki Vest"
+   },
+   {
+      "word":"Keln",
+      "link":"//www.booking.com/city/de/cologne.html",
+      "title":"Nađi smeštaj u gradu: Keln"
+   },
+   {
+      "word":"Konstanc",
+      "link":"//www.booking.com/city/de/konstanz.html",
+      "title":"Nađi smeštaj u gradu: Konstanc"
+   },
+   {
+      "word":"Krakov",
+      "link":"//www.booking.com/city/pl/krakow.html",
+      "title":"Nađi smeštaj u gradu: Krakov"
+   },
+   {
+      "word":"Kuala Lumpur",
+      "link":"//www.booking.com/city/my/kuala-lumpur.html",
+      "title":"Nađi smeštaj u gradu: Kuala Lumpur"
+   },
+   {
+      "word":"Las Vegas",
+      "link":"//www.booking.com/city/us/las-vegas.html",
+      "title":"Nađi smeštaj u gradu: Las Vegas"
+   },
+   {
+      "word":"Lids",
+      "link":"//www.booking.com/city/gb/leeds.html",
+      "title":"Nađi smeštaj u gradu: Lids"
+   },
+   {
+      "word":"Lido di Jezolo",
+      "link":"//www.booking.com/city/it/lido-di-jesolo.html",
+      "title":"Nađi smeštaj u gradu: Lido di Jezolo"
+   },
+   {
+      "word":"Liverpul",
+      "link":"//www.booking.com/city/gb/liverpool.html",
+      "title":"Nađi smeštaj u gradu: Liverpul"
+   },
+   {
+      "word":"London",
+      "link":"//www.booking.com/city/gb/london.html",
+      "title":"Nađi smeštaj u gradu: London"
+   },
+   {
+      "word":"Madrid",
+      "link":"//www.booking.com/city/es/madrid.html",
+      "title":"Nađi smeštaj u gradu: Madrid"
+   },
+   {
+      "word":"Meka",
+      "link":"//www.booking.com/city/sa/mecca.html",
+      "title":"Nađi smeštaj u gradu: Meka"
+   },
+   {
+      "word":"Mančester",
+      "link":"//www.booking.com/city/gb/manchester.html",
+      "title":"Nađi smeštaj u gradu: Mančester"
+   },
+   {
+      "word":"Minhen",
+      "link":"//www.booking.com/city/de/munich.html",
+      "title":"Nađi smeštaj u gradu: Minhen"
+   },
+   {
+      "word":"Mirtl Bič",
+      "link":"//www.booking.com/city/us/myrtle-beach.html",
+      "title":"Nađi smeštaj u gradu: Mirtl Bič"
+   },
+   {
+      "word":"Nashville",
+      "link":"//www.booking.com/city/us/nashville.html",
+      "title":"Nađi smeštaj u gradu: Nashville"
+   },
+   {
+      "word":"Njujork",
+      "link":"//www.booking.com/city/us/new-york.html",
+      "title":"Nađi smeštaj u gradu: Njujork"
+   },
+   {
+      "word":"Njukasl na Tajnu",
+      "link":"//www.booking.com/city/gb/newcastle-upon-tyne.html",
+      "title":"Nađi smeštaj u gradu: Njukasl na Tajnu"
+   },
+   {
+      "word":"Nica",
+      "link":"//www.booking.com/city/fr/nice.html",
+      "title":"Nađi smeštaj u gradu: Nica"
+   },
+   {
+      "word":"Norderney",
+      "link":"//www.booking.com/city/de/norderney.html",
+      "title":"Nađi smeštaj u gradu: Norderney"
+   },
+   {
+      "word":"Oušn Siti",
+      "link":"//www.booking.com/city/us/ocean-city.html",
+      "title":"Nađi smeštaj u gradu: Oušn Siti"
+   },
+   {
+      "word":"Orandž Bič",
+      "link":"//www.booking.com/city/us/orange-beach.html",
+      "title":"Nađi smeštaj u gradu: Orandž Bič"
+   },
+   {
+      "word":"Orlando",
+      "link":"//www.booking.com/city/us/orlando.html",
+      "title":"Nađi smeštaj u gradu: Orlando"
+   },
+   {
+      "word":"Oropesa del Mar",
+      "link":"//www.booking.com/city/es/oropesa.html",
+      "title":"Nađi smeštaj u gradu: Oropesa del Mar"
+   },
+   {
+      "word":"Oksford",
+      "link":"//www.booking.com/city/gb/oxford.html",
+      "title":"Nađi smeštaj u gradu: Oksford"
+   },
+   {
+      "word":"Panama City Beach",
+      "link":"//www.booking.com/city/us/panama-city-beach.html",
+      "title":"Nađi smeštaj u gradu: Panama City Beach"
+   },
+   {
+      "word":"Pariz",
+      "link":"//www.booking.com/city/fr/paris.html",
+      "title":"Nađi smeštaj u gradu: Pariz"
+   },
+   {
+      "word":"Penjiskola",
+      "link":"//www.booking.com/city/es/peniscola.html",
+      "title":"Nađi smeštaj u gradu: Penjiskola"
+   },
+   {
+      "word":"Pidžin Fordž",
+      "link":"//www.booking.com/city/us/pigeon-forge.html",
+      "title":"Nađi smeštaj u gradu: Pidžin Fordž"
+   },
+   {
+      "word":"Punta Umbría",
+      "link":"//www.booking.com/city/es/punta-umbria.html",
+      "title":"Nađi smeštaj u gradu: Punta Umbría"
+   },
+   {
+      "word":"Kvebek",
+      "link":"//www.booking.com/city/ca/quebec.html",
+      "title":"Nađi smeštaj u gradu: Kvebek"
+   },
+   {
+      "word":"Quedlinburg",
+      "link":"//www.booking.com/city/de/quedlinburg.html",
+      "title":"Nađi smeštaj u gradu: Quedlinburg"
+   },
+   {
+      "word":"Kito",
+      "link":"//www.booking.com/city/ec/quito.html",
+      "title":"Nađi smeštaj u gradu: Kito"
+   },
+   {
+      "word":"Ričione",
+      "link":"//www.booking.com/city/it/riccione-marina.html",
+      "title":"Nađi smeštaj u gradu: Ričione"
+   },
+   {
+      "word":"Rimini",
+      "link":"//www.booking.com/city/it/rimini.html",
+      "title":"Nađi smeštaj u gradu: Rimini"
+   },
+   {
+      "word":"Rio de Žaneiro",
+      "link":"//www.booking.com/city/br/rio-de-janeiro.html",
+      "title":"Nađi smeštaj u gradu: Rio de Žaneiro"
+   },
+   {
+      "word":"Rim",
+      "link":"//www.booking.com/city/it/rome.html",
+      "title":"Nađi smeštaj u gradu: Rim"
+   },
+   {
+      "word":"Roketas de Mar",
+      "link":"//www.booking.com/city/es/roquetas-de-mar.html",
+      "title":"Nađi smeštaj u gradu: Roketas de Mar"
+   },
+   {
+      "word":"Salou",
+      "link":"//www.booking.com/city/es/salou.html",
+      "title":"Nađi smeštaj u gradu: Salou"
+   },
+   {
+      "word":"Sevilja",
+      "link":"//www.booking.com/city/es/sevilla.html",
+      "title":"Nađi smeštaj u gradu: Sevilja"
+   },
+   {
+      "word":"Šarm El Šeik",
+      "link":"//www.booking.com/city/eg/sherm-el-sheikh.html",
+      "title":"Nađi smeštaj u gradu: Šarm El Šeik"
+   },
+   {
+      "word":"Singapur",
+      "link":"//www.booking.com/city/sg/singapore.html",
+      "title":"Nađi smeštaj u gradu: Singapur"
+   },
+   {
+      "word":"Stokholm",
+      "link":"//www.booking.com/city/se/stockholm.html",
+      "title":"Nađi smeštaj u gradu: Stokholm"
+   },
+   {
+      "word":"Torino",
+      "link":"//www.booking.com/city/it/torino.html",
+      "title":"Nađi smeštaj u gradu: Torino"
+   },
+   {
+      "word":"Toronto",
+      "link":"//www.booking.com/city/ca/toronto.html",
+      "title":"Nađi smeštaj u gradu: Toronto"
+   },
+   {
+      "word":"Torki",
+      "link":"//www.booking.com/city/gb/torquay.html",
+      "title":"Nađi smeštaj u gradu: Torki"
+   },
+   {
+      "word":"Toremolinos",
+      "link":"//www.booking.com/city/es/torremolinos.html",
+      "title":"Nađi smeštaj u gradu: Toremolinos"
+   },
+   {
+      "word":"Tybee Island",
+      "link":"//www.booking.com/city/us/tybee-island.html",
+      "title":"Nađi smeštaj u gradu: Tybee Island"
+   },
+   {
+      "word":"Umag",
+      "link":"//www.booking.com/city/hr/umag.html",
+      "title":"Nađi smeštaj u gradu: Umag"
+   },
+   {
+      "word":"Uzungöl",
+      "link":"//www.booking.com/city/tr/uzungol.html",
+      "title":"Nađi smeštaj u gradu: Uzungöl"
+   },
+   {
+      "word":"Valensija",
+      "link":"//www.booking.com/city/es/valencia.html",
+      "title":"Nađi smeštaj u gradu: Valensija"
+   },
+   {
+      "word":"Vankuver",
+      "link":"//www.booking.com/city/ca/vancouver.html",
+      "title":"Nađi smeštaj u gradu: Vankuver"
+   },
+   {
+      "word":"Varazze",
+      "link":"//www.booking.com/city/it/varazze.html",
+      "title":"Nađi smeštaj u gradu: Varazze"
+   },
+   {
+      "word":"Venecija",
+      "link":"//www.booking.com/city/it/venice.html",
+      "title":"Nađi smeštaj u gradu: Venecija"
+   },
+   {
+      "word":"Vijeste",
+      "link":"//www.booking.com/city/it/vieste.html",
+      "title":"Nađi smeštaj u gradu: Vijeste"
+   },
+   {
+      "word":"Virdžinija Bič",
+      "link":"//www.booking.com/city/us/virginia-beach.html",
+      "title":"Nađi smeštaj u gradu: Virdžinija Bič"
+   },
+   {
+      "word":"Varneminde",
+      "link":"//www.booking.com/city/de/warnemunde.html",
+      "title":"Nađi smeštaj u gradu: Varneminde"
+   },
+   {
+      "word":"Varšava",
+      "link":"//www.booking.com/city/pl/warsaw.html",
+      "title":"Nađi smeštaj u gradu: Varšava"
+   },
+   {
+      "word":"Vitbi",
+      "link":"//www.booking.com/city/gb/whitby-aireborough.html",
+      "title":"Nađi smeštaj u gradu: Vitbi"
+   },
+   {
+      "word":"Beč",
+      "link":"//www.booking.com/city/at/vienna.html",
+      "title":"Nađi smeštaj u gradu: Beč"
+   },
+   {
+      "word":"Wildwood",
+      "link":"//www.booking.com/city/us/wildwood.html",
+      "title":"Nađi smeštaj u gradu: Wildwood"
+   },
+   {
+      "word":"Yalta",
+      "link":"//www.booking.com/city/ua/yalta.html",
+      "title":"Nađi smeštaj u gradu: Yalta"
+   },
+   {
+      "word":"Yevpatoriya",
+      "link":"//www.booking.com/city/ua/yevpatoriya.html",
+      "title":"Nađi smeštaj u gradu: Yevpatoriya"
+   },
+   {
+      "word":"Zahara de los Atunes",
+      "link":"//www.booking.com/city/es/zahara-de-los-atunes.html",
+      "title":"Nađi smeštaj u gradu: Zahara de los Atunes"
+   },
+   {
+      "word":"Zakopane",
+      "link":"//www.booking.com/city/pl/zakopane.html",
+      "title":"Nađi smeštaj u gradu: Zakopane"
+   },
+   {
+      "word":"Zandfort",
+      "link":"//www.booking.com/city/nl/zandvoort.html",
+      "title":"Nađi smeštaj u gradu: Zandfort"
+   },
+   {
+      "word":"Saragosa",
+      "link":"//www.booking.com/city/es/zaragoza.html",
+      "title":"Nađi smeštaj u gradu: Saragosa"
+   },
+   {
+      "word":"Zatoka",
+      "link":"//www.booking.com/city/ua/zatoka.html",
+      "title":"Nađi smeštaj u gradu: Zatoka"
+   }
+]

@@ -1,0 +1,11 @@
+/* Public style */
+
+/*Tooltip*/
+.ui-tooltip {
+	background: #003580;
+	position: absolute;
+	z-index: 9999;
+	padding: 5px 10px;
+	color: white;
+	font: normal 11px "Arial", Sans-Serif;
+}

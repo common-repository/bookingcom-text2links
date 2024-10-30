@@ -1,0 +1,592 @@
+[
+   {
+      "word":"Ağva",
+      "link":"//www.booking.com/city/tr/yesilcay.html",
+      "title":"Etsi majoituspaikkoja kohteessa Ağva"
+   },
+   {
+      "word":"Al Madinah",
+      "link":"//www.booking.com/city/sa/medina.html",
+      "title":"Etsi majoituspaikkoja kohteessa Al Madinah"
+   },
+   {
+      "word":"Alicante",
+      "link":"//www.booking.com/city/es/alicante.html",
+      "title":"Etsi majoituspaikkoja kohteessa Alicante"
+   },
+   {
+      "word":"Amsterdam",
+      "link":"//www.booking.com/city/nl/amsterdam.html",
+      "title":"Etsi majoituspaikkoja kohteessa Amsterdam"
+   },
+   {
+      "word":"Atlantic City",
+      "link":"//www.booking.com/city/us/atlantic-city.html",
+      "title":"Etsi majoituspaikkoja kohteessa Atlantic City"
+   },
+   {
+      "word":"Barcelona",
+      "link":"//www.booking.com/city/es/barcelona.html",
+      "title":"Etsi majoituspaikkoja kohteessa Barcelona"
+   },
+   {
+      "word":"Benidorm",
+      "link":"//www.booking.com/city/es/benidorm.html",
+      "title":"Etsi majoituspaikkoja kohteessa Benidorm"
+   },
+   {
+      "word":"Berliini",
+      "link":"//www.booking.com/city/de/berlin.html",
+      "title":"Etsi majoituspaikkoja kohteessa Berliini"
+   },
+   {
+      "word":"Blackpool",
+      "link":"//www.booking.com/city/gb/blackpool.html",
+      "title":"Etsi majoituspaikkoja kohteessa Blackpool"
+   },
+   {
+      "word":"Brighton & Hove",
+      "link":"//www.booking.com/city/gb/brighton.html",
+      "title":"Etsi majoituspaikkoja kohteessa Brighton & Hove"
+   },
+   {
+      "word":"Cádiz",
+      "link":"//www.booking.com/city/es/cadiz.html",
+      "title":"Etsi majoituspaikkoja kohteessa Cádiz"
+   },
+   {
+      "word":"Caldas Novas",
+      "link":"//www.booking.com/city/br/caldas-novas.html",
+      "title":"Etsi majoituspaikkoja kohteessa Caldas Novas"
+   },
+   {
+      "word":"Campos do Jordão",
+      "link":"//www.booking.com/city/br/campos-do-jordao.html",
+      "title":"Etsi majoituspaikkoja kohteessa Campos do Jordão"
+   },
+   {
+      "word":"Cardiff",
+      "link":"//www.booking.com/city/gb/cardiff.html",
+      "title":"Etsi majoituspaikkoja kohteessa Cardiff"
+   },
+   {
+      "word":"Conil de la Frontera",
+      "link":"//www.booking.com/city/es/conil-de-la-frontera.html",
+      "title":"Etsi majoituspaikkoja kohteessa Conil de la Frontera"
+   },
+   {
+      "word":"Deauville",
+      "link":"//www.booking.com/city/fr/deauville-les-bains.html",
+      "title":"Etsi majoituspaikkoja kohteessa Deauville"
+   },
+   {
+      "word":"Destin",
+      "link":"//www.booking.com/city/us/destin.html",
+      "title":"Etsi majoituspaikkoja kohteessa Destin"
+   },
+   {
+      "word":"Dresden",
+      "link":"//www.booking.com/city/de/dresden.html",
+      "title":"Etsi majoituspaikkoja kohteessa Dresden"
+   },
+   {
+      "word":"Dubai",
+      "link":"//www.booking.com/city/ae/dubai.html",
+      "title":"Etsi majoituspaikkoja kohteessa Dubai"
+   },
+   {
+      "word":"Dublin",
+      "link":"//www.booking.com/city/ie/dublin.html",
+      "title":"Etsi majoituspaikkoja kohteessa Dublin"
+   },
+   {
+      "word":"Edinburgh",
+      "link":"//www.booking.com/city/gb/edinburgh.html",
+      "title":"Etsi majoituspaikkoja kohteessa Edinburgh"
+   },
+   {
+      "word":"Eilat",
+      "link":"//www.booking.com/city/il/elat.html",
+      "title":"Etsi majoituspaikkoja kohteessa Eilat"
+   },
+   {
+      "word":"El Puerto de Santa María",
+      "link":"//www.booking.com/city/es/el-puerto-de-santa-maria.html",
+      "title":"Etsi majoituspaikkoja kohteessa El Puerto de Santa María"
+   },
+   {
+      "word":"Estepona",
+      "link":"//www.booking.com/city/es/estepona.html",
+      "title":"Etsi majoituspaikkoja kohteessa Estepona"
+   },
+   {
+      "word":"Étretat",
+      "link":"//www.booking.com/city/fr/etretat.html",
+      "title":"Etsi majoituspaikkoja kohteessa Étretat"
+   },
+   {
+      "word":"Favignana",
+      "link":"//www.booking.com/city/it/favignana.html",
+      "title":"Etsi majoituspaikkoja kohteessa Favignana"
+   },
+   {
+      "word":"Firenze",
+      "link":"//www.booking.com/city/it/florence.html",
+      "title":"Etsi majoituspaikkoja kohteessa Firenze"
+   },
+   {
+      "word":"Fortaleza",
+      "link":"//www.booking.com/city/br/fortaleza.html",
+      "title":"Etsi majoituspaikkoja kohteessa Fortaleza"
+   },
+   {
+      "word":"Forte dei Marmi",
+      "link":"//www.booking.com/city/it/forte-dei-marmi.html",
+      "title":"Etsi majoituspaikkoja kohteessa Forte dei Marmi"
+   },
+   {
+      "word":"Fuengirola",
+      "link":"//www.booking.com/city/es/fuengirola.html",
+      "title":"Etsi majoituspaikkoja kohteessa Fuengirola"
+   },
+   {
+      "word":"Galveston",
+      "link":"//www.booking.com/city/us/galveston.html",
+      "title":"Etsi majoituspaikkoja kohteessa Galveston"
+   },
+   {
+      "word":"Gandía",
+      "link":"//www.booking.com/city/es/gandia.html",
+      "title":"Etsi majoituspaikkoja kohteessa Gandía"
+   },
+   {
+      "word":"Glasgow",
+      "link":"//www.booking.com/city/gb/glasgow.html",
+      "title":"Etsi majoituspaikkoja kohteessa Glasgow"
+   },
+   {
+      "word":"Göteborg",
+      "link":"//www.booking.com/city/se/goteborg.html",
+      "title":"Etsi majoituspaikkoja kohteessa Göteborg"
+   },
+   {
+      "word":"Gramado",
+      "link":"//www.booking.com/city/br/gramado-br.html",
+      "title":"Etsi majoituspaikkoja kohteessa Gramado"
+   },
+   {
+      "word":"Hampuri",
+      "link":"//www.booking.com/city/de/hamburg.html",
+      "title":"Etsi majoituspaikkoja kohteessa Hampuri"
+   },
+   {
+      "word":"Helsinki",
+      "link":"//www.booking.com/city/fi/helsinki.html",
+      "title":"Etsi majoituspaikkoja kohteessa Helsinki"
+   },
+   {
+      "word":"Hilton Head Island",
+      "link":"//www.booking.com/city/us/hilton-head-island.html",
+      "title":"Etsi majoituspaikkoja kohteessa Hilton Head Island"
+   },
+   {
+      "word":"Hongkong",
+      "link":"//www.booking.com/city/hk/hong-kong.html",
+      "title":"Etsi majoituspaikkoja kohteessa Hongkong"
+   },
+   {
+      "word":"Huelva",
+      "link":"//www.booking.com/city/es/huelva.html",
+      "title":"Etsi majoituspaikkoja kohteessa Huelva"
+   },
+   {
+      "word":"Ischia",
+      "link":"//www.booking.com/city/it/ischia.html",
+      "title":"Etsi majoituspaikkoja kohteessa Ischia"
+   },
+   {
+      "word":"Isla Canela",
+      "link":"//www.booking.com/city/es/isla-de-canela.html",
+      "title":"Etsi majoituspaikkoja kohteessa Isla Canela"
+   },
+   {
+      "word":"Islantilla",
+      "link":"//www.booking.com/city/es/islantilla.html",
+      "title":"Etsi majoituspaikkoja kohteessa Islantilla"
+   },
+   {
+      "word":"İstanbul",
+      "link":"//www.booking.com/city/tr/istanbul.html",
+      "title":"Etsi majoituspaikkoja kohteessa İstanbul"
+   },
+   {
+      "word":"İzmir",
+      "link":"//www.booking.com/city/tr/izmir.html",
+      "title":"Etsi majoituspaikkoja kohteessa İzmir"
+   },
+   {
+      "word":"Jasper",
+      "link":"//www.booking.com/city/ca/jasper.html",
+      "title":"Etsi majoituspaikkoja kohteessa Jasper"
+   },
+   {
+      "word":"Jávea",
+      "link":"//www.booking.com/city/es/javea.html",
+      "title":"Etsi majoituspaikkoja kohteessa Jávea"
+   },
+   {
+      "word":"Jedda",
+      "link":"//www.booking.com/city/sa/jiddah.html",
+      "title":"Etsi majoituspaikkoja kohteessa Jedda"
+   },
+   {
+      "word":"Jericoacoara",
+      "link":"//www.booking.com/city/br/jericoacoara.html",
+      "title":"Etsi majoituspaikkoja kohteessa Jericoacoara"
+   },
+   {
+      "word":"João Pessoa",
+      "link":"//www.booking.com/city/br/joao-pessoa.html",
+      "title":"Etsi majoituspaikkoja kohteessa João Pessoa"
+   },
+   {
+      "word":"Key West",
+      "link":"//www.booking.com/city/us/key-west.html",
+      "title":"Etsi majoituspaikkoja kohteessa Key West"
+   },
+   {
+      "word":"Köln",
+      "link":"//www.booking.com/city/de/cologne.html",
+      "title":"Etsi majoituspaikkoja kohteessa Köln"
+   },
+   {
+      "word":"Konstanz",
+      "link":"//www.booking.com/city/de/konstanz.html",
+      "title":"Etsi majoituspaikkoja kohteessa Konstanz"
+   },
+   {
+      "word":"Krakova",
+      "link":"//www.booking.com/city/pl/krakow.html",
+      "title":"Etsi majoituspaikkoja kohteessa Krakova"
+   },
+   {
+      "word":"Kuala Lumpur",
+      "link":"//www.booking.com/city/my/kuala-lumpur.html",
+      "title":"Etsi majoituspaikkoja kohteessa Kuala Lumpur"
+   },
+   {
+      "word":"Las Vegas",
+      "link":"//www.booking.com/city/us/las-vegas.html",
+      "title":"Etsi majoituspaikkoja kohteessa Las Vegas"
+   },
+   {
+      "word":"Leeds",
+      "link":"//www.booking.com/city/gb/leeds.html",
+      "title":"Etsi majoituspaikkoja kohteessa Leeds"
+   },
+   {
+      "word":"Lido di Jesolo",
+      "link":"//www.booking.com/city/it/lido-di-jesolo.html",
+      "title":"Etsi majoituspaikkoja kohteessa Lido di Jesolo"
+   },
+   {
+      "word":"Liverpool",
+      "link":"//www.booking.com/city/gb/liverpool.html",
+      "title":"Etsi majoituspaikkoja kohteessa Liverpool"
+   },
+   {
+      "word":"Lontoo",
+      "link":"//www.booking.com/city/gb/london.html",
+      "title":"Etsi majoituspaikkoja kohteessa Lontoo"
+   },
+   {
+      "word":"Madrid",
+      "link":"//www.booking.com/city/es/madrid.html",
+      "title":"Etsi majoituspaikkoja kohteessa Madrid"
+   },
+   {
+      "word":"Mekka",
+      "link":"//www.booking.com/city/sa/mecca.html",
+      "title":"Etsi majoituspaikkoja kohteessa Mekka"
+   },
+   {
+      "word":"Manchester",
+      "link":"//www.booking.com/city/gb/manchester.html",
+      "title":"Etsi majoituspaikkoja kohteessa Manchester"
+   },
+   {
+      "word":"München",
+      "link":"//www.booking.com/city/de/munich.html",
+      "title":"Etsi majoituspaikkoja kohteessa München"
+   },
+   {
+      "word":"Myrtle Beach",
+      "link":"//www.booking.com/city/us/myrtle-beach.html",
+      "title":"Etsi majoituspaikkoja kohteessa Myrtle Beach"
+   },
+   {
+      "word":"Nashville",
+      "link":"//www.booking.com/city/us/nashville.html",
+      "title":"Etsi majoituspaikkoja kohteessa Nashville"
+   },
+   {
+      "word":"New York",
+      "link":"//www.booking.com/city/us/new-york.html",
+      "title":"Etsi majoituspaikkoja kohteessa New York"
+   },
+   {
+      "word":"Newcastle upon Tyne",
+      "link":"//www.booking.com/city/gb/newcastle-upon-tyne.html",
+      "title":"Etsi majoituspaikkoja kohteessa Newcastle upon Tyne"
+   },
+   {
+      "word":"Nizza",
+      "link":"//www.booking.com/city/fr/nice.html",
+      "title":"Etsi majoituspaikkoja kohteessa Nizza"
+   },
+   {
+      "word":"Norderney",
+      "link":"//www.booking.com/city/de/norderney.html",
+      "title":"Etsi majoituspaikkoja kohteessa Norderney"
+   },
+   {
+      "word":"Ocean City",
+      "link":"//www.booking.com/city/us/ocean-city.html",
+      "title":"Etsi majoituspaikkoja kohteessa Ocean City"
+   },
+   {
+      "word":"Orange Beach",
+      "link":"//www.booking.com/city/us/orange-beach.html",
+      "title":"Etsi majoituspaikkoja kohteessa Orange Beach"
+   },
+   {
+      "word":"Orlando",
+      "link":"//www.booking.com/city/us/orlando.html",
+      "title":"Etsi majoituspaikkoja kohteessa Orlando"
+   },
+   {
+      "word":"Oropesa del Mar",
+      "link":"//www.booking.com/city/es/oropesa.html",
+      "title":"Etsi majoituspaikkoja kohteessa Oropesa del Mar"
+   },
+   {
+      "word":"Oxford",
+      "link":"//www.booking.com/city/gb/oxford.html",
+      "title":"Etsi majoituspaikkoja kohteessa Oxford"
+   },
+   {
+      "word":"Panama City Beach",
+      "link":"//www.booking.com/city/us/panama-city-beach.html",
+      "title":"Etsi majoituspaikkoja kohteessa Panama City Beach"
+   },
+   {
+      "word":"Pariisi",
+      "link":"//www.booking.com/city/fr/paris.html",
+      "title":"Etsi majoituspaikkoja kohteessa Pariisi"
+   },
+   {
+      "word":"Peñíscola",
+      "link":"//www.booking.com/city/es/peniscola.html",
+      "title":"Etsi majoituspaikkoja kohteessa Peñíscola"
+   },
+   {
+      "word":"Pigeon Forge",
+      "link":"//www.booking.com/city/us/pigeon-forge.html",
+      "title":"Etsi majoituspaikkoja kohteessa Pigeon Forge"
+   },
+   {
+      "word":"Punta Umbría",
+      "link":"//www.booking.com/city/es/punta-umbria.html",
+      "title":"Etsi majoituspaikkoja kohteessa Punta Umbría"
+   },
+   {
+      "word":"Quebec",
+      "link":"//www.booking.com/city/ca/quebec.html",
+      "title":"Etsi majoituspaikkoja kohteessa Quebec"
+   },
+   {
+      "word":"Quedlinburg",
+      "link":"//www.booking.com/city/de/quedlinburg.html",
+      "title":"Etsi majoituspaikkoja kohteessa Quedlinburg"
+   },
+   {
+      "word":"Quito",
+      "link":"//www.booking.com/city/ec/quito.html",
+      "title":"Etsi majoituspaikkoja kohteessa Quito"
+   },
+   {
+      "word":"Riccione",
+      "link":"//www.booking.com/city/it/riccione-marina.html",
+      "title":"Etsi majoituspaikkoja kohteessa Riccione"
+   },
+   {
+      "word":"Rimini",
+      "link":"//www.booking.com/city/it/rimini.html",
+      "title":"Etsi majoituspaikkoja kohteessa Rimini"
+   },
+   {
+      "word":"Rio de Janeiro",
+      "link":"//www.booking.com/city/br/rio-de-janeiro.html",
+      "title":"Etsi majoituspaikkoja kohteessa Rio de Janeiro"
+   },
+   {
+      "word":"Rooma",
+      "link":"//www.booking.com/city/it/rome.html",
+      "title":"Etsi majoituspaikkoja kohteessa Rooma"
+   },
+   {
+      "word":"Roquetas de Mar",
+      "link":"//www.booking.com/city/es/roquetas-de-mar.html",
+      "title":"Etsi majoituspaikkoja kohteessa Roquetas de Mar"
+   },
+   {
+      "word":"Salou",
+      "link":"//www.booking.com/city/es/salou.html",
+      "title":"Etsi majoituspaikkoja kohteessa Salou"
+   },
+   {
+      "word":"Sevilla",
+      "link":"//www.booking.com/city/es/sevilla.html",
+      "title":"Etsi majoituspaikkoja kohteessa Sevilla"
+   },
+   {
+      "word":"Sharm El Sheikh",
+      "link":"//www.booking.com/city/eg/sherm-el-sheikh.html",
+      "title":"Etsi majoituspaikkoja kohteessa Sharm El Sheikh"
+   },
+   {
+      "word":"Singapore",
+      "link":"//www.booking.com/city/sg/singapore.html",
+      "title":"Etsi majoituspaikkoja kohteessa Singapore"
+   },
+   {
+      "word":"Tukholma",
+      "link":"//www.booking.com/city/se/stockholm.html",
+      "title":"Etsi majoituspaikkoja kohteessa Tukholma"
+   },
+   {
+      "word":"Torino",
+      "link":"//www.booking.com/city/it/torino.html",
+      "title":"Etsi majoituspaikkoja kohteessa Torino"
+   },
+   {
+      "word":"Toronto",
+      "link":"//www.booking.com/city/ca/toronto.html",
+      "title":"Etsi majoituspaikkoja kohteessa Toronto"
+   },
+   {
+      "word":"Torquay",
+      "link":"//www.booking.com/city/gb/torquay.html",
+      "title":"Etsi majoituspaikkoja kohteessa Torquay"
+   },
+   {
+      "word":"Torremolinos",
+      "link":"//www.booking.com/city/es/torremolinos.html",
+      "title":"Etsi majoituspaikkoja kohteessa Torremolinos"
+   },
+   {
+      "word":"Tybee Island",
+      "link":"//www.booking.com/city/us/tybee-island.html",
+      "title":"Etsi majoituspaikkoja kohteessa Tybee Island"
+   },
+   {
+      "word":"Umag",
+      "link":"//www.booking.com/city/hr/umag.html",
+      "title":"Etsi majoituspaikkoja kohteessa Umag"
+   },
+   {
+      "word":"Uzungöl",
+      "link":"//www.booking.com/city/tr/uzungol.html",
+      "title":"Etsi majoituspaikkoja kohteessa Uzungöl"
+   },
+   {
+      "word":"Valencia",
+      "link":"//www.booking.com/city/es/valencia.html",
+      "title":"Etsi majoituspaikkoja kohteessa Valencia"
+   },
+   {
+      "word":"Vancouver",
+      "link":"//www.booking.com/city/ca/vancouver.html",
+      "title":"Etsi majoituspaikkoja kohteessa Vancouver"
+   },
+   {
+      "word":"Varazze",
+      "link":"//www.booking.com/city/it/varazze.html",
+      "title":"Etsi majoituspaikkoja kohteessa Varazze"
+   },
+   {
+      "word":"Venetsia",
+      "link":"//www.booking.com/city/it/venice.html",
+      "title":"Etsi majoituspaikkoja kohteessa Venetsia"
+   },
+   {
+      "word":"Vieste",
+      "link":"//www.booking.com/city/it/vieste.html",
+      "title":"Etsi majoituspaikkoja kohteessa Vieste"
+   },
+   {
+      "word":"Virginia Beach",
+      "link":"//www.booking.com/city/us/virginia-beach.html",
+      "title":"Etsi majoituspaikkoja kohteessa Virginia Beach"
+   },
+   {
+      "word":"Warnemünde",
+      "link":"//www.booking.com/city/de/warnemunde.html",
+      "title":"Etsi majoituspaikkoja kohteessa Warnemünde"
+   },
+   {
+      "word":"Varsova",
+      "link":"//www.booking.com/city/pl/warsaw.html",
+      "title":"Etsi majoituspaikkoja kohteessa Varsova"
+   },
+   {
+      "word":"Whitby",
+      "link":"//www.booking.com/city/gb/whitby-aireborough.html",
+      "title":"Etsi majoituspaikkoja kohteessa Whitby"
+   },
+   {
+      "word":"Wien",
+      "link":"//www.booking.com/city/at/vienna.html",
+      "title":"Etsi majoituspaikkoja kohteessa Wien"
+   },
+   {
+      "word":"Wildwood",
+      "link":"//www.booking.com/city/us/wildwood.html",
+      "title":"Etsi majoituspaikkoja kohteessa Wildwood"
+   },
+   {
+      "word":"Jalta",
+      "link":"//www.booking.com/city/ua/yalta.html",
+      "title":"Etsi majoituspaikkoja kohteessa Jalta"
+   },
+   {
+      "word":"Yevpatoriya",
+      "link":"//www.booking.com/city/ua/yevpatoriya.html",
+      "title":"Etsi majoituspaikkoja kohteessa Yevpatoriya"
+   },
+   {
+      "word":"Zahara de los Atunes",
+      "link":"//www.booking.com/city/es/zahara-de-los-atunes.html",
+      "title":"Etsi majoituspaikkoja kohteessa Zahara de los Atunes"
+   },
+   {
+      "word":"Zakopane",
+      "link":"//www.booking.com/city/pl/zakopane.html",
+      "title":"Etsi majoituspaikkoja kohteessa Zakopane"
+   },
+   {
+      "word":"Zandvoort",
+      "link":"//www.booking.com/city/nl/zandvoort.html",
+      "title":"Etsi majoituspaikkoja kohteessa Zandvoort"
+   },
+   {
+      "word":"Zaragoza",
+      "link":"//www.booking.com/city/es/zaragoza.html",
+      "title":"Etsi majoituspaikkoja kohteessa Zaragoza"
+   },
+   {
+      "word":"Zatoka",
+      "link":"//www.booking.com/city/ua/zatoka.html",
+      "title":"Etsi majoituspaikkoja kohteessa Zatoka"
+   }
+]
